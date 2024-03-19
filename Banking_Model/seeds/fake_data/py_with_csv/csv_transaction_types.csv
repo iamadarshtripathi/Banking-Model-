@@ -1,0 +1,21 @@
+TRANSACTION_TYPE_ID,TRANSACTION_TYPE,TRANSACTION_TYPE_DESCRIPTION
+14,TR,Transfer
+6,REV,Revenues
+3,PA,Payments
+12,CHK,Check
+2,PU,Purchases
+13,WI,Wire
+1,SA,Sales
+5,EX,Expenses
+10,DI,Dividends
+8,LO,Loans
+4,RE,Receipts
+7,IN,Investments
+11,ACH,ACH
+9,DE,Depreciation
+15,ZT,Zelle Transactions
+16,CM,Cash Management
+17,AM,Account Management
+18,RM,Risk Management
+19,HDF,Hard Dollar Fees
+20,WF,Waived Fees

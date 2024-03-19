@@ -1,0 +1,543 @@
+version: 2
+
+# This is the source for the schema STAGING.
+# Database name need to be chnaged according to your account
+sources:
+  - name: STAGING
+    schema: STAGING  
+    tables:
+      - name: CUSTOMERS
+      - name: ACCOUNTS
+      - name: ACCOUNT_TYPES
+      - name: ACH_TRANSACTIONS
+      - name: CHECK_TRANSACTIONS
+      - name: LOAN_ACCOUNTS
+      - name: LOAN_TRANSACTIONS
+      - name: TRANSACTIONS
+      - name: TRANSACTION_ACCOUNTS
+      - name: TRANSACTION_FORMATS
+      - name: TRANSACTION_ITEMS
+      - name: TRANSACTION_TYPES
+      - name: TRANSFER_TRANSACTIONS
+      - name: WIRE_TRANSACTIONS
+      - name: LOAN_DETAILS
+      - name: LOAN_TYPES
+      - name: ATM_CARD
+      - name: FIXED_DEPOSIT
+      - name: BRANCHES
+      - name: EMPLOYEES
+      - name: CHECK_BOOK
+      - name: COMMISSION_RATES
+      - name: LOAN_APPLICATIONS
+      - name: MORTGAGES_INFO
+      - name: REFINANCING_LOAN
+      - name: CUSTOMER_SATISFACTION
+      - name: AUTO_INFO
+      - name: TRANSFER_LOAN_DATA
+      - name: CIF_EXCEPTION
+      - name: ACCOUNT_EXCEPTION
+      - name: CAPITAL_EXPENDITURE
+      - name: DEPARTMENTS
+      - name: EXPENSE
+      - name: FIXED_ASSET
+      - name: SECURITIES
+      - name: RETAIL_PERFORMANCE
+      - name: BANK_DEBT
+      - name: NON_PERFORMING_LOAN
+      - name: CREDIT_RECOVERY
+      - name: FUND_RECOVERY
+      - name: UNINSURED_DEPOSITS
+      - name: ST_TRANSACTIONS
+      - name: ST_CUSTOMERS
+      - name: ST_CHECK_BOOK
+      - name: ST_ACCOUNTS
+      - name: ST_ACCOUNT_TYPES
+      - name: ST_EMPLOYEES
+      - name: ST_FIXED_DEPOSIT
+      - name: ST_LOAN_TYPES
+      - name: ST_LOAN_DETAILS
+      - name: ST_TRANSACTION_TYPES
+      - name: ST_ATM_CARD
+      - name: ST_BRANCHES
+      - name: ST_TRANSACTION_FORMATS
+      - name: ST_MAP_AUTO_LOAN
+      - name: ST_LOAN_APPLICATIONS
+      - name: ST_MORTGAGES_INFO
+      - name: ST_REFINANCING_LOAN
+      - name: ST_CUSTOMER_SATISFACTION
+      - name: ST_AUTO_INFO
+      - name: ST_TRANSFER_LOAN_DATA
+      - name: ST_ACCOUNT_APPLICATIONS
+      - name: ST_CIF_EXCEPTION
+      - name: ST_ACCOUNT_EXCEPTION
+      - name: ST_CARD_DETAILS
+      - name: ST_CAPITAL_EXPENDITURE
+      - name: ST_DEPARTMENTS
+      - name: ST_EXPENSE
+      - name: ST_FIXED_ASSET
+      - name: ST_SECURITIES
+      - name: ST_BANK_DEBT
+      - name: ST_NON_PERFORMING_LOAN
+      - name: ST_RETAIL_PERFORMANCE
+      - name: ST_CREDIT_RECOVERY
+      - name: ST_FUND_RECOVERY
+      - name: ST_UNINSURED_DEPOSITS
+      
+
+  - name: RAW
+    database: SCT_ATRIPATHI_DB     
+    schema: RAW  
+    tables:
+      - name: ST_LOAN_TYPES 
+      - name: ST_LOAN_TRANSACTION    
+
+  - name: REF
+    database: DEV_BANKING_ANALYTICS
+    schema: REF
+    tables:
+      - name: STATESABBREVATIONS    
+
+      
+
+     
+
+# This is the models for the files that are created on snowflake.
+
+models:
+  - name: raw_customers
+    description: "it is a model for Customer table"
+    columns:
+      - name: CUSTOMER_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+  
+
+  - name: raw_transactions
+    description: "it is a model for transaction table"
+    columns:
+      - name: TRANSACTION_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+
+  - name: raw_accounts
+    description: "it is a model for accounts table"
+    columns:
+      - name: ACCOUNT_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null    
+
+  - name: raw_account_types
+    description: "it is a model for account_types table"
+    columns:
+      - name: ACCOUNT_TYPE_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null    
+
+  - name: raw_transaction_formats
+    description: "it is a model for transaction_formats table"
+    columns:
+      - name: FORMAT_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null   
+
+  - name: raw_transaction_types
+    description: "it is a model for transaction_types table"
+    columns:
+      - name: TRANSACTION_TYPE_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null    
+
+  - name: raw_ach_transactions
+    description: "it is a model for ach transactions table"
+    columns:
+      - name: ACH_TRANSACTION_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null 
+
+  - name: raw_transfer_transactions
+    description: "it is a model for transfer transactions table"
+    columns:
+      - name: TRANSFER_TRANSACTION_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null 
+      - name: TRANSACTION_ID
+        description: "Foreign key for this table"
+        tests:
+          - unique
+          - not_null
+          - relationships:
+             to: "{{ ref('raw_transactions')}}"
+             field: TRANSACTION_ID
+
+  - name: raw_wire_transactions
+    description: "it is a model for wire transactions table"
+    columns:
+      - name: WIRE_TRANSACTION_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null 
+      - name: TRANSACTION_ID
+        description: "Foreign key for this table"
+        tests:
+          - unique
+          - not_null
+          - relationships:
+             to: "{{ ref('raw_transactions')}}"
+             field: TRANSACTION_ID
+
+  - name: raw_check_transactions
+    description: "it is a model for check transactions"
+    columns:
+      - name: CHECK_TRANSACTION_ID
+        description: "Primary key for this table"
+        tests:
+          - unique
+          - not_null
+      - name: TRANSACTION_ID
+        description: "Foreign key for this table"
+        tests:
+          - unique
+          - not_null
+          - relationships:
+              to: "{{ ref('raw_transactions')}}"
+              field: TRANSACTION_ID 
+ 
+    
+  - name: raw_loan_details
+    description: "it is a model for loan details table"
+    columns:
+      - name: LOAN_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null 
+      - name: ACCOUNT_NUMBER
+        description: "Foreign key for this table"
+        tests:
+          - not_null
+          - relationships:
+             to: "{{ref('raw_transactions')}}"
+             field: ACCOUNT_ID 
+      - name: LOAN_TYPE_ID
+        description: "Foreign key for this table"
+        tests:
+          - unique
+          - not_null
+          - relationships:
+             to: "{{ref('tfs_loan_types')}}"
+             field: LOAN_TYPE_ID 
+
+
+
+  - name: raw_loan_transactions
+    description: "it is a model for loan transactions table"
+    columns:
+      - name: LOAN_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null 
+      - name: ACCOUNT_ID
+        description: "Foreign key for this table"
+        tests:
+          - not_null
+          - relationships:
+             to: "{{ref('raw_transactions')}}"
+             field: ACCOUNT_ID 
+      - name: TRANSACTION_ID
+        description: "Foreign key for this table"
+        tests:
+          - unique
+          - not_null
+          - relationships:
+             to: "{{ref('raw_transactions')}}"
+             field: TRANSACTION_ID 
+
+
+
+  - name: raw_atm_card
+    description: "it is a model for atm_card table"
+    columns:
+      - name: CARD_NUMBER
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null   
+      
+
+  - name: raw_fixed_deposit
+    description: "it is a model for fixed deposit table"
+    columns:
+      - name: FD_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null 
+      - name: CUSTOMER_ID
+        description: "Foreign key for this table"
+        tests:
+          - not_null
+          - relationships:
+              to: "{{ ref('raw_customers')}}"
+              field: customer_id   
+
+  - name: raw_branches
+    description: "it is a model for branches table"
+    columns:
+      - name: BRANCH_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null 
+
+  - name: raw_employees
+    description: "it is a model for employees table"
+    columns:
+      - name: EMPLOYEE_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+      - name: BRANCH_ID
+        description: "Foreign key for this table"
+        tests:
+          - unique
+          - not_null
+          - relationships:
+              to: "{{ ref('raw_branches')}}"
+              field: branch_id 
+             
+  - name: raw_check_book
+    description: "it is a model for check book table"
+    columns:
+      - name: CUSTOMER_ID
+        description: "Foreign key for this table"
+        tests:
+          - unique
+          - not_null
+          - relationships:
+              to: "{{ ref('raw_customers')}}"
+              field: customer_id
+      - name: EMPLOYEE_ID
+        description: "Foreign key for this table"
+        tests:
+          - not_null
+          - relationships:
+              to: "{{ ref('raw_employee')}}"
+              field: employee_id        
+
+  - name: raw_commission_rates
+    description: "it is a model for commission rates table"
+    columns:
+      - name: COMMISSION_RATE_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null  
+
+  - name: raw_map_auto_loan
+    description: "it is a model for map_auto_loan"
+    columns:
+      - name: Loan_id
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null         
+
+  - name: raw_loan_applications
+    description: "it is a model for loan applications table"
+    columns:
+      - name: APPLICATION_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null  
+
+  - name: raw_auto_info
+    description: "it is a model for auto info table"
+    columns:
+      - name: AUTO_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null 
+
+  - name: raw_transfer_loan_data
+    description: "it is a model for transfer loan data table"
+    columns:
+      - name: TRANSFER_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null  
+
+  - name: raw_mortgages_info
+    description: "it is a model for mortgages info table"
+    columns:
+      - name: PROPERTY_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null  
+
+  - name: raw_refinancing_loan
+    description: "it is a model for refinancing loan table"
+    columns:
+      - name: REFINANCING_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null 
+
+  - name: raw_customer_satisfaction
+    description: "it is a model for transfer customer satisfaction table"
+    columns:
+      - name: SATISFACTION_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null 
+
+  - name: raw_account_applications
+    description: "it is a model for Customer table"
+    columns:
+      - name: ACCOUNT_APPLICATION_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null  
+
+  - name: raw_cif_exception
+    description: "it is a model for cif exception table"
+    columns:
+      - name: EXCEPTION_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null 
+
+  - name: raw_account_exception
+    description: "it is a model for account exception table"
+    columns:
+      - name: ACCOUNT_EXCEPTION_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null                   
+
+  - name: raw_capital_expenditure
+    description: "it is a model for capital expenditure table"
+    columns:
+      - name: EXPENDITURE_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+
+  - name: raw_departments
+    description: "it is a model for departments table"
+    columns:
+      - name: DEPARTMENT_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+
+  - name: raw_expense
+    description: "it is a model for expense table"
+    columns:
+      - name: EXPENSE_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+
+  - name: raw_fixed_asset
+    description: "it is a model for fixed asset table"
+    columns:
+      - name: ASSET_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null
+
+  - name: raw_securities
+    description: "it is a model for securities table"
+    columns:
+      - name: SECURITY_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null   
+
+  - name: raw_retail_performance
+    description: "it is a model for retail performance table "
+    columns:
+      - name: CUSTOMER_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null  
+
+  - name: raw_bank_debt
+    description: "it is a model for bank debt table"
+    columns:
+      - name: DEBT_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null   
+
+  - name: raw_non_performing_laon
+    description: "it is a model for non performing laon table"
+    columns:
+      - name: NON_PERFORMING_LOAN_ID
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null                                          
+          
+  - name: raw_credit_recovery
+    description: "it is a model for credit recovery table"
+    columns:
+      - name: CREDIT_INDEX
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null     
+
+  - name: raw_fund_recovery
+    description: "it is a model for fund recovery table"
+    columns:
+      - name: COLLECTED
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null    
+
+  - name: raw_uninsured_deposits
+    description: "it is a model for uninsured deposits table"
+    columns:
+      - name: COLLECTED
+        description: "The primary key for this table"
+        tests:
+          - unique
+          - not_null   
+                 

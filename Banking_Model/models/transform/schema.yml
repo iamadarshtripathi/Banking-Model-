@@ -1,0 +1,29 @@
+version: 2
+
+# This is the source for the schema RAW.
+# Database name need to be chnaged according to your account
+sources:
+  - name: RAW
+    schema: RAW  
+    tables:
+      - name: RAW_CUSTOMERS
+      - name: RAW_ACCOUNTS
+      - name: RAW_ACCOUNT_TYPES
+      - name: RAW_ACH_TRANSACTIONS
+      - name: RAWCHECK_TRANSACTIONS
+      - name: RAW_LOAN_TRANSACTIONS
+      - name: RAW_TRANSACTIONS
+      - name: RAW_TRANSACTION_FORMATS
+      - name: RAW_TRANSACTION_ITEMS
+      - name: RAW_TRANSACTION_TYPES
+      - name: RAW_TRANSFER_TRANSACTIONS
+      - name: RAW_WIRE_TRANSACTIONS
+      - name: RAW_LOAN_DETAILS
+      - name: RAW_ATM_CARD
+      - name: RAW_FIXED_DEPOSIT
+      - name: RAW_BRANCHES
+      - name: RAW_EMPLOYEES
+      - name: RAW_CHECK_BOOK
+      - name: RAW_COMMISSION_RATES
+  
+# This is the models for the files that are created on snowflake.

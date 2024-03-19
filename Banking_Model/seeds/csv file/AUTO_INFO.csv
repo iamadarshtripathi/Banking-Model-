@@ -1,0 +1,376 @@
+auto_id,brand,model,price
+1,Acura,ILX,6300
+2,Acura,MDX,2899
+3,Acura,MDX Sport Hybrid,5350
+4,Acura,NSX,25000
+5,Acura,RDX,27700
+6,Acura,RLX,5700
+7,Acura,RLX Sport Hybrid,7300
+8,Acura,TLX,13350
+9,Alfa Romeo,4C Spider,14600
+10,Alfa Romeo,Giulia,5250
+11,Alfa Romeo,Stelvio,10400
+12,Audi,A3,12920
+13,Audi,A4,31900
+14,Audi,A5,5430
+15,Audi,A6,20700
+16,Audi,A6 allroad,12710
+17,Audi,A7,5200
+18,Audi,Q3,16500
+19,Audi,Q5,5210
+20,Audi,Q7,38100
+21,Audi,Q8,12520
+22,Audi,R8,7300
+23,Audi,S4,15000
+24,Audi,S8,6180
+25,Audi,SQ5,20800
+26,Audi,TT,11900
+27,BMW,2 Series,21500
+28,BMW,3 Series,12000
+29,BMW,4 Series,4190
+30,BMW,5 Series,13000
+31,BMW,7 Series,12710
+32,BMW,8 Series,18500
+33,BMW,M2,29800
+34,BMW,X1,5330
+35,BMW,X2,13000
+36,BMW,X3,11900
+37,BMW,X3 M,16600
+38,BMW,X4,19200
+39,BMW,X5,7320
+40,BMW,X6,7000
+41,BMW,X7,12710
+42,BMW,Z4,16600
+43,Buick,Enclave,30500
+44,Buick,Encore,6330
+45,Buick,Encore GX,55000
+46,Buick,Envision,12520
+47,Buick,Regal Sportback,16200
+48,Buick,Regal TourX,19000
+49,Cadillac,CT4,5580
+50,Cadillac,CT5,54000
+51,Cadillac,CT6,12710
+52,Cadillac,CT6-V,16000
+53,Cadillac,Escalade,27000
+54,Cadillac,Escalade ESV,7760
+55,Cadillac,XT4,19600
+56,Cadillac,XT5,12920
+57,Cadillac,XT6,20000
+58,Chevrolet,Blazer,18100
+59,Chevrolet,Bolt EV,23000
+60,Chevrolet,Camaro,18500
+61,Chevrolet,Colorado Crew Cab,13490
+62,Chevrolet,Colorado Extended Cab,20700
+63,Chevrolet,Corvette,17800
+64,Chevrolet,Equinox,6650
+65,Chevrolet,Express 2500 Cargo,29100
+66,Chevrolet,Express 3500 Cargo,12710
+67,Chevrolet,Impala,21100
+68,Chevrolet,Malibu,18600
+69,Chevrolet,Silverado 1500 Crew Cab,4340
+70,Chevrolet,Silverado 1500 Double Cab,19300
+71,Chevrolet,Silverado 1500 Regular Cab,12780
+72,Chevrolet,Silverado 2500 HD Crew Cab,15800
+73,Chevrolet,Silverado 2500 HD Double Cab,29400
+74,Chevrolet,Silverado 3500 HD Crew Cab,4430
+75,Chevrolet,Sonic,19400
+76,Chevrolet,Spark,12520
+77,Chevrolet,Suburban,15900
+78,Chevrolet,Tahoe,26400
+79,Chevrolet,Traverse,4140
+80,Chevrolet,Trax,18300
+81,Chrysler,300,12520
+82,Chrysler,Pacifica,17900
+83,Chrysler,Pacifica Hybrid,18300
+84,Chrysler,Voyager,4640
+85,Dodge,Challenger,24000
+86,Dodge,Charger,13200
+87,Dodge,Durango,18000
+88,Dodge,Grand Caravan Passenger,14900
+89,Dodge,Journey,4140
+90,FIAT,124 Spider,11500
+91,FIAT,500L,9110
+92,FIAT,500X,7350
+93,Ford,EcoSport,24500
+94,Ford,Edge,9300
+95,Ford,Escape,39800
+96,Ford,Expedition,53500
+97,Ford,Expedition MAX,15110
+98,Ford,Explorer,34000
+99,Ford,F150 Regular Cab,26502
+100,Ford,F150 Super Cab,5990
+101,Ford,F150 SuperCrew Cab,13600
+102,Ford,F250 Super Duty Crew Cab,23605
+103,Ford,F250 Super Duty Regular Cab,10780
+104,Ford,F250 Super Duty Super Cab,13800
+105,Ford,F350 Super Duty Crew Cab,25201
+106,Ford,F350 Super Duty Super Cab,7070
+107,Ford,F450 Super Duty Crew Cab,8700
+108,Ford,Fusion,18003
+109,Ford,Fusion Plug-in Hybrid,8530
+110,Ford,Mustang,23100
+111,Ford,Ranger SuperCab,24500
+112,Ford,Ranger SuperCrew,7000
+113,Ford,Transit 250 Cargo Van,17000
+114,Ford,Transit 350 Passenger Van,34002
+115,Ford,Transit Connect Cargo Van,6980
+116,Ford,Transit Connect Passenger Wagon,25000
+117,Freightliner,Sprinter 1500 Cargo,20802
+118,Freightliner,Sprinter 1500 Passenger,9200
+119,Freightliner,Sprinter 2500 Cargo,26500
+120,Freightliner,Sprinter 2500 Crew,24802
+121,Freightliner,Sprinter 2500 Passenger,7070
+122,Freightliner,Sprinter 3500 Cargo,28500
+123,Freightliner,Sprinter 3500 Crew,47500
+124,Freightliner,Sprinter 3500 XD Crew,23500
+125,Freightliner,Sprinter 3500XD Cargo,23505
+126,Freightliner,Sprinter 4500 Cargo,10940
+127,Freightliner,Sprinter 4500 Crew,32100
+128,Genesis,G70,53000
+129,Genesis,G80,6830
+130,Genesis,G90,11900
+131,GMC,Acadia,26414
+132,GMC,Canyon Crew Cab,4160
+133,GMC,Sierra 1500 Crew Cab,19405
+134,GMC,Sierra 1500 Double Cab,5690
+135,GMC,Sierra 1500 Regular Cab,25900
+136,GMC,Sierra 2500 HD Crew Cab,24005
+137,GMC,Sierra 3500 HD Crew Cab,5090
+138,GMC,Terrain,19500
+139,GMC,Yukon,32012
+140,GMC,Yukon XL,6800
+141,Honda,Accord,4260
+142,Honda,Accord Hybrid,9000
+143,Honda,Civic,31802
+144,Honda,Civic Type R,7210
+145,Honda,Clarity Fuel Cell,8000
+146,Honda,Clarity Plug-in Hybrid,28402
+147,Honda,CR-V,6800
+148,Honda,CR-V Hybrid,33300
+149,Honda,Fit,10780
+150,Honda,HR-V,6700
+151,Honda,Insight,20000
+152,Honda,Odyssey,6440
+153,Honda,Passport,19900
+154,Honda,Pilot,37000
+155,Honda,Ridgeline,4040
+156,Hyundai,Accent,22300
+157,Hyundai,Elantra,31200
+158,Hyundai,Elantra GT,4290
+159,Hyundai,Ioniq Electric,22800
+160,Hyundai,Ioniq Hybrid,19002
+161,Hyundai,Ioniq Plug-in Hybrid,4160
+162,Hyundai,Kona,18500
+163,Hyundai,Kona Electric,39000
+164,Hyundai,NEXO,6060
+165,Hyundai,Palisade,28800
+166,Hyundai,Santa Fe,40000
+167,Hyundai,Sonata,6140
+168,Hyundai,Sonata Hybrid,21000
+169,Hyundai,Tucson,20105
+170,Hyundai,Veloster,6760
+171,Hyundai,Venue,25800
+172,INFINITI,Q50,39000
+173,INFINITI,Q60,5470
+174,INFINITI,QX50,14600
+175,INFINITI,QX60,24502
+176,INFINITI,QX80,15110
+177,Jaguar,E-PACE,7900
+178,Jaguar,F-PACE,27305
+179,Jaguar,F-TYPE,15290
+180,Jaguar,I-PACE,26500
+181,Jaguar,XE,25502
+182,Jaguar,XF,7320
+183,Jeep,Cherokee,3800
+184,Jeep,Compass,24502
+185,Jeep,Gladiator,4140
+186,Jeep,Grand Cherokee,1400
+187,Jeep,Renegade,18402
+188,Jeep,Wrangler,4160
+189,Jeep,Wrangler Unlimited,27877
+190,Kia,Cadenza,24503
+191,Kia,Forte,15840
+192,Kia,K900,20500
+193,Kia,Niro,21003
+194,Kia,Niro EV,12343
+195,Kia,Niro Plug-in Hybrid,17400
+196,Kia,Optima,32001
+197,Kia,Optima Hybrid,78000
+198,Kia,Optima Plug-in Hybrid,15700
+199,Kia,Rio,31009
+200,Kia,Sedona,3740
+201,Kia,Sorento,5000
+202,Kia,Soul,31002
+203,Kia,Sportage,3160
+204,Kia,Stinger,8600
+205,Kia,Telluride,6000
+206,Land Rover,Defender 110,12990
+207,Land Rover,Defender 90,900000
+208,Land Rover,Discovery,13200
+209,Land Rover,Discovery Sport,4410
+210,Land Rover,Range Rover,350000
+211,Land Rover,Range Rover Evoque,22500
+212,Land Rover,Range Rover Sport,34000
+213,Land Rover,Range Rover Velar,13500
+214,Lexus,ES,15500
+215,Lexus,GS,3540
+216,Lexus,GX,17000
+217,Lexus,IS,45500
+218,Lexus,LC,4130
+219,Lexus,LS,15700
+220,Lexus,LX,45500
+221,Lexus,NX,4130
+222,Lexus,RC,15500
+223,Lexus,RX,16300
+224,Lexus,UX,4530
+225,Lincoln,Aviator,15600
+226,Lincoln,Continental,45500
+227,Lincoln,Corsair,4100
+228,Lincoln,MKZ,18200
+229,Lincoln,Nautilus,10200
+230,Lincoln,Navigator,4080
+231,Lincoln,Navigator L,5700
+232,MAZDA,CX-3,10200
+233,MAZDA,CX-30,5000
+234,MAZDA,CX-5,98790
+235,MAZDA,CX-9,6200
+236,MAZDA,MAZDA3,3650
+237,MAZDA,MAZDA6,10500
+238,MAZDA,MX-5 Miata,43500
+239,MAZDA,MX-5 Miata RF,4610
+240,Mercedes-Benz,A-Class,3450
+241,Mercedes-Benz,C-Class,38500
+242,Mercedes-Benz,CLA,6810
+243,Mercedes-Benz,CLS,2900
+244,Mercedes-Benz,E-Class,43500
+245,Mercedes-Benz,G-Class,4450
+246,Mercedes-Benz,GLA,5800
+247,Mercedes-Benz,GLB,16500
+248,Mercedes-Benz,GLC,4240
+249,Mercedes-Benz,GLE,26500
+250,Mercedes-Benz,GLS,13700
+251,Mercedes-Benz,Mercedes-AMG A-Class,8600
+252,Mercedes-Benz,Mercedes-AMG C-Class,8000
+253,Mercedes-Benz,Mercedes-AMG CLS,14200
+254,Mercedes-Benz,Mercedes-AMG GLC,7040
+255,Mercedes-Benz,Mercedes-AMG GLC Coupe,4700
+256,Mercedes-Benz,Metris WORKER Cargo,30851
+257,Mercedes-Benz,Metris WORKER Passenger,4880
+258,Mercedes-Benz,S-Class,14500
+259,Mercedes-Benz,SLC,7600
+260,Mercedes-Benz,Sprinter 1500 Cargo,13270
+261,Mercedes-Benz,Sprinter 1500 Passenger,12800
+262,Mercedes-Benz,Sprinter 2500 Cargo,33000
+263,Mercedes-Benz,Sprinter 2500 Crew,9280
+264,Mercedes-Benz,Sprinter 2500 Passenger,90000
+265,Mercedes-Benz,Sprinter 3500 Cargo,7560
+266,Mercedes-Benz,Sprinter 3500 Crew,19500
+267,Mercedes-Benz,Sprinter 3500 XD Cargo,17100
+268,Mercedes-Benz,Sprinter 3500 XD Crew,8020
+269,Mercedes-Benz,Sprinter 4500 Cargo,10300
+270,Mercedes-Benz,Sprinter 4500 Crew,22600
+271,MINI,Clubman,10480
+272,MINI,Countryman,10300
+273,MINI,Hardtop 2 Door,22700
+274,MINI,Hardtop 4 Door,7410
+275,Mitsubishi,Eclipse Cross,10300
+276,Mitsubishi,Mirage,10300
+277,Mitsubishi,Mirage G4,7570
+278,Mitsubishi,Outlander,67000
+279,Mitsubishi,Outlander PHEV,18900
+280,Mitsubishi,Outlander Sport,12560
+281,Nissan,370Z,33000
+282,Nissan,Altima,18300
+283,Nissan,Armada,11760
+284,Nissan,Frontier Crew Cab,31700
+285,Nissan,Frontier King Cab,7800
+286,Nissan,GT-R,7800
+287,Nissan,Kicks,7340
+288,Nissan,LEAF,8200
+289,Nissan,Maxima,3000
+290,Nissan,Murano,6530
+291,Nissan,NV1500 Cargo,67000
+292,Nissan,NV200,12700
+293,Nissan,NV2500 HD Cargo,13800
+294,Nissan,NV3500 HD Cargo,9800
+295,Nissan,NV3500 HD Passenger,35000
+296,Nissan,Pathfinder,7400
+297,Nissan,Rogue,9800
+298,Nissan,Rogue Sport,8900
+299,Nissan,Sentra,4400
+300,Nissan,Titan Crew Cab,10330
+301,Nissan,Titan King Cab,1800
+302,Nissan,TITAN XD Crew Cab,9000
+303,Nissan,Versa,72000
+304,Porsche,718 Boxster,22800
+305,Porsche,718 Cayman,2500
+306,Porsche,718 Spyder,80000
+307,Porsche,911,9190
+308,Porsche,Cayenne,10900
+309,Porsche,Cayenne Coupe,10400
+310,Porsche,Macan,80000
+311,Porsche,Panamera,9800
+312,Porsche,Taycan,7320
+313,Ram,1500 Classic Crew Cab,22809
+314,Ram,1500 Classic Quad Cab,7800
+315,Ram,1500 Crew Cab,87000
+316,Ram,1500 Quad Cab,5520
+317,Ram,2500 Crew Cab,10900
+318,Ram,3500 Crew Cab,6330
+319,Ram,ProMaster Cargo Van,6700
+320,Ram,ProMaster City,4500
+321,Subaru,Ascent,2320
+322,Subaru,BRZ,23702
+323,Subaru,Crosstrek,87000
+324,Subaru,Forester,90879
+325,Subaru,Impreza,5520
+326,Subaru,Legacy,4050
+327,Subaru,Outback,14810
+328,Subaru,WRX,56000
+329,Tesla,Model 3,2960
+330,Tesla,Model S,24800
+331,Tesla,Model X,78000
+332,Tesla,Model Y,6560
+333,Toyota,4Runner,6270
+334,Toyota,86,1880
+335,Toyota,Avalon,10050
+336,Toyota,Avalon Hybrid,78000
+337,Toyota,Camry,26900
+338,Toyota,Camry Hybrid,1420
+339,Toyota,C-HR,27003
+340,Toyota,Corolla,65000
+341,Toyota,Corolla Hatchback,350
+342,Toyota,Corolla Hybrid,5600
+343,Toyota,GR Supra,6680
+344,Toyota,Highlander,10120
+345,Toyota,Highlander Hybrid,67000
+346,Toyota,Land Cruiser,3920
+347,Toyota,Mirai,23100
+348,Toyota,Prius,98000
+349,Toyota,Prius Prime,78987
+350,Toyota,RAV4,98000
+351,Toyota,RAV4 Hybrid,2800
+352,Toyota,Sequoia,78000
+353,Toyota,Sienna,8850
+354,Toyota,Tacoma Access Cab,18712
+355,Toyota,Tacoma Double Cab,89000
+356,Toyota,Tundra CrewMax,87000
+357,Toyota,Tundra Double Cab,6300
+358,Toyota,Yaris,2220
+359,Toyota,Yaris Hatchback,6930
+360,Volkswagen,Arteon,76000
+361,Volkswagen,Atlas,3440
+362,Volkswagen,Atlas Cross Sport,50412
+363,Volkswagen,Golf,54000
+364,Volkswagen,Golf GTI,78000
+365,Volkswagen,Jetta,9270
+366,Volkswagen,Jetta GLI,11380
+367,Volkswagen,Passat,5350
+368,Volkswagen,Tiguan,2725
+369,Volvo,S60,3790
+370,Volvo,S90,40514
+371,Volvo,V60,870000
+372,Volvo,V90,500000
+373,Volvo,XC40,98006
+374,Volvo,XC60,10330
+375,Volvo,XC90,78000

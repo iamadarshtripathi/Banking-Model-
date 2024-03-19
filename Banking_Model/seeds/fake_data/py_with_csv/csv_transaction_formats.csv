@@ -1,0 +1,8 @@
+FORMAT_ID,FORMAT_TYPE,FORMAT_DESCRIPTION
+4,JE,Journal Entries
+6,NMT,Non-Monetary Transaction
+5,ET,Electronic Transaction
+2,ST,Sales Transaction
+3,PT,Purchase Transaction
+1,CT,Credit Transaction
+7,SF,Service Fees

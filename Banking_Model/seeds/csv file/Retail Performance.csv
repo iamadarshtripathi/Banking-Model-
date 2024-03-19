@@ -1,0 +1,1001 @@
+Customer ID,Date_col,Location,Customers,Units,Balance,Loan Applications,Overtime Hours,Overtime in Dollars,Turn Over Rate,Employee Name,Product Type,Revenue,Credit Card Decision Status,Credit Card Type,Deposit Account Status,Account Number
+1,1/18/2023,Michigan,Duncan Sutton,5901,5006663,2,10,727,1,Dean England,Unsecured,-1262264,Approved,Consumer,Non-Interest Bearing,88029016
+2,7/23/2022,Kansas,Willow Cleveland,2439,4779481,4,21,696,8,Odysseus Whitney,ED Loan,-1266181,Declined,Consumer,Non-Interest Bearing,80291885
+3,10/5/2022,Kentucky,Ramona Poole,6978,3290667,3,13,1379,5,Coby Burris,Auto Loan,-1634310,Withdrawn,Consumer,Non-Interest Bearing,89445581
+4,6/6/2023,Oklahoma,Brady Espinoza,6412,7128572,3,15,836,3,Jael Gilmore,ATV,-1410630,Approved,Consumer,Non-Interest Bearing,91875437
+5,11/9/2022,Minnesota,Patience Brennan,7234,2949575,4,2,867,1,Jin Nunez,ATV,-1006210,Declined,Consumer,Non-Interest Bearing,79494713
+6,10/26/2022,Colorado,Ivory Boyle,6976,6008180,4,10,932,3,Samantha Garcia,ATV,-842141,Withdrawn,Consumer,Non-Interest Bearing,95636678
+7,8/28/2022,Florida,Tiger Diaz,9525,7135519,3,10,981,1,Samantha Garcia,ATV,-1505170,Approved,Consumer,Non-Interest Bearing,59539198
+8,2/26/2022,Alaska,Nicole Whitley,4347,4507836,0,16,1034,1,Samantha Garcia,ATV,-1669305,Declined,Consumer,Non-Interest Bearing,78527256
+9,10/25/2022,Michigan,Yen Clark,5646,7788872,2,5,792,4,Samantha Garcia,ATV,-653859,Withdrawn,Consumer,Non-Interest Bearing,90246650
+10,7/18/2023,Hawaii,Jared Cameron,3695,7340818,1,18,882,6,Samantha Garcia,ATV,-1143590,Approved,Consumer,Non-Interest Bearing,88095212
+11,11/26/2021,Nevada,Asher Campos,6162,6266322,5,4,1182,1,Samantha Garcia,ATV,-824866,Declined,Consumer,Non-Interest Bearing,77690597
+12,12/21/2022,Maryland,Branden Calhoun,3275,6208973,4,21,1306,1,Samantha Garcia,ATV,-557852,Withdrawn,Consumer,Non-Interest Bearing,59306357
+13,8/29/2023,Pennsylvania,Karen Bass,6665,6981660,0,12,1497,1,Samantha Garcia,ATV,-1586201,Approved,Consumer,Non-Interest Bearing,79996766
+14,4/4/2022,Missouri,Josephine Sampson,2480,7287579,3,7,1022,1,Samantha Garcia,ATV,-403563,Declined,Consumer,Non-Interest Bearing,93242830
+15,1/12/2023,Mississippi,Graiden Flowers,3125,8882894,1,5,1320,3,Samantha Garcia,ATV,-1107689,Withdrawn,Consumer,Non-Interest Bearing,86520567
+16,3/3/2022,Arkansas,Chastity Dorsey,6734,2327966,3,2,1220,2,Samantha Garcia,ATV,-724358,Approved,Consumer,Non-Interest Bearing,84305896
+17,4/27/2023,Nebraska,Echo Young,7666,1296279,4,20,777,6,Samantha Garcia,ATV,-1747133,Declined,Consumer,Non-Interest Bearing,87797767
+18,5/5/2022,Utah,Keane Stevenson,8844,3804066,4,9,870,1,Samantha Garcia,ATV,-556843,Withdrawn,Consumer,Non-Interest Bearing,77258466
+19,1/3/2022,Pennsylvania,Nomlanga Coffey,1598,4688994,3,19,104,8,Samantha Garcia,ATV,-1747914,Approved,Consumer,Non-Interest Bearing,80446896
+20,7/29/2022,Arkansas,Troy Wilson,7572,3248372,3,4,141,2,Samantha Garcia,ATV,-1473807,Declined,Consumer,Non-Interest Bearing,96693712
+21,11/9/2022,Kansas,Lucius Benjamin,9181,6435315,5,10,82,7,Samantha Garcia,ATV,-266049,Withdrawn,Consumer,Non-Interest Bearing,89365878
+22,1/18/2022,Illinois,Kermit Holt,2232,8686303,1,16,782,1,Samantha Garcia,ATV,-613737,Approved,Consumer,Non-Interest Bearing,67209770
+23,1/21/2022,Georgia,Len Smith,4033,6360389,3,10,847,1,Samantha Garcia,ATV,-1375252,Declined,Consumer,Non-Interest Bearing,96507275
+24,8/8/2022,Mississippi,Ross Joyner,2063,2379276,4,8,821,2,Samantha Garcia,ATV,-615254,Withdrawn,Consumer,Non-Interest Bearing,77469229
+25,7/30/2023,Montana,Wynne Chavez,1971,2651374,4,4,179,6,Samantha Garcia,ATV,-566601,Approved,Consumer,Non-Interest Bearing,62823473
+26,7/21/2022,Maryland,Keefe Vance,2454,1530081,4,23,729,1,Samantha Garcia,ATV,-958062,Declined,Consumer,Non-Interest Bearing,94335508
+27,6/30/2023,Indiana,Dante Sawyer,5692,8581969,3,19,1377,2,Jin Nunez,ATV,-1554364,Withdrawn,Consumer,Non-Interest Bearing,71279938
+28,3/20/2023,Montana,Reed Bryant,3097,3260529,1,8,551,5,Samantha Garcia,ATV,-525682,Approved,Consumer,Non-Interest Bearing,65295194
+29,3/1/2022,Hawaii,Owen Walters,3353,4074900,3,22,100,1,Veda Melendez,ATV,-1358459,Declined,Consumer,Non-Interest Bearing,84142977
+30,1/5/2022,Washington,Acton Wright,2157,3501603,0,7,1227,2,Meghan Small,ATV,-1516894,Withdrawn,Consumer,Non-Interest Bearing,92481488
+31,11/16/2022,Indiana,Rebekah Baker,4317,2024519,3,2,1025,5,Dominique Vargas,ATV,-770096,Approved,Consumer,Non-Interest Bearing,77527698
+32,1/6/2023,Vermont,Keith Richardson,1476,6256681,1,15,225,1,Wang Pearson,ATV,-1716124,Declined,Consumer,Non-Interest Bearing,90397693
+33,3/18/2022,Maryland,Calista Vinson,7553,5361990,1,8,1200,3,Tanisha Mccray,ATV,-196372,Withdrawn,Consumer,Non-Interest Bearing,69396556
+34,3/16/2023,Pennsylvania,Jonah Stone,6028,9006536,2,15,463,0,Samuel Manning,ATV,-1205828,Approved,Consumer,Non-Interest Bearing,78301286
+35,8/19/2022,Kentucky,Cailin Underwood,2059,6468631,3,16,231,3,Odette Pierce,ATV,-1808003,Declined,Consumer,Non-Interest Bearing,89882346
+36,8/10/2022,Georgia,Eliana Gutierrez,9520,8684565,3,1,113,2,Talon Harris,ATV,-1414572,Withdrawn,Consumer,Non-Interest Bearing,58466613
+37,7/14/2022,Virginia,Michael Whitaker,7754,3117563,4,14,523,1,Jaime Larson,ATV,-1660034,Approved,Consumer,Non-Interest Bearing,85113125
+38,4/14/2023,Minnesota,Dorothy Abbott,7980,7456689,2,19,1022,7,Dean England,ATV,-1161516,Declined,Consumer,Non-Interest Bearing,82190843
+39,3/6/2023,Delaware,Jada Guerrero,4252,3145048,4,19,882,1,Dean England,ATV,-1196433,Withdrawn,Consumer,Non-Interest Bearing,63094997
+40,5/30/2023,Alabama,Vivian Edwards,5828,4839993,3,14,1060,8,Dean England,ATV,-629750,Approved,Consumer,Non-Interest Bearing,84784711
+41,12/19/2022,Maryland,Winifred Roman,3949,5185333,1,10,468,1,Dean England,ATV,-1321987,Declined,Consumer,Non-Interest Bearing,84794405
+42,7/9/2022,Hawaii,Russell Decker,6675,3429133,1,20,298,4,Dean England,ATV,-1067475,Withdrawn,Consumer,Non-Interest Bearing,70201474
+43,4/22/2023,Tennessee,Quail Good,5730,4490071,0,7,1458,3,Dean England,ATV,-644413,Approved,Consumer,Non-Interest Bearing,74992445
+44,6/20/2023,Montana,Arthur Bray,8481,1510701,0,19,106,0,Dean England,ATV,-207293,Declined,Consumer,Non-Interest Bearing,82282059
+45,4/8/2023,Arkansas,Lael Ayala,3374,8599710,2,7,428,7,Dean England,ATV,-950466,Withdrawn,Consumer,Non-Interest Bearing,66437127
+46,6/13/2023,Iowa,Isabella Sutton,1427,3105127,1,1,1019,3,Dean England,ATV,-1585588,Approved,Consumer,Non-Interest Bearing,58387764
+47,12/15/2022,Massachusetts,Finn Mills,9053,5255764,4,6,871,4,Dean England,ATV,-1152146,Declined,Consumer,Non-Interest Bearing,79967493
+48,5/31/2023,Colorado,Chava Sparks,1462,5178737,4,22,1170,5,Dean England,ATV,-554189,Withdrawn,Consumer,Non-Interest Bearing,81240751
+49,2/26/2023,Missouri,Regan Mendez,2153,3859192,3,23,924,5,Dean England,ATV,-1764594,Approved,Consumer,Non-Interest Bearing,92736965
+50,2/14/2023,Ohio,Madaline Daniels,8549,2722532,1,5,512,2,Dean England,ATV,-278350,Declined,Consumer,Non-Interest Bearing,96544450
+51,12/20/2021,Washington,Acton Herman,2137,2367812,4,17,900,7,Dean England,ATV,-213146,Withdrawn,Consumer,Non-Interest Bearing,75376629
+52,8/28/2022,Arkansas,August Ware,3088,6396559,0,1,1283,2,Dean England,ATV,-1716072,Approved,Consumer,Non-Interest Bearing,79802548
+53,5/19/2023,Wyoming,Robin Benson,7510,2670859,2,1,132,2,Dean England,ATV,-1773874,Declined,Consumer,Non-Interest Bearing,94558404
+54,12/15/2021,Illinois,Cecilia Estes,2218,1990697,2,16,356,4,Dean England,ATV,-1576162,Withdrawn,Consumer,Non-Interest Bearing,60085516
+55,12/17/2022,Kansas,Joshua Cannon,3710,8908972,3,17,1495,3,Dean England,ATV,-1711482,Approved,Consumer,Non-Interest Bearing,59470668
+56,1/19/2022,Georgia,Kenneth Noble,3823,2847122,5,17,543,2,Dean England,ATV,-730406,Declined,Consumer,Non-Interest Bearing,94924398
+57,12/3/2021,Alaska,Illiana Myers,3406,8330478,2,5,114,2,Dean England,ATV,-1174945,Withdrawn,Consumer,Non-Interest Bearing,69540021
+58,7/20/2023,Virginia,Calvin Stuart,4289,7647239,0,13,96,1,Dean England,ATV,-1232831,Approved,Consumer,Non-Interest Bearing,63707446
+59,1/15/2022,Montana,Angelica Mejia,4336,4988676,3,13,829,4,Dean England,ATV,-1379207,Declined,Consumer,Non-Interest Bearing,81295848
+60,11/26/2021,Iowa,Willa Baldwin,4412,8071852,1,11,123,2,Dean England,ATV,-1145215,Withdrawn,Consumer,Non-Interest Bearing,82872031
+61,4/4/2022,Mississippi,Nigel Mooney,6788,5935147,2,8,1111,6,Dean England,ATV,-1360362,Approved,Consumer,Non-Interest Bearing,72561650
+62,3/23/2023,Florida,Jamalia Nunez,7520,1917726,3,11,1326,7,Dean England,ATV,-1223571,Declined,Consumer,Non-Interest Bearing,90471761
+63,2/5/2023,Connecticut,Stacey Ellis,4170,8595498,4,6,1490,6,Dean England,ATV,-890563,Withdrawn,Consumer,Non-Interest Bearing,85375717
+64,3/13/2022,Maryland,Margaret Knowles,1786,8920584,1,13,587,1,Dean England,ATV,-958713,Approved,Consumer,Non-Interest Bearing,86539428
+65,7/27/2022,Oklahoma,Drew Brooks,1430,8764388,4,11,1403,3,Dean England,ATV,-497666,Declined,Consumer,Non-Interest Bearing,59830915
+66,2/5/2023,Indiana,Kenyon Sherman,5360,2530850,1,1,1270,3,Dean England,ATV,-1484986,Withdrawn,Consumer,Non-Interest Bearing,61491955
+67,7/1/2022,Oregon,Jason Nichols,6458,2764816,1,19,1409,4,Dean England,ATV,-1575496,Approved,Consumer,Non-Interest Bearing,87431607
+68,6/15/2023,Georgia,Daquan Larsen,7535,6648512,2,1,613,4,Dean England,ATV,-1688924,Declined,Consumer,Non-Interest Bearing,73160599
+69,12/27/2021,Washington,Abraham Boyle,1616,3141278,1,1,1296,1,Dean England,ATV,-363825,Withdrawn,Consumer,Non-Interest Bearing,74244368
+70,8/27/2022,Pennsylvania,Ciaran Stuart,8194,1710516,4,1,1248,4,Dean England,ATV,-680691,Approved,Consumer,Non-Interest Bearing,88537703
+71,12/25/2022,Wisconsin,Veronica Delaney,3765,8830019,2,10,1484,8,Dean England,ATV,-385320,Declined,Consumer,Non-Interest Bearing,62685423
+72,9/15/2022,Maine,Ciaran Guzman,6043,6581943,3,14,1081,3,Dean England,ATV,-890719,Withdrawn,Consumer,Non-Interest Bearing,94941572
+73,12/17/2022,Louisiana,Karina Rodriguez,5016,7136643,3,7,1337,4,Dean England,ATV,-1257770,Approved,Consumer,Non-Interest Bearing,85261153
+74,2/15/2022,California,Tasha Carroll,6598,1280904,2,22,274,5,Dean England,ATV,-1786808,Declined,Consumer,Non-Interest Bearing,78980635
+75,11/6/2022,California,Bethany Wong,1303,7710644,0,16,1352,7,Dean England,ATV,-1692845,Withdrawn,Consumer,Non-Interest Bearing,65866491
+76,1/18/2023,Tennessee,Ezra Hale,8095,3708627,1,18,177,1,Dean England,ATV,-1158121,Approved,Consumer,Non-Interest Bearing,67318527
+77,1/11/2023,Maine,Harper Valenzuela,9172,5951658,1,17,1419,6,Dean England,ATV,-543531,Declined,Consumer,Non-Interest Bearing,56873829
+78,1/1/2022,Minnesota,Brooke Ortega,4078,7300184,1,11,337,7,Dean England,ATV,-1399175,Withdrawn,Consumer,Non-Interest Bearing,73664515
+79,2/15/2023,Missouri,Julian Mayo,3054,3306072,1,18,1267,0,Dean England,ATV,-1442915,Approved,Consumer,Non-Interest Bearing,90611490
+80,5/18/2023,Arizona,Cora Delaney,8961,7369736,3,6,129,0,Dean England,ATV,-434674,Declined,Consumer,Non-Interest Bearing,58784777
+81,6/12/2022,Virginia,Colby Witt,2853,3562946,5,21,1074,2,Dean England,ATV,-1485166,Withdrawn,Consumer,Non-Interest Bearing,90629222
+82,1/21/2022,Indiana,Wilma Tanner,9277,1415471,1,14,493,4,Dean England,ATV,-1732068,Approved,Consumer,Non-Interest Bearing,84295635
+83,1/8/2022,Wisconsin,Raja Carroll,7194,2031190,2,23,361,6,Dean England,ATV,-469928,Declined,Consumer,Non-Interest Bearing,64470819
+84,3/9/2023,California,Camden Stein,2206,1646264,1,8,1177,4,Dean England,ATV,-895386,Withdrawn,Consumer,Non-Interest Bearing,92198436
+85,5/9/2023,Louisiana,Blaze Albert,8564,8160135,5,22,300,7,Dean England,ATV,-438093,Approved,Consumer,Non-Interest Bearing,96592174
+86,12/31/2022,Missouri,Tasha Fuller,4347,7030926,1,13,965,5,Dean England,ATV,-1003633,Declined,Consumer,Non-Interest Bearing,78259956
+87,1/20/2023,Indiana,Alisa Stanley,9428,7373183,3,18,573,5,Dean England,ATV,-918663,Withdrawn,Consumer,Non-Interest Bearing,90364883
+88,3/3/2022,Connecticut,Jermaine Blanchard,5231,2252155,1,10,648,5,Dean England,ATV,-912334,Approved,Consumer,Non-Interest Bearing,74926650
+89,10/29/2022,California,Gretchen Massey,2298,6389723,4,18,1323,7,Dean England,ATV,-200676,Declined,Consumer,Non-Interest Bearing,84897069
+90,4/20/2022,Utah,Gary Orr,4727,2238104,2,1,926,8,Dean England,ATV,-756661,Withdrawn,Consumer,Non-Interest Bearing,94927073
+91,4/28/2023,Washington,Adria Page,5185,1932375,0,22,833,2,Dean England,ATV,-1010225,Approved,Consumer,Non-Interest Bearing,70673002
+92,10/27/2022,Kansas,Sara Johnson,2533,6909228,1,0,1114,6,Dean England,ATV,-1346696,Declined,Consumer,Non-Interest Bearing,96876295
+93,8/2/2023,Colorado,Denton Estes,6662,2010549,1,4,155,4,Dean England,ATV,-357677,Withdrawn,Consumer,Non-Interest Bearing,95264458
+94,8/29/2022,Arizona,Reuben Burgess,5429,2760677,2,8,1124,6,Dean England,ATV,-1277855,Approved,Consumer,Non-Interest Bearing,67094849
+95,8/8/2022,Colorado,Pascale Bailey,5291,8787308,4,3,1108,1,Dean England,ATV,-1442651,Declined,Consumer,Non-Interest Bearing,90159016
+96,5/16/2022,Minnesota,Paul Stout,8054,6204690,0,16,184,2,Dean England,ATV,-1744092,Withdrawn,Consumer,Non-Interest Bearing,75624313
+97,1/14/2022,Louisiana,Alfonso Ellison,7833,5880095,4,9,1261,8,Dean England,ATV,-1472216,Approved,Consumer,Non-Interest Bearing,79073368
+98,7/31/2022,Michigan,Axel Kirkland,3521,4316691,3,5,1317,7,Dean England,ATV,-1027401,Declined,Consumer,Non-Interest Bearing,83411240
+99,8/25/2022,Michigan,Arsenio Massey,3128,7189962,1,14,1438,2,Dean England,ATV,-685303,Withdrawn,Consumer,Non-Interest Bearing,87813990
+100,11/26/2022,Arizona,Keegan Cardenas,6761,8976064,5,2,1310,5,Dean England,ATV,-815550,Approved,Consumer,Non-Interest Bearing,69488271
+101,3/25/2023,Connecticut,Galvin Phelps,5933,6360471,1,24,1164,7,Dean England,ATV,-267829,Declined,Consumer,Non-Interest Bearing,59538954
+102,8/26/2022,Mississippi,Tanek Calderon,8761,5705162,1,4,1313,6,Dean England,ATV,-581318,Withdrawn,Consumer,Non-Interest Bearing,98288834
+103,1/1/2023,Nevada,Jameson Mcdaniel,8608,7847560,3,2,220,7,Dean England,ATV,-1232372,Approved,Consumer,Non-Interest Bearing,72424929
+104,12/31/2022,California,Noelani Montgomery,5542,3274212,1,1,1377,3,Dean England,ATV,-724123,Declined,Consumer,Non-Interest Bearing,68565721
+105,10/22/2022,Iowa,Nathaniel Keller,5718,6457756,0,9,691,1,Dean England,ATV,-392043,Withdrawn,Consumer,Non-Interest Bearing,85386921
+106,2/8/2023,Idaho,Rose Barrett,5400,4105834,3,8,180,3,Dean England,ATV,-420659,Approved,Consumer,Non-Interest Bearing,81075701
+107,9/24/2022,Maryland,Diana Petty,3752,7939396,3,12,1296,2,Dean England,ATV,-865757,Declined,Consumer,Non-Interest Bearing,85190454
+108,2/15/2023,Virginia,Katelyn Lawrence,6086,9161799,1,8,698,4,Dean England,ATV,-1487453,Withdrawn,Consumer,Non-Interest Bearing,95831428
+109,8/1/2023,Texas,Travis Bradley,8300,5575085,0,16,975,7,Dean England,ATV,-744257,Approved,Consumer,Non-Interest Bearing,88670664
+110,2/6/2023,Alabama,Leigh Vaughn,7161,6087810,3,13,343,2,Dean England,ATV,-1043866,Declined,Consumer,Non-Interest Bearing,73667189
+111,1/20/2022,Michigan,Imani Sharp,2701,4619107,3,11,756,2,Dean England,ATV,-679925,Withdrawn,Consumer,Non-Interest Bearing,83406938
+112,5/25/2023,Missouri,Cadman Maxwell,5566,2048917,4,20,738,6,Dean England,ATV,-1216884,Approved,Consumer,Non-Interest Bearing,98787994
+113,8/26/2023,Nebraska,Chloe Gillespie,2283,6794719,0,18,463,4,Dean England,ATV,-718394,Declined,Consumer,Non-Interest Bearing,91806866
+114,10/4/2022,Delaware,Herrod Schwartz,4213,2387191,5,8,1152,6,Dean England,ATV,-1228649,Withdrawn,Consumer,Non-Interest Bearing,63497408
+115,7/24/2022,Kansas,Shad Owen,6574,5416525,0,22,1391,1,Dean England,ATV,-1628416,Approved,Consumer,Non-Interest Bearing,69627900
+116,2/8/2022,Virginia,Ulric Holden,7807,6742729,5,4,1373,4,Dean England,ATV,-760001,Declined,Consumer,Non-Interest Bearing,80449077
+117,6/12/2023,Connecticut,Karleigh Shepard,3312,6669184,2,2,963,1,Dean England,ATV,-465023,Withdrawn,Consumer,Non-Interest Bearing,78961486
+118,2/5/2023,Washington,Dorian Battle,7759,5469536,4,19,332,7,Dean England,ATV,-352372,Approved,Consumer,Non-Interest Bearing,84931190
+119,1/30/2023,Nevada,Brooke Silva,7633,7944278,2,8,998,6,Dean England,ATV,-787268,Declined,Consumer,Non-Interest Bearing,83648375
+120,9/22/2022,Florida,Rhoda Contreras,7689,2145636,4,9,799,7,Dean England,ATV,-408497,Withdrawn,Consumer,Non-Interest Bearing,60154947
+121,6/12/2022,Montana,Riley Shields,3103,5990222,4,13,1363,6,Dean England,ATV,-1462067,Approved,Consumer,Non-Interest Bearing,95748910
+122,2/3/2023,Mississippi,Branden Mcclure,4137,7501869,2,23,1139,7,Dean England,Unsecured,-1066620,Declined,Consumer,Non-Interest Bearing,83051765
+123,8/28/2022,California,Adrienne Sears,2054,5182069,4,19,662,7,Dean England,Unsecured,-1286574,Withdrawn,Consumer,Non-Interest Bearing,85689648
+124,6/9/2023,Minnesota,Xanthus Stanton,3031,5310830,1,18,1102,8,Dean England,Unsecured,-300892,Approved,Consumer,Non-Interest Bearing,65650838
+125,2/3/2023,Virginia,Yvonne Rich,3079,4254348,2,21,1274,7,Dean England,Unsecured,-1172111,Declined,Consumer,Non-Interest Bearing,82499442
+126,9/1/2022,Maine,Carlos Wells,1402,2079600,3,9,969,0,Dean England,Unsecured,-732243,Withdrawn,Consumer,Non-Interest Bearing,88856390
+127,4/11/2022,Oregon,Kasper Henderson,4474,4392459,0,21,1102,6,Dean England,Unsecured,-1234114,Approved,Consumer,Non-Interest Bearing,74739692
+128,7/14/2022,Washington,Seth Mcfadden,1334,3507717,4,1,743,7,Dean England,Unsecured,-1436798,Declined,Consumer,Non-Interest Bearing,79236968
+129,4/30/2022,Iowa,Risa Turner,5219,9138368,4,3,499,8,Dean England,Unsecured,-1539026,Withdrawn,Consumer,Non-Interest Bearing,98165304
+130,6/5/2022,Hawaii,Gay Shelton,2267,3761533,2,1,1380,6,Dean England,Unsecured,-1717558,Approved,Consumer,Non-Interest Bearing,96776900
+131,11/1/2022,Oklahoma,Dara Ewing,5721,6050181,3,19,77,7,Dean England,Unsecured,-1570924,Declined,Consumer,Non-Interest Bearing,73122854
+132,2/24/2022,Washington,Charde Macdonald,1868,6652116,1,5,450,1,Dean England,Unsecured,-1412130,Withdrawn,Consumer,Non-Interest Bearing,76051010
+133,3/3/2022,Alaska,Kirk Potter,5204,5181902,4,7,626,5,Dean England,Unsecured,-1374725,Approved,Consumer,Non-Interest Bearing,74634961
+134,5/17/2023,Washington,Olga Daniel,6372,6613940,2,17,1376,3,Dean England,Unsecured,-1198241,Declined,Consumer,Non-Interest Bearing,60575483
+135,12/31/2021,Indiana,Kristen Marsh,5154,8276613,1,2,855,4,Dean England,Unsecured,-1515941,Withdrawn,Consumer,Non-Interest Bearing,57952861
+136,5/18/2022,Maryland,Sylvester Riley,8025,3124417,2,7,244,8,Dean England,Unsecured,-1663412,Approved,Consumer,Non-Interest Bearing,72552071
+137,10/29/2022,Louisiana,Prescott Key,5024,4019664,1,1,1389,3,Dean England,Unsecured,-473142,Declined,Consumer,Non-Interest Bearing,92120978
+138,11/21/2021,Pennsylvania,Cheryl Ellis,3069,7998489,5,6,1266,4,Dean England,Unsecured,-241925,Withdrawn,Consumer,Non-Interest Bearing,68609619
+139,8/22/2022,Tennessee,Leroy Maxwell,2119,1578150,4,3,517,2,Dean England,Unsecured,-1277274,Approved,Consumer,Non-Interest Bearing,93543784
+140,5/23/2023,Louisiana,Cherokee Cash,3040,2089976,0,1,535,2,Dean England,Unsecured,-306685,Declined,Consumer,Non-Interest Bearing,76027207
+141,10/28/2022,Virginia,Veda Hodge,5208,6547770,2,14,1113,7,Dean England,Unsecured,-1179021,Withdrawn,Consumer,Non-Interest Bearing,89345512
+142,3/15/2023,Louisiana,Arsenio Sweet,3507,1622458,5,17,870,6,Dean England,Unsecured,-922045,Approved,Consumer,Non-Interest Bearing,72295518
+143,11/24/2021,Hawaii,Judith Hunt,3821,1273319,2,5,286,4,Dean England,Unsecured,-605461,Declined,Consumer,Non-Interest Bearing,74316280
+144,12/16/2022,Ohio,Noble Russo,1638,3901862,3,6,257,5,Dean England,Unsecured,-1255325,Withdrawn,Consumer,Non-Interest Bearing,62637319
+145,1/27/2022,Connecticut,Rogan Christian,1731,2078608,5,3,341,4,Dean England,Unsecured,-597304,Approved,Consumer,Non-Interest Bearing,98175900
+146,8/17/2023,Texas,Armando Beck,3537,5310938,1,9,705,2,Dean England,Unsecured,-647971,Declined,Consumer,Non-Interest Bearing,76398117
+147,11/24/2021,Maryland,Hayley Cochran,8817,6767059,3,12,1120,7,Dean England,Unsecured,-1189781,Withdrawn,Consumer,Non-Interest Bearing,59809453
+148,3/29/2023,Oregon,Daryl Merritt,2741,5665675,2,5,192,7,Dean England,Unsecured,-1804576,Approved,Consumer,Non-Interest Bearing,72668783
+149,5/11/2022,Alaska,Bruno Nunez,8027,6777344,2,16,110,7,Dean England,Unsecured,-704787,Declined,Consumer,Non-Interest Bearing,67789196
+150,11/27/2021,Vermont,Vaughan Velasquez,4998,3130037,4,23,197,6,Dean England,Unsecured,-1010272,Withdrawn,Consumer,Non-Interest Bearing,61065283
+151,4/1/2022,Alabama,Garrison Kinney,5112,6618106,1,15,874,7,Dean England,Unsecured,-635160,Approved,Consumer,Non-Interest Bearing,72239134
+152,2/10/2022,Maine,Evelyn Figueroa,4009,7298915,3,16,213,3,Dean England,Unsecured,-861023,Declined,Consumer,Non-Interest Bearing,78264148
+153,4/9/2023,Colorado,Irene Bartlett,2485,7528164,3,14,387,1,Dean England,Unsecured,-1066859,Withdrawn,Consumer,Non-Interest Bearing,63555034
+154,1/7/2022,Michigan,Colleen Bishop,9499,5739244,1,8,1262,6,Dean England,Unsecured,-586413,Approved,Consumer,Non-Interest Bearing,60644193
+155,8/25/2023,Ohio,Jena Malone,1853,1729263,2,20,735,6,Dean England,Unsecured,-1335866,Declined,Consumer,Non-Interest Bearing,81262029
+156,10/8/2022,Delaware,Emerson Thompson,9163,6464704,2,17,966,2,Dean England,Unsecured,-1422297,Withdrawn,Consumer,Non-Interest Bearing,60327998
+157,5/3/2022,Delaware,Madonna Vinson,2603,3397779,2,20,587,1,Dean England,Unsecured,-1435131,Approved,Consumer,Non-Interest Bearing,88421467
+158,4/15/2022,Washington,Boris Rivera,2854,4565708,0,19,835,0,Dean England,Unsecured,-1537787,Declined,Consumer,Non-Interest Bearing,77053294
+159,12/1/2022,Maine,Adam Haley,5756,5267033,4,23,282,8,Dean England,Unsecured,-1094701,Withdrawn,Consumer,Non-Interest Bearing,83856445
+160,11/8/2022,Oregon,Hayfa Abbott,1628,6141252,2,14,145,0,Dean England,Unsecured,-1724807,Approved,Consumer,Non-Interest Bearing,60576078
+161,1/23/2023,Washington,Kennan Hendricks,1458,1346006,2,24,1185,5,Dean England,Unsecured,-1730013,Declined,Consumer,Non-Interest Bearing,60832893
+162,1/24/2023,Alaska,Kirestin Benton,8510,4669977,3,1,1352,1,Dean England,ED Loan,-703701,Withdrawn,Consumer,Non-Interest Bearing,67477958
+163,6/4/2022,Ohio,Micah Daniel,3153,5691288,0,20,435,1,Dean England,ED Loan,-1105117,Approved,Consumer,Non-Interest Bearing,98123216
+164,4/25/2022,Connecticut,Zephania Wiggins,7921,8112764,5,6,1289,7,Dean England,ED Loan,-1399556,Declined,Consumer,Non-Interest Bearing,66114001
+165,5/28/2023,Georgia,William Sargent,7267,8201388,5,15,979,6,Dean England,ED Loan,-455058,Withdrawn,Consumer,Non-Interest Bearing,74492822
+166,8/8/2022,Missouri,Nevada Conner,7343,4381395,4,6,1371,2,Dean England,ED Loan,-589366,Approved,Consumer,Non-Interest Bearing,95227788
+167,2/8/2023,Maryland,Leilani Murphy,7907,6254385,2,1,852,7,Dean England,ED Loan,-349776,Declined,Consumer,Non-Interest Bearing,63411631
+168,3/25/2022,Pennsylvania,Dustin Cochran,6146,5914414,3,8,1301,7,Dean England,ED Loan,-1823402,Withdrawn,Consumer,Non-Interest Bearing,68744942
+169,4/13/2022,Arkansas,Petra Bowers,5929,3354022,3,9,1223,2,Dean England,ED Loan,-1661691,Approved,Consumer,Non-Interest Bearing,66771315
+170,1/5/2022,Oregon,Scott Beasley,2334,5319973,3,19,1353,4,Dean England,ED Loan,-995095,Declined,Consumer,Non-Interest Bearing,81317007
+171,1/28/2023,Idaho,Paki Rollins,8293,4565402,2,4,236,2,Dean England,ED Loan,-1301138,Withdrawn,Consumer,Non-Interest Bearing,61751521
+172,10/6/2022,Oklahoma,Macaulay Norton,6569,6150496,1,5,279,3,Dean England,ED Loan,-1057224,Approved,Consumer,Non-Interest Bearing,71206060
+173,6/6/2023,Nevada,Breanna Berg,8721,6812623,1,8,953,4,Dean England,ED Loan,-1155479,Declined,Consumer,Non-Interest Bearing,71984371
+174,4/7/2022,Georgia,Alan Horn,8598,7855008,3,19,1479,6,Dean England,ED Loan,-340084,Withdrawn,Consumer,Non-Interest Bearing,96963456
+175,10/3/2022,Oregon,Francesca Wagner,6647,3869629,2,3,830,2,Dean England,ED Loan,-543603,Approved,Consumer,Non-Interest Bearing,92307254
+176,11/28/2021,Wyoming,Acton Perry,1917,4944135,4,1,862,2,Dean England,ED Loan,-478754,Declined,Consumer,Non-Interest Bearing,93372069
+177,3/18/2022,Maine,Eve Spears,7153,2406078,5,12,150,0,Dean England,ED Loan,-783239,Withdrawn,Consumer,Non-Interest Bearing,95727007
+178,4/22/2023,Arkansas,Tanek Mcdaniel,3428,1742758,4,23,219,2,Dean England,ED Loan,-1484499,Approved,Consumer,Non-Interest Bearing,58718662
+179,6/3/2022,Georgia,Jackson Floyd,1664,8911327,3,17,588,2,Dean England,ED Loan,-816575,Declined,Consumer,Non-Interest Bearing,87188779
+180,12/20/2022,Minnesota,Karina Tillman,2793,8676819,4,21,1293,4,Dean England,ED Loan,-1162052,Withdrawn,Consumer,Non-Interest Bearing,60668457
+181,3/7/2022,Louisiana,Steel Phelps,2689,6928481,3,3,1070,6,Dean England,ED Loan,-229009,Approved,Consumer,Non-Interest Bearing,87981693
+182,1/3/2023,Iowa,Daquan Sharp,8166,4859170,1,21,905,5,Dean England,ED Loan,-1625502,Declined,Consumer,Non-Interest Bearing,96334779
+183,5/25/2023,Alaska,Nola May,7234,2266188,3,23,1453,4,Dean England,ED Loan,-994198,Withdrawn,Consumer,Non-Interest Bearing,88277754
+184,1/23/2022,Minnesota,Lucian Glass,3162,6961250,2,23,761,5,Dean England,ED Loan,-973542,Approved,Consumer,Non-Interest Bearing,76595072
+185,4/30/2022,Indiana,Michael Hudson,5136,5136889,4,19,636,1,Dean England,ED Loan,-1081462,Declined,Consumer,Non-Interest Bearing,87763012
+186,4/17/2022,Connecticut,Vincent Fitzpatrick,4225,6615255,1,17,994,7,Dean England,ED Loan,-195678,Withdrawn,Consumer,Non-Interest Bearing,82549924
+187,4/18/2023,Illinois,Timon Zamora,5180,8787701,3,22,521,6,Dean England,ED Loan,-772366,Approved,Consumer,Non-Interest Bearing,83428370
+188,8/26/2023,Vermont,Nasim Miranda,7443,6811071,4,22,401,4,Dean England,ED Loan,-1569269,Declined,Consumer,Non-Interest Bearing,86511497
+189,1/28/2023,Pennsylvania,Hakeem Alvarez,6228,2445970,4,18,405,1,Dean England,ED Loan,-193280,Withdrawn,Consumer,Non-Interest Bearing,61516277
+190,2/16/2023,Connecticut,Larissa Morrow,3755,2708483,1,22,700,2,Dean England,ED Loan,-831201,Approved,Consumer,Non-Interest Bearing,82324196
+191,8/20/2022,Florida,Raymond Monroe,3264,7356183,2,19,847,2,Dean England,ED Loan,-1799286,Declined,Consumer,Non-Interest Bearing,77139627
+192,2/19/2023,Delaware,Joan Hickman,7713,2334268,0,8,961,6,Dean England,ED Loan,-1704014,Withdrawn,Consumer,Non-Interest Bearing,77934092
+193,7/14/2023,Colorado,Cyrus Ellison,9119,8857974,4,7,474,3,Dean England,ED Loan,-367570,Approved,Consumer,Non-Interest Bearing,59233369
+194,7/18/2022,Indiana,Brian Montgomery,2151,6893538,2,15,84,4,Dean England,ED Loan,-424617,Declined,Consumer,Non-Interest Bearing,76047724
+195,8/21/2023,California,Gisela Cook,6638,4581175,1,5,109,7,Dean England,ED Loan,-586118,Withdrawn,Consumer,Non-Interest Bearing,82649296
+196,2/21/2023,Alaska,Christopher Coffey,7611,3125321,5,15,1053,4,Dean England,ED Loan,-1798246,Approved,Consumer,Non-Interest Bearing,60000764
+197,1/21/2022,Arkansas,Nero Oneal,4228,2746123,1,4,280,3,Dean England,ED Loan,-835684,Declined,Consumer,Non-Interest Bearing,58526894
+198,6/22/2023,Minnesota,Galvin Barry,5025,7758367,3,20,575,6,Dean England,ED Loan,-1130525,Withdrawn,Consumer,Non-Interest Bearing,95713112
+199,12/26/2021,Illinois,Byron Welch,6459,4467525,3,7,1213,1,Dean England,ED Loan,-963432,Approved,Consumer,Non-Interest Bearing,67322887
+200,3/5/2022,Indiana,Merritt Calderon,6866,1895297,1,9,248,7,Dean England,ED Loan,-1640456,Declined,Consumer,Non-Interest Bearing,86292472
+201,7/10/2022,Connecticut,Camden Mccall,1430,5606744,3,1,270,0,Dean England,ED Loan,-545111,Withdrawn,Consumer,Non-Interest Bearing,69333175
+202,12/18/2022,Mississippi,Wilma Gross,9135,5805296,2,20,839,3,Dean England,ED Loan,-859404,Approved,Consumer,Non-Interest Bearing,71747020
+203,7/30/2022,Michigan,Olympia Holt,2387,8070367,4,15,361,2,Dean England,ED Loan,-1313650,Declined,Consumer,Non-Interest Bearing,63645898
+204,1/1/2023,Minnesota,Madeson Bridges,2331,6734089,2,0,1266,6,Dean England,ED Loan,-1782755,Withdrawn,Consumer,Non-Interest Bearing,87016624
+205,6/3/2022,Florida,Emery Simmons,8918,8496347,0,22,434,3,Dean England,ED Loan,-522554,Approved,Consumer,Non-Interest Bearing,82999465
+206,3/11/2022,Oregon,Carolyn Conway,4005,1546505,1,18,976,7,Dean England,ED Loan,-365750,Declined,Consumer,Non-Interest Bearing,86689102
+207,5/13/2022,Nebraska,Emerson Deleon,8156,7332719,1,16,915,3,Dean England,ED Loan,-1297151,Withdrawn,Consumer,Non-Interest Bearing,81866890
+208,7/1/2023,Montana,William Warren,5961,5777199,1,22,996,2,Dean England,ED Loan,-1154870,Approved,Consumer,Non-Interest Bearing,91830646
+209,4/5/2023,Connecticut,Aiko Orr,6958,6718306,1,2,900,2,Dean England,ED Loan,-366045,Declined,Consumer,Non-Interest Bearing,60251554
+210,1/24/2023,Georgia,Indira Beasley,2400,5556444,2,1,1107,1,Dean England,ED Loan,-1233458,Withdrawn,Consumer,Non-Interest Bearing,76080311
+211,7/7/2023,Illinois,Nash Savage,7081,7281995,2,14,58,6,Dean England,ED Loan,-696883,Approved,Consumer,Non-Interest Bearing,84942346
+212,8/21/2022,Idaho,Anastasia Kline,1371,5501657,3,4,1026,3,Dean England,ED Loan,-1607884,Declined,Consumer,Non-Interest Bearing,70083450
+213,12/14/2022,Louisiana,Amber York,4131,2182420,0,7,1299,4,Dean England,ED Loan,-1259213,Withdrawn,Consumer,Non-Interest Bearing,74625258
+214,12/13/2022,Delaware,Jessamine Evans,7548,6825111,2,11,162,8,Dean England,ED Loan,-279454,Approved,Consumer,Non-Interest Bearing,75984509
+215,11/29/2022,Alabama,Reed Brady,7778,2603062,0,20,252,6,Dean England,ED Loan,-1795027,Declined,Consumer,Non-Interest Bearing,94165450
+216,11/12/2022,Idaho,Merritt Dodson,2131,2265572,1,8,1436,1,Dean England,ED Loan,-1348413,Withdrawn,Consumer,Non-Interest Bearing,96074789
+217,2/19/2022,Florida,Yuri Osborn,7468,8062212,3,4,570,4,Dean England,ED Loan,-1550977,Approved,Consumer,Non-Interest Bearing,64115778
+218,6/25/2023,Hawaii,Brody Bowman,7322,3953268,5,20,280,5,Dean England,ED Loan,-1707489,Declined,Consumer,Non-Interest Bearing,85206506
+219,12/11/2021,Oklahoma,Adena Norton,1947,6405593,0,7,1491,7,Dean England,ED Loan,-1348870,Withdrawn,Consumer,Non-Interest Bearing,92203082
+220,2/23/2022,Colorado,Jarrod Montgomery,3161,8672538,4,20,805,3,Dean England,ED Loan,-1644773,Approved,Consumer,Non-Interest Bearing,82389486
+221,2/1/2022,Connecticut,Jamal Diaz,8453,5219005,4,12,95,4,Dean England,ED Loan,-409646,Declined,Consumer,Non-Interest Bearing,76912559
+222,2/7/2022,Alaska,Megan Campbell,2378,5878295,1,1,1464,5,Dean England,ED Loan,-761837,Withdrawn,Consumer,Non-Interest Bearing,87365427
+223,7/27/2023,Alaska,Dalton Stark,2464,1395506,1,15,234,5,Dean England,ED Loan,-1587592,Approved,Consumer,Non-Interest Bearing,70782683
+224,2/15/2023,Connecticut,Macaulay Cain,4309,1829933,5,17,994,7,Dean England,ED Loan,-1692850,Declined,Consumer,Non-Interest Bearing,60493758
+225,5/20/2022,Colorado,Maggy Cantrell,6872,5798594,4,18,1148,8,Jin Nunez,ED Loan,-1107272,Withdrawn,Consumer,Non-Interest Bearing,82397031
+226,8/22/2022,Oregon,Craig Parker,8583,2199464,1,19,636,2,Jin Nunez,ED Loan,-1464853,Approved,Consumer,Non-Interest Bearing,89504962
+227,6/16/2022,Missouri,Kalia Sims,6835,1734553,0,4,1290,3,Jin Nunez,ED Loan,-1470784,Declined,Consumer,Non-Interest Bearing,83191915
+228,1/6/2022,Tennessee,Geoffrey Wilcox,8941,9497702,3,10,776,4,Jin Nunez,ED Loan,-899089,Withdrawn,Consumer,Non-Interest Bearing,81067357
+229,11/26/2022,Delaware,Kato Anderson,2035,4801028,4,1,1448,4,Jin Nunez,ED Loan,-1398147,Approved,Consumer,Non-Interest Bearing,66268891
+230,1/19/2023,Minnesota,Dai Lester,3423,3831863,1,18,1307,7,Jin Nunez,ED Loan,-771568,Declined,Consumer,Non-Interest Bearing,66560750
+231,4/19/2022,Maine,Harlan Cleveland,1909,7042525,2,12,310,4,Jin Nunez,ED Loan,-898399,Withdrawn,Consumer,Non-Interest Bearing,71504768
+232,5/27/2022,Kansas,Palmer Chavez,6385,7578169,1,3,1090,1,Jin Nunez,ED Loan,-821375,Approved,Consumer,Non-Interest Bearing,75820307
+233,5/7/2022,Idaho,Rina Dillon,6029,4821496,3,1,150,4,Jin Nunez,ED Loan,-1008071,Declined,Consumer,Non-Interest Bearing,83716130
+234,8/30/2023,Delaware,Noah Puckett,3708,5377397,2,22,1434,8,Jin Nunez,ED Loan,-1511268,Withdrawn,Consumer,Non-Interest Bearing,70292298
+235,8/25/2022,Minnesota,Sybil Neal,6606,7731631,4,18,97,1,Jin Nunez,ED Loan,-618166,Approved,Consumer,Non-Interest Bearing,64254052
+236,2/3/2022,Washington,Jeanette Gallagher,2739,9060745,2,20,1498,1,Jin Nunez,ED Loan,-1551455,Declined,Consumer,Non-Interest Bearing,95604573
+237,7/28/2022,Arkansas,Nell Knapp,2665,6081883,3,6,1368,2,Jin Nunez,ED Loan,-1354144,Withdrawn,Consumer,Non-Interest Bearing,85398696
+238,6/14/2023,Hawaii,Katelyn Pratt,9110,7585446,4,22,154,3,Jin Nunez,ED Loan,-799517,Approved,Consumer,Non-Interest Bearing,77592340
+239,4/21/2022,Hawaii,Ishmael Sparks,5395,6711726,4,5,1131,5,Jin Nunez,ED Loan,-1772052,Declined,Consumer,Non-Interest Bearing,80934316
+240,5/15/2023,Alaska,Aidan Wade,2257,8135500,3,18,681,4,Jin Nunez,ED Loan,-838055,Withdrawn,Consumer,Non-Interest Bearing,73356734
+241,3/20/2022,Tennessee,Risa Dawson,5842,8434995,3,4,291,4,Jin Nunez,ED Loan,-999547,Approved,Consumer,Non-Interest Bearing,76204469
+242,5/5/2023,Utah,Malachi Stanley,3078,6634979,2,3,736,1,Jin Nunez,ED Loan,-813091,Declined,Consumer,Non-Interest Bearing,81821751
+243,10/24/2022,Minnesota,Dennis Nicholson,2978,2254056,1,23,1485,7,Jin Nunez,ED Loan,-1264493,Withdrawn,Consumer,Non-Interest Bearing,72955384
+244,4/17/2023,Delaware,Jordan Marquez,7810,2034242,2,1,99,2,Jin Nunez,ED Loan,-1295432,Approved,Consumer,Non-Interest Bearing,95842640
+245,5/2/2022,Arkansas,Harriet Wall,4913,9234560,0,8,543,6,Jin Nunez,ED Loan,-1004218,Declined,Consumer,Non-Interest Bearing,67947181
+246,1/25/2023,Wisconsin,Gavin Parsons,2161,9141775,4,7,1197,7,Jin Nunez,ED Loan,-573359,Withdrawn,Consumer,Non-Interest Bearing,63876093
+247,9/21/2022,Florida,Echo Castro,5471,4721364,3,5,1390,4,Jin Nunez,ED Loan,-565630,Approved,Consumer,Non-Interest Bearing,80934470
+248,12/7/2021,Delaware,Melvin Roth,8296,9017248,4,18,98,5,Samantha Garcia,ED Loan,-1114524,Declined,Consumer,Non-Interest Bearing,70743134
+249,3/13/2023,Alabama,Veda Steele,6266,7707249,2,13,929,0,Veda Melendez,ED Loan,-313139,Withdrawn,Consumer,Non-Interest Bearing,60380182
+250,4/14/2022,Louisiana,Harrison Logan,7567,9091363,3,22,132,7,Meghan Small,ED Loan,-661344,Approved,Consumer,Non-Interest Bearing,66390860
+251,12/27/2022,Arizona,Donovan Anderson,3176,6526683,1,20,505,2,Meghan Small,ED Loan,13320949,Declined,Consumer,Non-Interest Bearing,71931639
+252,7/10/2022,Nebraska,Kevin York,6892,2507588,2,19,923,5,Meghan Small,ED Loan,52381814,Withdrawn,Consumer,Non-Interest Bearing,98299533
+253,3/19/2022,Wyoming,Giacomo Bond,8516,3882812,2,9,1221,2,Meghan Small,ED Loan,26046491,Approved,Consumer,Non-Interest Bearing,74936858
+254,12/25/2022,Ohio,Pascale Wright,5540,2562388,0,8,1494,1,Meghan Small,ED Loan,14837076,Declined,Consumer,Non-Interest Bearing,92092987
+255,7/29/2023,Hawaii,Aaron Huffman,4897,8638778,1,8,1284,6,Meghan Small,ED Loan,33739318,Withdrawn,Consumer,Non-Interest Bearing,85334795
+256,3/3/2022,Hawaii,Callum Ballard,2533,5471738,3,19,457,4,Meghan Small,ED Loan,75053268,Approved,Consumer,Non-Interest Bearing,66536244
+257,11/29/2021,Arizona,Unity Sharp,9210,2869940,3,9,630,3,Meghan Small,ED Loan,38613293,Declined,Consumer,Non-Interest Bearing,57233981
+258,12/21/2022,Vermont,Echo Gross,7732,8684885,3,8,1109,5,Meghan Small,ED Loan,84765182,Withdrawn,Consumer,Non-Interest Bearing,77067164
+259,5/2/2023,Wyoming,Montana Beach,6234,1968333,1,2,577,5,Meghan Small,ED Loan,46124796,Approved,Consumer,Non-Interest Bearing,81468205
+260,4/2/2023,Utah,Jorden Boyd,5709,7033302,1,4,705,1,Meghan Small,ED Loan,19029421,Declined,Consumer,Non-Interest Bearing,70423429
+261,11/25/2021,Massachusetts,Caesar Jordan,7906,6592723,3,5,634,6,Meghan Small,ED Loan,75170411,Withdrawn,Consumer,Non-Interest Bearing,70919280
+262,2/5/2023,Maine,Noble Hutchinson,5603,2950389,2,9,1086,4,Meghan Small,ED Loan,18223559,Approved,Consumer,Non-Interest Bearing,83036600
+263,4/4/2022,Washington,Jayme Meyer,6357,2664908,3,1,1228,2,Meghan Small,ED Loan,86733605,Declined,Consumer,Non-Interest Bearing,70130586
+264,12/28/2022,Kansas,Peter Shannon,8646,5005535,2,8,140,6,Meghan Small,ED Loan,25769922,Withdrawn,Consumer,Non-Interest Bearing,91396356
+265,2/14/2022,Minnesota,Lars Lane,7071,3075427,2,23,578,3,Meghan Small,ED Loan,24809376,Approved,Consumer,Non-Interest Bearing,95408456
+266,8/9/2022,Oklahoma,Simon Anthony,5095,5647819,1,22,443,6,Meghan Small,ED Loan,12501343,Declined,Consumer,Non-Interest Bearing,78944074
+267,5/17/2023,Colorado,Dara Pena,6251,5267414,4,1,368,2,Meghan Small,ED Loan,84397684,Withdrawn,Consumer,Non-Interest Bearing,90691788
+268,5/14/2022,Maryland,Athena Nixon,3431,8425723,0,16,860,3,Meghan Small,ED Loan,80918640,Approved,Consumer,Non-Interest Bearing,66764466
+269,12/2/2021,Alaska,Erasmus Collins,4240,2596006,1,13,812,6,Meghan Small,ED Loan,82836212,Declined,Consumer,Non-Interest Bearing,93441128
+270,12/1/2022,Hawaii,Regan Middleton,2444,8582075,3,2,1492,6,Meghan Small,ED Loan,82307140,Withdrawn,Consumer,Non-Interest Bearing,75478283
+271,1/13/2023,Oregon,Jonas Carlson,1847,3317607,0,21,922,5,Meghan Small,ED Loan,51270353,Approved,Consumer,Non-Interest Bearing,91553028
+272,2/23/2023,Hawaii,Sacha Johnson,4007,3881289,4,15,648,4,Meghan Small,ED Loan,43043256,Declined,Consumer,Non-Interest Bearing,63300839
+273,3/12/2023,Wisconsin,Brett Oliver,9176,7647402,5,1,119,2,Meghan Small,ED Loan,24576484,Withdrawn,Consumer,Non-Interest Bearing,67085879
+274,12/9/2022,Hawaii,Kato Anthony,5543,7320375,1,23,361,7,Meghan Small,ED Loan,51089544,Approved,Consumer,Non-Interest Bearing,65491008
+275,2/28/2022,Illinois,Bradley Hammond,3339,1763391,1,8,1347,4,Meghan Small,ED Loan,88955339,Declined,Consumer,Non-Interest Bearing,96088280
+276,3/7/2023,Minnesota,Fletcher Bryant,2054,7877226,4,3,72,2,Meghan Small,ED Loan,56574213,Withdrawn,Consumer,Non-Interest Bearing,97815696
+277,7/21/2022,Colorado,Jameson White,9164,3749448,2,4,313,4,Meghan Small,ED Loan,61276784,Approved,Consumer,Non-Interest Bearing,94232955
+278,9/17/2022,Indiana,Jackson Vinson,1743,8679782,4,17,217,7,Meghan Small,ED Loan,35001653,Declined,Consumer,Non-Interest Bearing,69669436
+279,6/16/2022,Mississippi,Isabelle Estrada,7666,2259500,3,22,1058,2,Meghan Small,ED Loan,4506128,Withdrawn,Consumer,Non-Interest Bearing,84055996
+280,11/19/2022,Colorado,Blythe Irwin,7017,6741453,0,15,905,4,Meghan Small,ED Loan,84033715,Approved,Consumer,Non-Interest Bearing,70640940
+281,9/3/2022,Mississippi,Curran Perkins,5627,1592106,5,9,323,6,Meghan Small,ED Loan,77149407,Declined,Consumer,Non-Interest Bearing,70460330
+282,6/2/2023,Louisiana,Ainsley Grant,4589,6678205,1,11,853,1,Meghan Small,ED Loan,18861461,Withdrawn,Consumer,Non-Interest Bearing,82501407
+283,1/28/2023,Tennessee,Cadman Alvarado,6412,4727651,0,20,979,4,Meghan Small,ED Loan,3483813,Approved,Consumer,Non-Interest Bearing,79474778
+284,6/7/2023,Georgia,Martha Rowe,4477,2830459,1,10,510,2,Meghan Small,ED Loan,84383251,Declined,Consumer,Non-Interest Bearing,61458615
+285,7/28/2022,Maine,Asher Cruz,7153,2914098,0,18,849,3,Meghan Small,ED Loan,59545271,Withdrawn,Consumer,Non-Interest Bearing,77044818
+286,6/24/2023,Wyoming,Caesar Holmes,6068,4255114,3,7,1316,6,Meghan Small,ED Loan,1864646,Approved,Consumer,Non-Interest Bearing,66052884
+287,5/4/2023,Colorado,Xaviera Blackburn,8142,5521088,2,14,949,7,Meghan Small,ED Loan,63837443,Declined,Consumer,Non-Interest Bearing,97465801
+288,1/23/2023,Nevada,Ashely Ochoa,6237,2000851,2,2,848,6,Meghan Small,ED Loan,15069780,Withdrawn,Consumer,Non-Interest Bearing,63543092
+289,1/26/2022,Hawaii,Zephr William,9534,7957690,2,7,1143,5,Meghan Small,ED Loan,740112,Approved,Consumer,Non-Interest Bearing,73036870
+290,5/23/2023,Maine,Kay Good,7440,3354137,4,21,770,6,Meghan Small,ED Loan,88263617,Declined,Consumer,Non-Interest Bearing,82110743
+291,6/21/2023,Idaho,Louis Haynes,3995,2839112,1,20,819,6,Meghan Small,ED Loan,20070967,Withdrawn,Consumer,Non-Interest Bearing,62829793
+292,4/11/2022,Wisconsin,Wilma Hickman,7916,2746046,1,15,1161,2,Meghan Small,ED Loan,10327287,Approved,Consumer,Non-Interest Bearing,89757397
+293,9/6/2022,Connecticut,Justine Kent,3126,2649994,1,19,80,4,Meghan Small,ED Loan,11418431,Declined,Consumer,Non-Interest Bearing,87281379
+294,8/23/2022,Connecticut,Kessie Larson,7291,2204498,4,21,1331,3,Meghan Small,ED Loan,5826710,Withdrawn,Consumer,Non-Interest Bearing,77968102
+295,7/28/2022,Wisconsin,Winifred Wagner,1930,5195233,3,3,1253,5,Meghan Small,ED Loan,83260510,Approved,Consumer,Non-Interest Bearing,96218187
+296,8/3/2022,Missouri,Minerva Hicks,8001,9259445,3,23,536,3,Meghan Small,ED Loan,67969721,Declined,Consumer,Non-Interest Bearing,90986292
+297,12/30/2021,Wyoming,Ifeoma Kinney,3476,7219681,2,3,1455,6,Meghan Small,ED Loan,75274922,Withdrawn,Consumer,Non-Interest Bearing,78555507
+298,7/22/2023,Indiana,Harrison Hansen,3588,9455243,2,22,168,0,Meghan Small,ED Loan,11034570,Approved,Consumer,Non-Interest Bearing,94623298
+299,11/23/2022,Idaho,Isabella Wright,9247,8246032,3,22,378,0,Meghan Small,ED Loan,23504036,Declined,Consumer,Non-Interest Bearing,80108347
+300,8/19/2023,Massachusetts,Unity Stanton,2219,3967516,5,21,157,4,Meghan Small,ED Loan,87867590,Withdrawn,Consumer,Non-Interest Bearing,95539596
+301,7/14/2023,Tennessee,Madaline Melton,5192,6016127,5,21,1470,1,Meghan Small,ED Loan,57046791,Approved,Consumer,Non-Interest Bearing,75407241
+302,11/14/2022,Missouri,Jasmine Goff,4322,4571500,4,1,1099,3,Meghan Small,ED Loan,30260916,Declined,Consumer,Non-Interest Bearing,90201777
+303,5/11/2023,Louisiana,Robin Baker,8159,3416443,0,10,1255,8,Meghan Small,ED Loan,71121533,Withdrawn,Consumer,Non-Interest Bearing,61425667
+304,4/18/2023,Kentucky,Stone Roberson,5574,8722858,1,17,198,0,Meghan Small,ED Loan,86167160,Approved,Consumer,Non-Interest Bearing,68640836
+305,2/9/2022,Arizona,Jessica Mcintosh,3429,4567355,0,3,828,0,Meghan Small,ED Loan,27122312,Declined,Consumer,Non-Interest Bearing,93764054
+306,4/24/2023,Wyoming,Robert Turner,7737,7703112,2,23,846,7,Meghan Small,ED Loan,86174042,Withdrawn,Consumer,Non-Interest Bearing,78278520
+307,12/18/2022,Hawaii,Jamal Roach,4253,9097229,2,5,1082,6,Meghan Small,ED Loan,78657225,Approved,Consumer,Non-Interest Bearing,73392191
+308,6/28/2023,Ohio,Orli Baldwin,4236,7130875,4,8,798,3,Meghan Small,ED Loan,74987947,Declined,Consumer,Non-Interest Bearing,66119776
+309,3/22/2023,Alaska,Martena Warner,1508,2256991,0,15,471,1,Meghan Small,ED Loan,48126372,Withdrawn,Consumer,Non-Interest Bearing,73420251
+310,3/26/2022,Pennsylvania,Kalia Stewart,5027,6124799,0,21,976,0,Meghan Small,ED Loan,83228899,Approved,Consumer,Non-Interest Bearing,64713831
+311,3/5/2023,Georgia,Marshall Lester,3700,1500728,2,9,1174,5,Meghan Small,ED Loan,13903614,Declined,Consumer,Non-Interest Bearing,57851859
+312,2/27/2023,Texas,Ebony Clemons,3275,1688920,0,1,535,1,Meghan Small,ED Loan,23442248,Withdrawn,Consumer,Non-Interest Bearing,72985005
+313,7/12/2023,Missouri,Tate Fuller,1523,3548424,3,22,771,7,Meghan Small,ED Loan,13528716,Approved,Consumer,Non-Interest Bearing,65041727
+314,10/6/2022,Georgia,George Wilson,1864,7449917,3,17,626,7,Meghan Small,ED Loan,4190323,Declined,Consumer,Non-Interest Bearing,71363342
+315,9/15/2022,Kansas,Ivy Byrd,2452,3240132,0,18,52,5,Meghan Small,ED Loan,13623819,Withdrawn,Consumer,Non-Interest Bearing,88411475
+316,6/24/2022,Maine,Uma Morin,3969,6673704,1,11,860,1,Meghan Small,ED Loan,62384206,Approved,Consumer,Non-Interest Bearing,95130014
+317,12/29/2022,Kentucky,Paki Blevins,1793,2683019,4,14,1146,1,Dominique Vargas,ED Loan,20243906,Declined,Consumer,Non-Interest Bearing,79139558
+318,11/10/2022,Alaska,Emily Salazar,6438,9044074,2,18,1084,1,Wang Pearson,ED Loan,6273670,Withdrawn,Consumer,Non-Interest Bearing,66564514
+319,11/23/2021,Connecticut,Otto Turner,4575,3424533,4,12,1024,5,Tanisha Mccray,ED Loan,72636080,Approved,Consumer,Non-Interest Bearing,71183524
+320,11/30/2022,Nebraska,Xantha Forbes,2019,5738495,3,5,466,1,Samuel Manning,ED Loan,68516910,Declined,Consumer,Non-Interest Bearing,95218534
+321,2/23/2022,Arkansas,May Hanson,6013,7580806,1,14,129,6,Odette Pierce,ED Loan,5364971,Withdrawn,Consumer,Non-Interest Bearing,78247049
+322,12/28/2022,Mississippi,Kylan Stanton,8320,1566787,5,12,290,0,Talon Harris,ED Loan,38146133,Approved,Consumer,Non-Interest Bearing,57926359
+323,1/23/2023,Kansas,Riley Mann,1608,6357500,2,12,527,2,Talon Harris,ED Loan,49616261,Declined,Consumer,Non-Interest Bearing,71175297
+324,2/14/2022,Maine,Justine Duran,8207,9309460,3,15,693,5,Talon Harris,ED Loan,55576407,Withdrawn,Consumer,Non-Interest Bearing,64526213
+325,8/11/2022,Kentucky,Noah Shields,3593,6934243,5,12,971,7,Talon Harris,ED Loan,77980158,Approved,Consumer,Non-Interest Bearing,84942577
+326,12/30/2022,Florida,Signe Dillard,5510,1357522,2,17,351,1,Talon Harris,ED Loan,85717117,Declined,Consumer,Non-Interest Bearing,93918370
+327,6/16/2023,Georgia,Grace Schroeder,2511,6406436,4,18,58,0,Talon Harris,ED Loan,40847698,Withdrawn,Consumer,Non-Interest Bearing,73885591
+328,8/16/2023,Utah,Lael Burke,4839,8170303,1,5,1085,1,Talon Harris,ED Loan,81189651,Approved,Consumer,Non-Interest Bearing,61059937
+329,4/7/2022,Iowa,Serena Hill,3978,6671844,4,11,925,8,Talon Harris,ED Loan,16352707,Declined,Consumer,Non-Interest Bearing,85238388
+330,9/14/2022,Ohio,Colby Deleon,7185,9070989,2,10,139,5,Talon Harris,ED Loan,68067129,Withdrawn,Consumer,Non-Interest Bearing,96571066
+331,4/30/2022,Hawaii,Vladimir Carter,2045,8629930,1,16,1352,5,Talon Harris,ED Loan,12014553,Approved,Consumer,Non-Interest Bearing,74850728
+332,12/7/2021,Kansas,Stuart Ward,6619,2536892,2,8,58,2,Talon Harris,ED Loan,40662162,Declined,Consumer,Non-Interest Bearing,57143689
+333,4/4/2023,Massachusetts,Ria Keith,7569,2738524,5,18,526,5,Talon Harris,ED Loan,52366511,Withdrawn,Consumer,Non-Interest Bearing,91762704
+334,11/3/2022,Montana,Sybill Ashley,3506,6628817,3,24,1489,2,Talon Harris,ED Loan,50712178,Approved,Consumer,Non-Interest Bearing,62310919
+335,7/19/2022,Maryland,Yeo Solis,9320,9363455,2,4,1463,1,Talon Harris,ED Loan,69773694,Declined,Consumer,Non-Interest Bearing,91470576
+336,8/24/2022,Nevada,Beck Dominguez,8623,6504668,1,15,1050,0,Talon Harris,ED Loan,39456451,Withdrawn,Consumer,Non-Interest Bearing,57532613
+337,3/23/2022,Wisconsin,Quinn Le,6864,3428305,0,10,883,4,Talon Harris,ED Loan,3266813,Approved,Consumer,Non-Interest Bearing,60019405
+338,5/11/2022,Illinois,Katelyn Trujillo,4758,8028701,3,13,1268,5,Talon Harris,ED Loan,42471306,Declined,Consumer,Non-Interest Bearing,68493272
+339,6/15/2023,Arkansas,Dorothy Schwartz,4256,3881365,1,20,253,3,Talon Harris,ED Loan,67118089,Withdrawn,Consumer,Non-Interest Bearing,62435622
+340,8/21/2022,Florida,Shellie Vincent,7907,1753014,0,15,1109,5,Talon Harris,ED Loan,29894205,Approved,Consumer,Non-Interest Bearing,72303536
+341,7/9/2022,Wyoming,Yoshio Franklin,8142,1353275,5,6,1143,7,Talon Harris,ED Loan,87475280,Declined,Consumer,Non-Interest Bearing,68300630
+342,3/26/2022,Montana,Chaney Delaney,1438,2762164,3,5,744,7,Talon Harris,ED Loan,19081014,Withdrawn,Consumer,Non-Interest Bearing,64420658
+343,12/14/2022,Louisiana,Aquila Pickett,6264,5472195,3,9,1394,2,Talon Harris,ED Loan,36251261,Approved,Consumer,Non-Interest Bearing,70688394
+344,6/14/2023,Wyoming,Lysandra Cantrell,1482,9040181,5,13,341,6,Talon Harris,ED Loan,57419075,Declined,Consumer,Non-Interest Bearing,97591512
+345,12/25/2021,Ohio,Pascale Joseph,4053,4244549,3,23,888,4,Talon Harris,ED Loan,50101480,Withdrawn,Consumer,Non-Interest Bearing,61069607
+346,11/7/2022,Oregon,Darrel Lynch,3238,7027052,4,23,734,4,Talon Harris,ED Loan,76434754,Approved,Consumer,Non-Interest Bearing,70977293
+347,7/25/2022,Indiana,Hedy Shepherd,4735,3117591,2,18,1138,5,Talon Harris,ED Loan,88794312,Declined,Consumer,Non-Interest Bearing,58045706
+348,3/8/2022,Virginia,Herrod O'donnell,7248,4764243,3,19,611,3,Talon Harris,ED Loan,66617367,Withdrawn,Consumer,Non-Interest Bearing,76006904
+349,10/25/2022,Iowa,Carolyn Nolan,1440,7679583,2,13,832,6,Talon Harris,ED Loan,72392459,Approved,Consumer,Non-Interest Bearing,60600044
+350,1/5/2023,Alaska,Deirdre Faulkner,4872,1295331,5,17,884,0,Talon Harris,ED Loan,33237090,Declined,Consumer,Non-Interest Bearing,70330345
+351,4/1/2023,Louisiana,Indigo Salinas,6838,7230041,1,15,1079,4,Talon Harris,ED Loan,49545809,Withdrawn,Consumer,Non-Interest Bearing,91093297
+352,7/28/2022,Colorado,Rachel Dennis,7883,1438066,0,3,1236,3,Talon Harris,ED Loan,49988796,Approved,Consumer,Non-Interest Bearing,62530095
+353,10/14/2022,Alabama,Audrey Vasquez,3367,1629156,1,3,686,2,Talon Harris,ED Loan,44603516,Declined,Consumer,Non-Interest Bearing,93398863
+354,8/17/2023,Ohio,Rahim Lott,7732,1789425,5,20,1168,8,Talon Harris,ED Loan,18886912,Withdrawn,Consumer,Non-Interest Bearing,62803882
+355,5/30/2023,Kansas,Jael Steele,2944,3082148,3,5,405,5,Talon Harris,ED Loan,82624942,Approved,Consumer,Non-Interest Bearing,92579530
+356,4/28/2022,Missouri,Galena Mathis,3314,5989163,4,16,805,3,Talon Harris,ED Loan,32639896,Declined,Consumer,Non-Interest Bearing,56886209
+357,11/27/2022,Missouri,Georgia Conner,6713,8824468,2,22,114,8,Talon Harris,ED Loan,40190768,Withdrawn,Consumer,Non-Interest Bearing,84967660
+358,2/15/2022,Washington,Neve Sweeney,3254,8775760,4,3,783,7,Talon Harris,ED Loan,16294143,Approved,Consumer,Non-Interest Bearing,67048576
+359,6/18/2022,Arizona,Lenore Hoffman,2853,4564580,2,10,360,8,Talon Harris,ED Loan,80751111,Declined,Consumer,Non-Interest Bearing,93935299
+360,2/5/2023,Florida,Elmo Perez,5475,3029997,2,7,1379,7,Talon Harris,ED Loan,42885502,Withdrawn,Consumer,Non-Interest Bearing,82040642
+361,1/11/2022,Mississippi,Lucian Stokes,8518,3641511,2,15,346,1,Talon Harris,ED Loan,62920197,Approved,Consumer,Non-Interest Bearing,74626953
+362,9/16/2022,Kentucky,Fleur Fletcher,7638,8070814,3,16,664,0,Talon Harris,ED Loan,19804442,Declined,Consumer,Non-Interest Bearing,63413014
+363,12/26/2021,Arizona,Dustin Hutchinson,9377,6310914,1,2,193,3,Talon Harris,ED Loan,33346851,Withdrawn,Consumer,Non-Interest Bearing,97433491
+364,4/27/2023,Virginia,Ginger Hatfield,4541,6539765,2,1,822,7,Talon Harris,ED Loan,13769307,Approved,Consumer,Non-Interest Bearing,81926246
+365,1/4/2023,Louisiana,Dante Osborn,5366,9135336,1,6,551,1,Talon Harris,ED Loan,63423455,Declined,Consumer,Non-Interest Bearing,88585555
+366,4/9/2023,Vermont,Silas Franks,1508,1411141,1,3,1164,1,Talon Harris,ED Loan,18427480,Withdrawn,Consumer,Non-Interest Bearing,92066296
+367,1/7/2023,Connecticut,Edward Shields,8177,6438902,1,8,631,8,Talon Harris,ED Loan,38868949,Approved,Consumer,Non-Interest Bearing,83418813
+368,4/24/2022,Vermont,Lawrence Walton,6969,4754645,4,12,1260,2,Talon Harris,ED Loan,14925177,Declined,Consumer,Non-Interest Bearing,70303292
+369,3/15/2023,Arizona,Jonas Casey,3564,2231541,3,10,1485,5,Talon Harris,ED Loan,59424755,Withdrawn,Consumer,Non-Interest Bearing,80766490
+370,3/3/2022,Georgia,Orson Carson,4428,8195901,3,14,929,4,Talon Harris,ED Loan,1483928,Approved,Consumer,Non-Interest Bearing,77080117
+371,4/20/2023,Louisiana,Nerea Castillo,2967,6401392,2,17,769,1,Talon Harris,ED Loan,41698139,Declined,Consumer,Non-Interest Bearing,67450762
+372,8/11/2022,Utah,Lael Bennett,3164,6928792,0,0,1325,6,Talon Harris,ED Loan,81124564,Withdrawn,Consumer,Non-Interest Bearing,77377102
+373,2/10/2023,Connecticut,Kimberley Richard,3272,5568494,2,17,1485,7,Talon Harris,ED Loan,22216481,Approved,Consumer,Non-Interest Bearing,76883027
+374,5/17/2022,Tennessee,Herman Puckett,3860,6251521,0,10,1009,6,Talon Harris,ED Loan,83239112,Declined,Consumer,Non-Interest Bearing,87088570
+375,3/14/2022,Hawaii,Dylan Sandoval,6725,4450824,1,11,1388,1,Talon Harris,ED Loan,16153710,Withdrawn,Consumer,Non-Interest Bearing,63902262
+376,8/11/2023,Hawaii,Yuli Harrell,6446,8289573,0,8,473,1,Talon Harris,ED Loan,48192508,Approved,Consumer,Non-Interest Bearing,65107661
+377,3/29/2023,Indiana,Alexandra Rodriquez,3212,9460651,3,4,889,5,Talon Harris,ED Loan,15432187,Declined,Consumer,Non-Interest Bearing,76160427
+378,2/4/2023,Hawaii,Sybill Giles,2673,4574595,0,18,70,4,Talon Harris,ED Loan,30453112,Withdrawn,Consumer,Non-Interest Bearing,89175189
+379,4/25/2023,Massachusetts,Sean Sampson,1990,2095317,0,8,791,2,Talon Harris,ED Loan,85337596,Approved,Consumer,Non-Interest Bearing,94897247
+380,11/15/2022,California,Blythe Le,5420,5146694,1,17,1171,7,Talon Harris,ED Loan,82337363,Declined,Consumer,Non-Interest Bearing,85110692
+381,1/13/2022,Delaware,Amy Henson,7620,8826513,0,13,223,7,Talon Harris,ED Loan,4342739,Withdrawn,Consumer,Non-Interest Bearing,71367904
+382,4/20/2023,Alabama,Barrett Dawson,9098,3319281,0,20,693,2,Talon Harris,ED Loan,69444854,Approved,Consumer,Non-Interest Bearing,62795540
+383,5/2/2023,Hawaii,Libby Monroe,3239,8147192,5,14,102,8,Talon Harris,ED Loan,22908218,Declined,Consumer,Non-Interest Bearing,63277686
+384,4/14/2022,Montana,Barclay Armstrong,5276,2429185,2,10,774,3,Talon Harris,ED Loan,25941718,Withdrawn,Consumer,Non-Interest Bearing,84809018
+385,1/23/2023,Maryland,Flavia Hanson,9398,4870150,2,7,769,3,Talon Harris,ED Loan,86941244,Approved,Consumer,Non-Interest Bearing,86970597
+386,5/16/2022,Delaware,Reagan Dunlap,6896,6775848,0,1,93,3,Talon Harris,ED Loan,57226643,Declined,Consumer,Non-Interest Bearing,58202717
+387,2/23/2023,Vermont,Colin Gibson,5556,5748616,0,23,264,7,Talon Harris,ED Loan,35267795,Withdrawn,Consumer,Non-Interest Bearing,77387730
+388,3/6/2023,Vermont,Colorado Wilson,3895,2840675,2,16,79,3,Talon Harris,ED Loan,6054252,Approved,Consumer,Non-Interest Bearing,81497081
+389,1/28/2023,Arizona,Desiree Christian,7482,5817148,3,19,1024,2,Talon Harris,ED Loan,48161256,Declined,Consumer,Non-Interest Bearing,77471266
+390,8/22/2022,Nevada,Hamish Hanson,6220,5118668,3,12,1228,7,Talon Harris,ED Loan,23513820,Withdrawn,Consumer,Non-Interest Bearing,59438654
+391,6/20/2022,Tennessee,Briar Howell,5328,2414088,1,10,360,3,Talon Harris,ED Loan,35265209,Approved,Consumer,Non-Interest Bearing,91760451
+392,1/9/2022,Nevada,Ahmed Walton,3239,6754222,1,5,811,7,Talon Harris,ED Loan,64800877,Declined,Consumer,Non-Interest Bearing,65803592
+393,7/6/2022,Arizona,Stacy Webb,6304,3130568,4,5,342,7,Talon Harris,ED Loan,46809454,Withdrawn,Consumer,Non-Interest Bearing,68370090
+394,4/13/2023,Hawaii,Elijah Stout,5174,6499346,1,15,95,5,Talon Harris,ED Loan,1255498,Approved,Consumer,Non-Interest Bearing,65358292
+395,12/18/2021,Missouri,Rhiannon Holt,8417,1797368,2,9,716,6,Talon Harris,ED Loan,60410534,Declined,Consumer,Non-Interest Bearing,67876659
+396,3/22/2022,Mississippi,Clementine Atkins,4365,5038084,3,23,1484,1,Talon Harris,ED Loan,11603762,Withdrawn,Consumer,Non-Interest Bearing,59517652
+397,4/29/2023,Missouri,Mohammad Castro,1820,2492554,2,9,485,3,Talon Harris,ED Loan,79808147,Approved,Consumer,Non-Interest Bearing,66222338
+398,4/11/2023,Maryland,Rashad Stephens,8491,1450942,3,12,267,1,Talon Harris,ED Loan,13562552,Declined,Consumer,Non-Interest Bearing,75589028
+399,10/15/2022,Nebraska,Alexa Hahn,8716,8144949,3,8,1280,0,Talon Harris,ED Loan,73454047,Withdrawn,Consumer,Non-Interest Bearing,81167582
+400,7/11/2022,Florida,Porter Fry,2422,7654352,1,2,156,5,Talon Harris,ED Loan,78578857,Approved,Consumer,Non-Interest Bearing,78637736
+401,8/20/2023,Washington,Melodie Dorsey,6773,4043407,5,14,446,1,Talon Harris,ED Loan,16933296,Declined,Consumer,Non-Interest Bearing,63279337
+402,6/21/2023,Alaska,Kieran Cross,9224,1604320,4,9,95,2,Talon Harris,ED Loan,4547722,Withdrawn,Consumer,Non-Interest Bearing,76523480
+403,3/31/2022,Maine,Kermit Powers,6308,8991308,2,2,1496,6,Talon Harris,ED Loan,2325620,Approved,Consumer,Non-Interest Bearing,66481818
+404,3/19/2023,Florida,Warren Gay,4151,7013267,4,4,69,5,Talon Harris,ED Loan,23366546,Declined,Consumer,Non-Interest Bearing,77870864
+405,5/12/2022,Hawaii,Ahmed Landry,7961,6520175,2,14,1418,3,Talon Harris,ED Loan,33718555,Withdrawn,Consumer,Non-Interest Bearing,86772647
+406,3/16/2023,Texas,Bree Vega,3628,7714568,0,21,670,4,Talon Harris,ED Loan,56146904,Approved,Consumer,Non-Interest Bearing,62270623
+407,10/26/2022,Wisconsin,Tatyana Moss,1862,8418431,1,3,501,4,Talon Harris,ED Loan,53326951,Declined,Consumer,Non-Interest Bearing,97933142
+408,9/29/2022,Michigan,Colt Wilson,4329,8788689,4,16,1290,0,Talon Harris,ED Loan,42470002,Withdrawn,Consumer,Non-Interest Bearing,81815801
+409,1/12/2023,Missouri,Alan Austin,8012,4091467,3,4,934,7,Talon Harris,ED Loan,83951413,Approved,Consumer,Non-Interest Bearing,89022379
+410,5/23/2022,Tennessee,Alfreda Mays,3415,5739533,3,5,992,8,Talon Harris,ED Loan,73319719,Declined,Consumer,Non-Interest Bearing,62159544
+411,5/6/2023,Alaska,Mollie Harrell,4775,4886517,4,21,482,6,Talon Harris,ED Loan,38878448,Withdrawn,Consumer,Non-Interest Bearing,59261144
+412,8/19/2022,Alabama,Signe Sanford,2142,7204105,0,22,1426,0,Talon Harris,ED Loan,70299553,Approved,Consumer,Non-Interest Bearing,94171383
+413,3/13/2022,Massachusetts,Axel Abbott,3197,3867033,4,23,554,5,Talon Harris,ED Loan,73124135,Declined,Consumer,Non-Interest Bearing,90952743
+414,8/11/2022,Connecticut,Troy Sosa,7654,1533267,2,9,107,3,Talon Harris,ED Loan,50009467,Withdrawn,Consumer,Non-Interest Bearing,62580854
+415,4/4/2022,Indiana,Todd Duncan,8917,8404270,3,22,804,5,Talon Harris,ED Loan,72391418,Approved,Consumer,Non-Interest Bearing,97008735
+416,12/22/2022,Massachusetts,Honorato Sweeney,3026,9392380,1,9,859,6,Talon Harris,ED Loan,9674459,Declined,Consumer,Non-Interest Bearing,94739844
+417,2/21/2022,Michigan,Garrison Guerra,6973,1944414,4,1,288,5,Talon Harris,ED Loan,81973435,Withdrawn,Consumer,Non-Interest Bearing,64052230
+418,4/5/2022,Massachusetts,Savannah Cash,9196,7318585,0,17,545,6,Talon Harris,ED Loan,13754111,Approved,Consumer,Non-Interest Bearing,90867542
+419,10/18/2022,Oregon,Duncan Giles,9295,7869596,3,5,73,6,Talon Harris,ED Loan,47597891,Declined,Consumer,Non-Interest Bearing,83204845
+420,2/26/2022,Vermont,Harrison Holt,8714,2199156,5,6,1363,1,Talon Harris,ED Loan,41723164,Withdrawn,Consumer,Non-Interest Bearing,59788709
+421,7/4/2023,Michigan,Jacob Edwards,7265,9418921,5,4,285,2,Talon Harris,ED Loan,34900070,Approved,Consumer,Non-Interest Bearing,92938717
+422,11/28/2021,Georgia,Stacy Good,8788,3588227,4,13,1479,6,Talon Harris,ED Loan,17101617,Declined,Consumer,Non-Interest Bearing,59760621
+423,12/14/2021,Texas,Breanna Shepard,7861,3132866,4,3,1314,6,Talon Harris,ED Loan,56920276,Withdrawn,Consumer,Non-Interest Bearing,65880815
+424,9/5/2022,Oregon,Ima Mercer,2640,4168197,3,24,1454,7,Talon Harris,ED Loan,29445952,Approved,Consumer,Non-Interest Bearing,76048664
+425,4/7/2023,Arkansas,Kiara Deleon,2666,7578690,5,12,57,5,Talon Harris,ED Loan,86460269,Declined,Consumer,Non-Interest Bearing,90313946
+426,5/30/2022,Georgia,Bree Mason,6382,3037712,2,7,480,3,Talon Harris,ED Loan,2222861,Withdrawn,Consumer,Non-Interest Bearing,96323698
+427,7/29/2023,Maryland,Xandra Mckinney,6356,5229591,3,19,141,7,Talon Harris,ED Loan,92965,Approved,Consumer,Non-Interest Bearing,66701835
+428,1/1/2022,Maine,Erin Burns,3173,2320068,2,0,1401,1,Talon Harris,ED Loan,64007161,Declined,Consumer,Non-Interest Bearing,67527409
+429,3/29/2023,Nevada,Yolanda Thornton,4639,8582296,4,0,765,6,Talon Harris,ED Loan,54570203,Withdrawn,Consumer,Non-Interest Bearing,61644088
+430,11/23/2022,Minnesota,Wynne Poole,8098,5175833,0,18,392,7,Talon Harris,ED Loan,27281996,Approved,Consumer,Non-Interest Bearing,97946087
+431,1/28/2022,Nevada,Marah House,2463,3251273,0,4,1343,3,Talon Harris,ED Loan,62617613,Declined,Consumer,Non-Interest Bearing,92063310
+432,12/13/2021,Minnesota,Kadeem Hayes,2810,6950741,3,6,1135,5,Talon Harris,ED Loan,84465093,Withdrawn,Consumer,Non-Interest Bearing,64326719
+433,7/12/2023,Florida,Eagan House,3243,4061021,3,15,229,4,Talon Harris,ED Loan,2219055,Approved,Consumer,Non-Interest Bearing,66390466
+434,8/29/2022,Washington,Guy Stephens,7701,7088415,3,3,70,6,Talon Harris,ED Loan,26148105,Declined,Consumer,Non-Interest Bearing,94022029
+435,1/27/2022,Georgia,Merrill Berg,8400,1758292,3,22,1292,1,Talon Harris,ED Loan,20951374,Withdrawn,Consumer,Non-Interest Bearing,73191607
+436,12/18/2021,Wisconsin,Jesse Pacheco,4312,2731845,3,17,309,0,Talon Harris,ED Loan,4504276,Approved,Consumer,Non-Interest Bearing,96727416
+437,9/17/2022,Nevada,Linda Rodriquez,8663,6161466,4,15,1498,8,Talon Harris,ED Loan,9865847,Declined,Consumer,Non-Interest Bearing,94760860
+438,1/28/2023,Indiana,Cleo Myers,9046,6249453,5,21,721,5,Talon Harris,ED Loan,81611014,Withdrawn,Consumer,Non-Interest Bearing,70253157
+439,8/4/2022,Louisiana,Ryder Spencer,1659,2723291,4,20,947,5,Talon Harris,ED Loan,25146130,Approved,Consumer,Non-Interest Bearing,80969785
+440,1/28/2022,Kansas,Kennan Anthony,2204,3846516,3,7,1033,7,Talon Harris,ED Loan,80501606,Declined,Consumer,Non-Interest Bearing,71799684
+441,3/24/2022,Oklahoma,Prescott Shannon,3848,5583388,0,17,104,4,Talon Harris,ED Loan,11478523,Withdrawn,Consumer,Non-Interest Bearing,78843585
+442,5/21/2022,California,Plato Gilbert,9263,8334577,2,10,441,2,Talon Harris,ED Loan,56141475,Approved,Consumer,Non-Interest Bearing,98701166
+443,12/17/2022,Maryland,Maisie Mcfadden,6435,7320367,2,11,1455,4,Talon Harris,ED Loan,3580009,Declined,Consumer,Non-Interest Bearing,69225481
+444,2/23/2023,Pennsylvania,Diana Pope,1440,7815964,1,1,132,3,Talon Harris,ED Loan,17821052,Withdrawn,Consumer,Non-Interest Bearing,73802522
+445,7/25/2022,California,Ella Ellis,2212,7413998,5,22,780,2,Talon Harris,ED Loan,7032056,Approved,Consumer,Non-Interest Bearing,68111665
+446,4/22/2023,Oklahoma,Dai Combs,3796,6680139,4,3,548,6,Talon Harris,ED Loan,75109757,Declined,Consumer,Non-Interest Bearing,85864117
+447,5/17/2022,Iowa,Sopoline Spence,2298,3691120,1,7,188,3,Talon Harris,ED Loan,6524916,Withdrawn,Consumer,Non-Interest Bearing,85493870
+448,5/8/2022,Idaho,Wang Griffith,3704,6447395,3,18,1310,2,Talon Harris,ED Loan,32439723,Approved,Consumer,Non-Interest Bearing,96080644
+449,3/16/2023,Ohio,Brendan Hawkins,3453,9211508,1,22,916,7,Talon Harris,ED Loan,85104143,Declined,Consumer,Non-Interest Bearing,83133608
+450,7/6/2022,Minnesota,Teagan Hodges,5704,5942032,1,23,1270,1,Talon Harris,ED Loan,58982078,Withdrawn,Consumer,Non-Interest Bearing,68909228
+451,4/12/2023,Arizona,Selma Welch,7138,1725994,2,13,1449,6,Talon Harris,ED Loan,78618471,Approved,Consumer,Non-Interest Bearing,82264448
+452,2/6/2023,Kansas,Ina Mckinney,1633,7299935,1,5,528,0,Talon Harris,ED Loan,14695145,Declined,Consumer,Non-Interest Bearing,61405394
+453,4/11/2023,Florida,Edan Moreno,3559,7002830,3,15,117,6,Talon Harris,ED Loan,36412369,Withdrawn,Consumer,Non-Interest Bearing,78558838
+454,2/28/2022,Alabama,Lewis Sargent,6118,4984840,1,8,123,5,Talon Harris,ED Loan,32387662,Approved,Consumer,Non-Interest Bearing,95741114
+455,12/28/2021,Oklahoma,Buffy Rojas,1310,8940755,2,9,1075,6,Talon Harris,ED Loan,59482225,Declined,Consumer,Non-Interest Bearing,66064831
+456,3/22/2023,Colorado,Baker Wilder,7381,9157711,4,9,1350,5,Talon Harris,ED Loan,34888885,Withdrawn,Consumer,Non-Interest Bearing,90578781
+457,12/21/2021,Kentucky,Regan Bright,4043,3238525,3,6,77,1,Talon Harris,ED Loan,44077899,Approved,Consumer,Non-Interest Bearing,61157146
+458,5/24/2022,California,Hammett Cannon,5968,1985100,5,18,810,3,Talon Harris,ED Loan,6831997,Declined,Consumer,Non-Interest Bearing,96973010
+459,4/7/2022,Hawaii,TaShya Sharp,8839,5423073,5,8,85,4,Talon Harris,ED Loan,55965246,Withdrawn,Consumer,Non-Interest Bearing,66978559
+460,8/16/2022,Vermont,Jacob Levy,2778,8891469,5,22,1111,2,Talon Harris,ED Loan,84260354,Approved,Consumer,Non-Interest Bearing,77221155
+461,12/25/2022,Michigan,Yasir Dyer,5214,8430231,1,16,1226,4,Talon Harris,ED Loan,19691486,Declined,Consumer,Non-Interest Bearing,91259175
+462,10/16/2022,Michigan,Jamal Terry,9503,5601783,2,11,519,4,Talon Harris,ED Loan,76817122,Withdrawn,Consumer,Non-Interest Bearing,84642335
+463,3/8/2022,Illinois,Elmo Foster,7047,3255773,3,8,247,6,Talon Harris,ED Loan,25495260,Approved,Consumer,Non-Interest Bearing,69451459
+464,7/13/2022,Nevada,Sigourney Singleton,5308,4437578,2,22,1180,1,Talon Harris,ED Loan,20002956,Declined,Consumer,Non-Interest Bearing,81441510
+465,11/6/2022,Florida,Fritz Mullins,7526,4731817,4,13,392,1,Talon Harris,ED Loan,21201022,Withdrawn,Consumer,Non-Interest Bearing,84413811
+466,11/28/2021,Louisiana,Indigo Reyes,7981,8104689,1,19,271,8,Talon Harris,ED Loan,41929016,Approved,Consumer,Non-Interest Bearing,79780100
+467,3/12/2022,Vermont,Raya Miller,5781,3882800,2,2,860,8,Talon Harris,ED Loan,79193490,Declined,Consumer,Non-Interest Bearing,93864075
+468,4/23/2023,Wyoming,Donna Barlow,6223,5818948,4,11,732,0,Talon Harris,ED Loan,35196692,Withdrawn,Consumer,Non-Interest Bearing,91886413
+469,12/13/2022,Maryland,Dustin Joseph,8238,3243037,1,10,949,3,Talon Harris,ED Loan,72689234,Approved,Consumer,Non-Interest Bearing,83108426
+470,2/13/2022,Michigan,Ezra Washington,8585,5310663,4,2,1117,6,Talon Harris,ED Loan,59661788,Declined,Consumer,Non-Interest Bearing,80487671
+471,7/17/2023,Utah,Macaulay May,5960,2052039,3,12,1300,0,Talon Harris,ED Loan,61624681,Withdrawn,Consumer,Non-Interest Bearing,65492760
+472,7/19/2023,Tennessee,Leslie Turner,8615,7721547,2,10,384,7,Talon Harris,ED Loan,4111592,Approved,Consumer,Non-Interest Bearing,69757338
+473,8/15/2022,Vermont,Dean Whitehead,1444,1356154,4,7,1224,1,Talon Harris,ED Loan,27174097,Declined,Consumer,Non-Interest Bearing,80936703
+474,8/7/2022,Texas,Lance Crane,7843,2224941,3,13,567,3,Talon Harris,ED Loan,3178182,Withdrawn,Consumer,Non-Interest Bearing,71743499
+475,9/19/2022,Nevada,Kasper Bauer,4014,5612785,3,16,989,6,Talon Harris,ED Loan,31297316,Approved,Consumer,Non-Interest Bearing,61400212
+476,10/14/2022,Vermont,Perry Everett,9003,4626538,4,12,664,5,Talon Harris,ED Loan,69060762,Declined,Consumer,Non-Interest Bearing,82558609
+477,11/29/2021,Pennsylvania,Burke Hendrix,7984,7644309,4,6,467,8,Talon Harris,ED Loan,34908678,Withdrawn,Consumer,Non-Interest Bearing,76578553
+478,5/8/2023,Ohio,Cyrus Jacobs,5565,4434709,4,3,1035,0,Talon Harris,ED Loan,65425548,Approved,Consumer,Non-Interest Bearing,56794910
+479,4/19/2023,Wisconsin,Oliver Branch,9489,9028606,0,21,873,2,Talon Harris,ED Loan,73727032,Declined,Consumer,Non-Interest Bearing,72438330
+480,4/6/2023,California,Jael Roberts,1882,3064032,3,23,1076,4,Talon Harris,ED Loan,56218974,Withdrawn,Consumer,Non-Interest Bearing,91027790
+481,2/5/2023,Wyoming,Jared Tyler,6115,1987096,1,11,697,5,Talon Harris,ED Loan,3228658,Approved,Consumer,Non-Interest Bearing,73038303
+482,4/8/2023,Maine,Nayda Curtis,6881,4311470,3,6,1153,3,Talon Harris,ED Loan,40425729,Declined,Consumer,Non-Interest Bearing,81293556
+483,12/1/2022,Indiana,Martha Hernandez,4564,1634497,1,22,1186,6,Talon Harris,ED Loan,66803267,Withdrawn,Consumer,Non-Interest Bearing,94325696
+484,12/31/2021,Vermont,Rhona Holman,7491,3858916,1,11,433,2,Talon Harris,ED Loan,77437902,Approved,Consumer,Non-Interest Bearing,92921479
+485,2/7/2022,Vermont,Venus Pennington,7562,1457998,2,11,1054,3,Talon Harris,ED Loan,63851788,Declined,Consumer,Interest Bearing,60539318
+486,1/31/2023,Vermont,Xavier Peters,8051,8845143,3,11,433,1,Talon Harris,ED Loan,62140699,Withdrawn,Consumer,Interest Bearing,75471029
+487,7/14/2023,Colorado,Tarik Fulton,1833,5539591,2,5,278,0,Talon Harris,ED Loan,55245262,Approved,Consumer,Interest Bearing,76153991
+488,1/20/2023,Delaware,Deacon Jennings,1307,7543805,4,2,529,3,Talon Harris,ED Loan,13367966,Declined,Consumer,Interest Bearing,75001176
+489,1/12/2022,Ohio,Ursula Randolph,3853,9037796,3,8,1328,8,Talon Harris,ED Loan,20675331,Withdrawn,Consumer,Interest Bearing,62466714
+490,3/23/2023,Hawaii,Signe Kaufman,7331,2156770,2,17,472,4,Talon Harris,ED Loan,59903456,Approved,Consumer,Interest Bearing,75197677
+491,12/24/2022,Connecticut,Karleigh Keller,7842,6855947,4,10,481,0,Talon Harris,ED Loan,83915877,Declined,Consumer,Interest Bearing,60952380
+492,10/2/2022,Massachusetts,Abigail Stone,2242,1327835,4,1,620,6,Talon Harris,ED Loan,48804061,Withdrawn,Consumer,Interest Bearing,73349196
+493,5/17/2023,Michigan,Elijah Washington,9057,6022537,3,9,1229,5,Talon Harris,ED Loan,43199595,Approved,Consumer,Interest Bearing,76833587
+494,7/28/2023,Ohio,Mariam Tyler,8233,6631290,2,16,118,5,Talon Harris,ED Loan,5579097,Declined,Consumer,Interest Bearing,81157511
+495,1/5/2022,Texas,Ishmael Walker,3088,8359577,3,13,90,7,Talon Harris,ED Loan,31375470,Withdrawn,Consumer,Interest Bearing,98774909
+496,1/15/2022,Washington,Yardley Fisher,4975,8711967,3,3,798,2,Talon Harris,ED Loan,82269760,Approved,Consumer,Interest Bearing,65987237
+497,8/16/2022,Tennessee,Audra Koch,4748,1744824,2,20,318,6,Talon Harris,ED Loan,20522328,Declined,Consumer,Interest Bearing,97615515
+498,1/1/2022,Pennsylvania,Drake Daniel,2373,8268135,2,22,1069,3,Talon Harris,ED Loan,78692902,Withdrawn,Consumer,Interest Bearing,78781508
+499,7/12/2022,Missouri,Ruth Willis,6546,7617656,5,3,1454,4,Talon Harris,ED Loan,3556857,Approved,Consumer,Interest Bearing,96004695
+500,8/12/2023,Idaho,Paula Rutledge,7725,3395507,4,17,1253,6,Talon Harris,ED Loan,86365812,Declined,Consumer,Interest Bearing,80720729
+501,12/3/2022,Georgia,Alden Adkins,2132,7275764,2,19,1050,5,Talon Harris,ED Loan,3689433,Withdrawn,Consumer,Interest Bearing,75276205
+502,6/7/2023,Massachusetts,Larissa Russell,8523,7827654,3,14,845,0,Talon Harris,ED Loan,33709093,Approved,Consumer,Interest Bearing,79010129
+503,3/16/2022,Montana,Rylee Simpson,2805,3752582,0,11,632,8,Talon Harris,ED Loan,41525404,Declined,Consumer,Interest Bearing,85586981
+504,3/16/2022,Delaware,Damon Thomas,1377,2831411,5,6,1255,3,Talon Harris,ED Loan,12480196,Withdrawn,Consumer,Interest Bearing,74260899
+505,4/22/2023,Kentucky,Karleigh Reeves,6117,4545967,4,15,1488,3,Talon Harris,ED Loan,4756409,Approved,Consumer,Interest Bearing,75438758
+506,4/25/2022,California,Stone Howell,7984,2484722,3,23,1415,4,Talon Harris,ED Loan,59053442,Declined,Consumer,Interest Bearing,64957102
+507,12/8/2022,Pennsylvania,Amethyst Keller,7368,2683943,1,3,234,1,Talon Harris,ED Loan,34563390,Withdrawn,Consumer,Interest Bearing,76623307
+508,1/30/2023,Missouri,Edward Mcdaniel,1445,5619919,1,2,1446,5,Talon Harris,ED Loan,84672141,Approved,Consumer,Interest Bearing,60058993
+509,12/24/2022,Nevada,Chastity Kirby,1928,3883188,3,7,1427,1,Talon Harris,ED Loan,70234134,Declined,Consumer,Interest Bearing,78727841
+510,6/7/2023,Nebraska,Mikayla Knapp,4389,4951903,0,13,1329,1,Talon Harris,ED Loan,53709766,Withdrawn,Consumer,Interest Bearing,61720631
+511,12/12/2022,Tennessee,Elvis Fowler,5157,1668944,2,1,298,3,Talon Harris,ED Loan,41027497,Approved,Consumer,Interest Bearing,57383922
+512,5/1/2022,Maryland,Pandora Montoya,6125,2741824,4,3,444,3,Talon Harris,ED Loan,57865896,Declined,Consumer,Interest Bearing,60732244
+513,3/20/2023,Arizona,Halee Briggs,5948,9066108,4,4,661,2,Talon Harris,ED Loan,70661203,Withdrawn,Consumer,Interest Bearing,73228308
+514,4/5/2023,Kansas,Xyla Dickson,4927,2438634,1,9,167,0,Talon Harris,ED Loan,907007,Approved,Consumer,Interest Bearing,71511061
+515,5/18/2022,Illinois,April Black,5337,8376635,2,21,1247,1,Talon Harris,ED Loan,38133901,Declined,Consumer,Interest Bearing,67263706
+516,5/29/2023,Louisiana,Eliana Brock,9192,8094213,1,3,1051,7,Talon Harris,ED Loan,86464853,Withdrawn,Consumer,Interest Bearing,89792979
+517,11/8/2022,Missouri,Alika Jennings,9159,5438724,0,23,797,2,Talon Harris,ED Loan,66358854,Approved,Consumer,Interest Bearing,71935951
+518,3/7/2023,Delaware,Jade Cantrell,4580,4410423,4,3,1044,0,Talon Harris,ED Loan,27612811,Declined,Consumer,Interest Bearing,78416243
+519,8/20/2023,Kansas,Lael Wong,5421,5099796,1,17,1411,7,Talon Harris,ED Loan,74957807,Withdrawn,Consumer,Interest Bearing,57378961
+520,3/19/2022,Pennsylvania,Belle Sanford,9218,7264066,4,12,771,7,Talon Harris,ED Loan,45323324,Approved,Consumer,Interest Bearing,87152557
+521,4/16/2023,Alaska,Kaseem Chambers,2235,5681586,4,10,714,1,Talon Harris,ED Loan,9786909,Declined,Consumer,Interest Bearing,79837253
+522,11/20/2022,Wyoming,Eagan Rogers,6321,4017021,2,12,57,4,Talon Harris,ED Loan,82687441,Declined,Consumer,Interest Bearing,66377915
+523,6/10/2023,Wisconsin,Kylan Walls,2578,1520064,2,8,901,3,Talon Harris,ED Loan,36743050,Declined,Consumer,Interest Bearing,96983581
+524,12/24/2021,Oklahoma,Gil Albert,4602,5865857,2,17,475,0,Talon Harris,ED Loan,25616857,Declined,Consumer,Interest Bearing,72231887
+525,2/17/2023,Arizona,Judith Fry,6101,1295783,3,10,55,4,Talon Harris,ED Loan,12873575,Declined,Consumer,Interest Bearing,58848462
+526,11/11/2022,Maryland,Anika Riley,2564,6136011,4,24,1041,7,Talon Harris,ED Loan,40684717,Declined,Consumer,Interest Bearing,84186779
+527,4/12/2023,Oregon,Dorian Swanson,8962,2731295,5,3,114,2,Talon Harris,ED Loan,46832635,Declined,Consumer,Interest Bearing,83906531
+528,7/3/2023,Oregon,Camilla Levy,4888,6847471,0,22,1219,4,Talon Harris,ED Loan,30211288,Declined,Consumer,Interest Bearing,87185311
+529,11/23/2021,Massachusetts,Solomon Fitzpatrick,9308,3729265,3,20,300,8,Talon Harris,ED Loan,1385629,Declined,Consumer,Interest Bearing,61646269
+530,9/5/2022,Maryland,Slade Sellers,5315,4157016,4,17,144,6,Talon Harris,ED Loan,59418436,Declined,Consumer,Interest Bearing,70873303
+531,2/28/2022,Connecticut,Odette Jenkins,9356,7129159,2,1,502,5,Talon Harris,ED Loan,78320192,Declined,Consumer,Interest Bearing,87422070
+532,9/20/2022,Arkansas,Vera Rhodes,6187,4577465,3,5,509,7,Talon Harris,ED Loan,82055672,Declined,Consumer,Interest Bearing,89447230
+533,3/25/2022,Missouri,Lars Garcia,2747,9417549,5,15,385,8,Talon Harris,ED Loan,83178023,Declined,Consumer,Interest Bearing,60596985
+534,2/16/2023,Colorado,Driscoll Austin,5303,8203827,4,12,403,1,Talon Harris,ED Loan,70969533,Declined,Consumer,Interest Bearing,83176290
+535,4/23/2023,Nebraska,Connor Jennings,7848,4782573,1,22,1025,5,Talon Harris,ED Loan,14095384,Declined,Consumer,Interest Bearing,59930594
+536,4/12/2022,Florida,Lars Moses,3188,4483161,2,9,443,1,Talon Harris,ED Loan,72283595,Declined,Consumer,Interest Bearing,69392620
+537,12/5/2021,Georgia,Signe Reeves,5076,7356200,5,11,1486,3,Talon Harris,ED Loan,45481154,Declined,Consumer,Interest Bearing,86319754
+538,12/30/2022,Alabama,Nell Calderon,5005,5365606,1,10,1108,3,Talon Harris,ED Loan,6599653,Declined,Consumer,Interest Bearing,57095193
+539,7/17/2023,Georgia,Grady Long,3135,3849213,2,18,476,6,Talon Harris,ED Loan,85127681,Declined,Consumer,Interest Bearing,66707716
+540,8/14/2023,Pennsylvania,Beau Barker,2256,8675608,3,3,453,1,Talon Harris,ED Loan,74272546,Declined,Consumer,Interest Bearing,84196887
+541,3/31/2023,Washington,Carlos Talley,2488,8128342,1,20,1040,5,Talon Harris,ED Loan,60265140,Declined,Consumer,Interest Bearing,74235707
+542,7/17/2023,Illinois,Hayes Carney,3663,4787840,2,15,405,0,Talon Harris,ED Loan,62624085,Declined,Consumer,Interest Bearing,76063892
+543,7/9/2022,Iowa,Fay Sykes,3479,9371975,5,4,1228,6,Talon Harris,ED Loan,76990483,Declined,Consumer,Interest Bearing,89093275
+544,2/17/2022,Florida,Illiana Dale,1346,4433660,4,6,425,7,Talon Harris,ED Loan,69942872,Declined,Consumer,Interest Bearing,86540115
+545,4/30/2023,Missouri,Veronica Garrett,3119,1805369,2,15,1171,2,Talon Harris,ED Loan,28548839,Declined,Consumer,Interest Bearing,76372839
+546,12/30/2022,Missouri,Cailin Montgomery,2000,6314663,0,4,677,0,Talon Harris,ED Loan,32606961,Declined,Consumer,Interest Bearing,72980345
+547,11/5/2022,Connecticut,Cullen Johns,8432,8464261,2,22,189,4,Talon Harris,ED Loan,82262806,Declined,Consumer,Interest Bearing,63488316
+548,5/12/2023,Mississippi,Cameron Greene,6612,6191231,1,22,1253,7,Talon Harris,ED Loan,66883669,Declined,Consumer,Interest Bearing,94156341
+549,9/20/2022,Tennessee,Wendy Cotton,7605,6196081,4,20,331,1,Talon Harris,ED Loan,62014342,Declined,Consumer,Interest Bearing,98605592
+550,7/24/2023,Pennsylvania,Sara Livingston,2068,3772564,4,1,820,5,Talon Harris,ED Loan,86726929,Declined,Consumer,Interest Bearing,95939065
+551,3/31/2022,Pennsylvania,Aristotle Levy,4351,6596405,3,4,545,1,Talon Harris,ED Loan,24108566,Declined,Consumer,Interest Bearing,89534165
+552,5/15/2022,Oklahoma,Chaim Maldonado,4746,5768174,5,20,1236,3,Talon Harris,ED Loan,67337125,Declined,Consumer,Interest Bearing,68790996
+553,1/22/2022,Kentucky,Darryl Silva,4269,8473297,2,22,1365,6,Talon Harris,ED Loan,32782377,Declined,Consumer,Interest Bearing,74410267
+554,3/15/2022,California,Sandra Velasquez,9248,8089144,1,2,1036,4,Talon Harris,ED Loan,54076841,Declined,Consumer,Interest Bearing,64662752
+555,12/19/2021,Pennsylvania,Sigourney Waller,7056,7872408,1,10,404,8,Talon Harris,ED Loan,7819801,Declined,Consumer,Interest Bearing,87362682
+556,2/23/2022,Maryland,Maxine Holman,7329,8442259,2,23,528,8,Talon Harris,ED Loan,82833263,Declined,Consumer,Interest Bearing,91256370
+557,3/9/2022,Idaho,Haviva Shelton,2037,9159618,1,16,1085,2,Talon Harris,ED Loan,17123462,Declined,Consumer,Interest Bearing,61711628
+558,5/29/2023,Oregon,Ima Rosales,6043,1731033,2,5,509,2,Talon Harris,ED Loan,7523193,Declined,Consumer,Interest Bearing,73205426
+559,1/16/2023,Hawaii,Branden Bird,3141,4478407,1,16,1495,2,Talon Harris,ED Loan,24787734,Declined,Consumer,Interest Bearing,91664381
+560,1/25/2022,Indiana,Addison Bonner,8537,8308542,2,23,532,5,Talon Harris,ED Loan,88762425,Declined,Consumer,Interest Bearing,65804511
+561,12/12/2021,Vermont,Abbot Douglas,5669,4572383,5,17,888,2,Talon Harris,ED Loan,51798974,Declined,Consumer,Interest Bearing,76707482
+562,9/10/2022,Mississippi,Ronan Dickson,7107,1308931,2,10,1325,3,Talon Harris,ED Loan,66900347,Declined,Consumer,Interest Bearing,60600570
+563,1/31/2022,Iowa,Priscilla Bradley,1438,6354029,0,23,266,2,Talon Harris,ED Loan,52173507,Declined,Consumer,Interest Bearing,87504555
+564,11/9/2022,Nebraska,Stone Higgins,9387,8394226,0,17,1079,4,Talon Harris,ED Loan,56486406,Declined,Consumer,Interest Bearing,78038753
+565,3/5/2022,Mississippi,Tatum Shepard,7282,2789663,5,12,1399,7,Talon Harris,ED Loan,15207681,Declined,Consumer,Interest Bearing,62135438
+566,8/10/2023,Wyoming,Hector Donovan,5343,6253803,3,21,223,6,Talon Harris,ED Loan,29552571,Declined,Consumer,Interest Bearing,95130262
+567,5/21/2023,Virginia,Unity Foley,1342,9472578,3,4,555,6,Talon Harris,ED Loan,45122554,Declined,Consumer,Interest Bearing,89242621
+568,2/17/2022,Wisconsin,Chava Rivers,2837,9094338,4,23,621,5,Talon Harris,ED Loan,24910765,Declined,Consumer,Interest Bearing,91156663
+569,2/12/2022,Vermont,Quentin Pace,6624,3243741,1,12,259,4,Talon Harris,ED Loan,9200626,Declined,Consumer,Interest Bearing,65949583
+570,12/4/2021,Wisconsin,Orli Huff,7717,1385529,5,18,870,7,Talon Harris,ED Loan,66538802,Declined,Consumer,Interest Bearing,94868985
+571,7/4/2023,Delaware,Leroy Mcclain,9215,8507335,4,4,750,5,Talon Harris,ED Loan,19827306,Declined,Consumer,Interest Bearing,57830266
+572,12/22/2021,Hawaii,MacKenzie Gamble,9049,1741490,1,20,751,1,Talon Harris,ED Loan,19246276,Declined,Consumer,Interest Bearing,94023686
+573,5/2/2023,Utah,Leroy Ayers,9115,4678069,1,3,360,3,Talon Harris,ED Loan,38482243,Declined,Consumer,Interest Bearing,65570313
+574,7/22/2022,Nebraska,Wallace Dunn,3765,1803823,3,2,1396,7,Talon Harris,ED Loan,18099643,Declined,Consumer,Interest Bearing,96425165
+575,4/17/2023,Minnesota,Quemby Chapman,5417,5893732,4,12,1150,1,Talon Harris,ED Loan,58215257,Declined,Consumer,Interest Bearing,76451498
+576,12/4/2022,Mississippi,Candice Sawyer,2579,7324749,1,13,1487,1,Talon Harris,ED Loan,48170604,Declined,Consumer,Interest Bearing,63024436
+577,1/22/2023,Wyoming,Tanner Johnston,2606,5513540,4,18,1322,7,Talon Harris,ED Loan,1808668,Declined,Consumer,Interest Bearing,90422318
+578,5/6/2023,Minnesota,Keaton Chandler,7147,3531054,5,13,948,7,Talon Harris,ED Loan,1390066,Declined,Consumer,Interest Bearing,65082597
+579,11/13/2022,Oklahoma,Harrison Marshall,5578,4826290,1,3,1157,0,Talon Harris,ED Loan,41329609,Declined,Consumer,Interest Bearing,85173279
+580,8/4/2022,Montana,Chester Newton,4731,1472027,1,13,145,2,Talon Harris,ED Loan,58710550,Declined,Consumer,Interest Bearing,93867704
+581,8/27/2022,Washington,Herrod English,1949,4708613,4,3,918,0,Talon Harris,ED Loan,23162371,Declined,Consumer,Interest Bearing,64665143
+582,2/20/2023,Kentucky,Sawyer Patterson,5238,8335146,4,13,294,6,Talon Harris,ED Loan,8627678,Declined,Consumer,Interest Bearing,83932915
+583,6/2/2022,Iowa,Alexander Leon,4599,5259824,1,16,297,4,Talon Harris,ED Loan,82979483,Declined,Consumer,Interest Bearing,85428297
+584,4/12/2022,Iowa,Kellie Benson,4066,2851065,3,8,446,5,Talon Harris,ED Loan,39036829,Declined,Consumer,Interest Bearing,76769829
+585,3/15/2023,Minnesota,Evan Gallagher,4341,2464198,0,9,1081,4,Talon Harris,ED Loan,41879280,Declined,Consumer,Interest Bearing,60974013
+586,3/23/2023,Texas,Rigel Mckee,2711,8602507,3,19,270,6,Talon Harris,ED Loan,83102759,Declined,Consumer,Interest Bearing,91913281
+587,1/24/2022,Pennsylvania,Kamal Wiggins,5887,2630264,2,5,371,3,Talon Harris,ED Loan,15557067,Declined,Consumer,Interest Bearing,76835368
+588,11/21/2021,Alabama,Rogan Burks,7114,8154088,5,20,1336,3,Talon Harris,ED Loan,60065740,Declined,Consumer,Interest Bearing,93047906
+589,8/10/2023,Indiana,Gloria Farrell,5902,7612965,2,18,125,8,Talon Harris,ED Loan,63802053,Declined,Consumer,Interest Bearing,70916348
+590,5/31/2023,Georgia,Channing Rivas,2307,7147792,3,5,115,5,Talon Harris,ED Loan,34038947,Declined,Consumer,Interest Bearing,78950605
+591,11/24/2022,Maryland,Indira Solomon,4519,3726856,3,15,1391,1,Talon Harris,ED Loan,3521594,Declined,Consumer,Interest Bearing,81342981
+592,3/11/2023,Utah,Kevyn Patrick,7547,7926390,2,14,569,2,Talon Harris,ED Loan,35880042,Declined,Consumer,Interest Bearing,97315506
+593,2/3/2022,Nevada,Cody Montoya,3662,7017403,5,22,362,2,Talon Harris,ED Loan,63706307,Declined,Consumer,Interest Bearing,79852633
+594,6/12/2022,Illinois,Mallory Anderson,8380,6964713,0,21,1260,4,Talon Harris,ED Loan,40710066,Declined,Consumer,Interest Bearing,58686113
+595,7/16/2022,Kansas,Aaron Chase,6413,5657757,5,21,435,1,Talon Harris,ED Loan,62432352,Declined,Consumer,Interest Bearing,96545335
+596,2/11/2022,Colorado,Chancellor Cummings,9168,4869749,5,23,1461,7,Talon Harris,ED Loan,66114264,Declined,Consumer,Interest Bearing,92878841
+597,6/29/2023,Delaware,Jameson George,2254,3291091,3,21,162,0,Talon Harris,ED Loan,74715802,Declined,Consumer,Interest Bearing,61818578
+598,4/15/2022,Michigan,Nathaniel Reed,5090,3964946,1,19,1419,5,Talon Harris,ED Loan,78548293,Declined,Consumer,Interest Bearing,58542958
+599,12/19/2022,Hawaii,Chava Snow,1365,5597116,3,5,404,7,Talon Harris,ED Loan,20856891,Declined,Consumer,Interest Bearing,85996163
+600,10/23/2022,Wyoming,Lawrence Aguilar,3421,3739778,3,19,1419,5,Talon Harris,ED Loan,26079127,Declined,Consumer,Interest Bearing,69299414
+601,8/10/2022,Mississippi,Camden Moody,5940,4274931,2,15,1341,2,Talon Harris,ED Loan,28895132,Declined,Consumer,Interest Bearing,74063834
+602,7/16/2022,Illinois,Lillith Pitts,9499,3313766,2,5,1334,4,Talon Harris,ED Loan,47698460,Declined,Consumer,Interest Bearing,81456803
+603,12/21/2021,Arizona,Chiquita Gallagher,7300,8842038,2,9,623,4,Talon Harris,ED Loan,40218777,Declined,Consumer,Interest Bearing,75077249
+604,6/29/2023,Utah,Harper Frost,4903,3640914,1,22,1287,5,Talon Harris,ED Loan,41994615,Declined,Consumer,Interest Bearing,57295399
+605,8/20/2022,Delaware,Tarik Harrison,3618,8435888,4,15,1392,5,Talon Harris,ED Loan,3404015,Declined,Consumer,Interest Bearing,79043169
+606,6/2/2023,Indiana,Emerson Lucas,7211,8696023,2,4,259,6,Talon Harris,ED Loan,13998444,Declined,Consumer,Interest Bearing,67666221
+607,9/23/2022,Nevada,Jessica Allen,2127,9504589,3,9,719,0,Talon Harris,ED Loan,41193333,Declined,Consumer,Interest Bearing,93990120
+608,12/25/2022,Louisiana,Alexandra Marquez,1866,3626518,1,21,525,6,Talon Harris,ED Loan,35356932,Declined,Consumer,Interest Bearing,56898404
+609,10/4/2022,Louisiana,Slade Horne,5230,1282934,5,21,981,7,Talon Harris,ED Loan,31490789,Declined,Consumer,Interest Bearing,59470994
+610,10/12/2022,Kentucky,Amos Alvarado,1990,6181310,4,3,786,7,Talon Harris,ED Loan,23499583,Declined,Consumer,Interest Bearing,91612654
+611,2/9/2023,Montana,Yuri Peterson,5256,3346964,1,1,634,7,Talon Harris,ED Loan,31132555,Declined,Consumer,Interest Bearing,77945206
+612,5/24/2023,Tennessee,Maya Alston,7908,4898296,0,24,371,3,Talon Harris,ED Loan,14096597,Declined,Consumer,Interest Bearing,74958966
+613,4/26/2022,Connecticut,Holly Griffith,5225,5163292,4,2,241,6,Talon Harris,ED Loan,57465925,Declined,Consumer,Interest Bearing,73681160
+614,12/30/2022,California,Rama Hicks,2968,9339527,1,0,1186,0,Talon Harris,ED Loan,1844764,Declined,Consumer,Interest Bearing,73002670
+615,11/19/2022,Virginia,Ezekiel Case,8913,6885389,4,20,405,6,Talon Harris,ED Loan,84648180,Declined,Business,Interest Bearing,81101538
+616,12/9/2022,Ohio,Eliana Hooper,4066,3352200,0,0,1403,8,Talon Harris,ED Loan,27288882,Declined,Business,Interest Bearing,60304201
+617,2/26/2022,Connecticut,Rana Skinner,7345,5299414,4,17,433,7,Talon Harris,ED Loan,11066577,Declined,Business,Interest Bearing,94942791
+618,5/26/2023,Delaware,Asher Wright,6865,5125245,5,12,919,6,Talon Harris,ED Loan,88957394,Declined,Business,Interest Bearing,93829644
+619,1/27/2023,Louisiana,Ishmael Schroeder,1331,8446663,5,20,233,4,Talon Harris,ED Loan,24096888,Declined,Business,Interest Bearing,58989447
+620,1/17/2023,Alabama,Anjolie Avila,2564,8697961,1,14,1286,6,Talon Harris,ED Loan,59515698,Declined,Business,Interest Bearing,62676207
+621,12/10/2021,Vermont,Germaine Sheppard,4599,7245202,4,22,1312,3,Talon Harris,ED Loan,36448725,Declined,Business,Interest Bearing,65370503
+622,5/24/2022,Oregon,Wilma May,4143,5997891,1,9,198,8,Talon Harris,ED Loan,79530167,Declined,Business,Interest Bearing,57667493
+623,3/25/2023,Tennessee,Cairo Malone,3584,7829138,4,19,549,0,Talon Harris,ED Loan,63343722,Declined,Business,Interest Bearing,75901312
+624,1/23/2022,Arizona,Barrett Bryant,5644,3967453,1,11,680,7,Talon Harris,ED Loan,51309900,Declined,Business,Interest Bearing,85692131
+625,6/3/2022,Pennsylvania,Joy Mason,2955,2247109,0,1,1425,1,Dominique Vargas,ED Loan,16967891,Declined,Business,Interest Bearing,97258142
+626,5/13/2022,Florida,Fritz Henderson,6323,3294023,2,19,800,1,Wang Pearson,ED Loan,60627648,Declined,Business,Interest Bearing,76954227
+627,2/8/2023,Massachusetts,Timon O'donnell,3161,7915638,2,15,945,4,Tanisha Mccray,ED Loan,65885854,Declined,Business,Interest Bearing,75951476
+628,4/18/2023,Oklahoma,Henry Howell,9303,5588009,2,11,67,2,Samuel Manning,ED Loan,20292165,Declined,Business,Interest Bearing,93524052
+629,6/18/2022,Kentucky,Kylie Whitfield,4374,7612894,5,3,1421,7,Odette Pierce,ED Loan,13744877,Declined,Business,Interest Bearing,78027421
+630,3/8/2022,Virginia,Aaron Riggs,4559,8833908,4,13,922,6,Talon Harris,ED Loan,36762692,Declined,Business,Interest Bearing,96528550
+631,4/8/2023,Oklahoma,Kirby Cameron,1663,6583828,3,18,1310,6,Jaime Larson,ED Loan,30212100,Declined,Business,Interest Bearing,94943483
+632,10/30/2022,Kentucky,Lilah Noble,1957,5752910,3,2,219,2,Dean England,ED Loan,33874046,Declined,Business,Interest Bearing,92679189
+633,5/16/2022,Wyoming,Omar Becker,8397,5855850,4,24,536,1,Odysseus Whitney,ED Loan,68209436,Declined,Business,Interest Bearing,94588284
+634,1/3/2023,Montana,Jerry Douglas,7185,9126246,3,14,653,0,Coby Burris,ED Loan,66844124,Declined,Business,Interest Bearing,62332169
+635,5/29/2022,Maryland,Kennedy Tanner,2304,7448544,2,14,1309,2,Jael Gilmore,ED Loan,47379812,Declined,Business,Interest Bearing,70680054
+636,3/13/2023,Wisconsin,Ria Sutton,1757,5188811,5,3,1049,4,Jin Nunez,ED Loan,68548547,Declined,Business,Interest Bearing,92415778
+637,7/27/2023,Connecticut,Scarlett Holden,7944,4615270,1,16,843,7,Samantha Garcia,ED Loan,7607109,Declined,Business,Interest Bearing,89631825
+638,12/23/2021,Idaho,Aladdin Franklin,9442,4772545,2,18,395,5,Veda Melendez,ED Loan,11917314,Declined,Business,Interest Bearing,94548249
+639,8/25/2023,Missouri,Dexter Mccormick,9127,1954596,1,10,1163,3,Dean England,ED Loan,75914701,Declined,Business,Interest Bearing,71597564
+640,10/4/2022,Maine,Cailin Crawford,6173,7931398,2,14,806,2,Odysseus Whitney,ED Loan,50787538,Declined,Business,Interest Bearing,75317478
+641,5/29/2022,Washington,Chaim Combs,3870,8379870,2,22,1208,6,Coby Burris,ED Loan,2924326,Declined,Business,Interest Bearing,77886441
+642,3/8/2022,Montana,Octavia Melton,6446,6464219,5,18,850,2,Jael Gilmore,ED Loan,84207152,Declined,Business,Interest Bearing,85215218
+643,8/25/2022,Georgia,Ishmael Boyle,5561,3682328,4,5,97,7,Jin Nunez,ED Loan,66496511,Declined,Business,Interest Bearing,78867541
+644,5/26/2023,Idaho,Damon Gonzalez,7218,9325298,4,11,910,8,Samantha Garcia,ED Loan,11717592,Declined,Business,Interest Bearing,73020645
+645,12/8/2022,Michigan,Beck Small,5015,9412657,4,3,327,8,Veda Melendez,ED Loan,11719985,Declined,Business,Interest Bearing,94750298
+646,4/27/2023,Montana,Colby Kaufman,4814,8471797,4,0,831,6,Veda Melendez,ED Loan,65015466,Declined,Business,Interest Bearing,92866160
+647,7/5/2023,Texas,Solomon Kemp,4608,7542509,2,17,326,3,Veda Melendez,ED Loan,25533892,Declined,Business,Interest Bearing,64549463
+648,12/13/2022,Iowa,Madaline Velez,4220,9485909,1,1,1323,1,Veda Melendez,ED Loan,71047320,Declined,Business,Interest Bearing,83794950
+649,5/25/2022,Oklahoma,Ignatius Hoffman,2504,1286267,1,7,1461,7,Veda Melendez,ED Loan,69264522,Declined,Business,Interest Bearing,59395311
+650,12/5/2021,Maryland,Jacob Tran,4803,7361080,1,3,163,5,Veda Melendez,ED Loan,48420173,Declined,Business,Interest Bearing,90305884
+651,10/2/2022,Louisiana,Macaulay Payne,5958,4201247,2,22,510,0,Veda Melendez,ED Loan,80826640,Declined,Business,Interest Bearing,80862220
+652,7/16/2023,Ohio,Lynn Dotson,3881,4994741,3,5,428,4,Veda Melendez,ED Loan,31463576,Declined,Business,Interest Bearing,64386651
+653,6/20/2023,Michigan,Ishmael Noel,3316,6643020,4,16,1483,7,Veda Melendez,ED Loan,46392949,Declined,Business,Interest Bearing,69358717
+654,8/8/2022,Delaware,Cecilia Molina,6936,4096835,4,19,1268,6,Veda Melendez,ED Loan,88027131,Declined,Business,Interest Bearing,70551731
+655,11/13/2022,Delaware,Harper Miles,5430,9321734,3,15,355,3,Veda Melendez,ED Loan,8108374,Declined,Business,Interest Bearing,84573832
+656,6/16/2022,Michigan,Merrill Holden,8936,4690042,0,9,761,4,Veda Melendez,ED Loan,13436696,Declined,Business,Interest Bearing,81989881
+657,11/25/2022,Montana,Malik Lawrence,2673,8291644,4,6,698,7,Veda Melendez,ED Loan,82426866,Declined,Business,Interest Bearing,58092682
+658,8/19/2023,Montana,Kasimir Wiley,3254,3187546,2,3,1180,2,Veda Melendez,ED Loan,45206457,Declined,Business,Interest Bearing,57203423
+659,3/1/2023,Vermont,Seth Jefferson,9186,2621078,4,24,1475,1,Veda Melendez,ED Loan,42125479,Declined,Business,Interest Bearing,83010052
+660,2/15/2022,Connecticut,Isaac Nielsen,7483,5527518,3,19,601,4,Veda Melendez,ED Loan,29457061,Declined,Business,Interest Bearing,66829833
+661,8/28/2022,Minnesota,Graiden Madden,1614,2965349,2,1,123,1,Veda Melendez,ED Loan,11191948,Declined,Business,Interest Bearing,56849105
+662,3/18/2022,Wisconsin,Sarah Alexander,6190,3627638,3,16,258,3,Veda Melendez,ED Loan,10482304,Declined,Business,Interest Bearing,96360722
+663,8/22/2023,Kentucky,Stewart Hawkins,3473,2337869,2,7,578,3,Veda Melendez,ED Loan,52479779,Declined,Business,Interest Bearing,94593843
+664,3/29/2023,Idaho,Cleo Kelly,8419,2865789,3,17,610,3,Veda Melendez,ED Loan,86849861,Declined,Business,Interest Bearing,57834182
+665,1/11/2022,Illinois,Galvin Spence,7849,8248672,2,14,995,7,Veda Melendez,ED Loan,33888191,Declined,Business,Interest Bearing,61799900
+666,3/20/2022,Mississippi,Penelope Sweeney,3497,9238109,1,5,669,4,Veda Melendez,ED Loan,31893054,Declined,Business,Interest Bearing,97081342
+667,8/25/2022,Maryland,Inga Bridges,5643,6720386,4,11,173,2,Veda Melendez,ED Loan,53522232,Declined,Business,Interest Bearing,73532075
+668,12/25/2022,Wyoming,Tanner Levy,4240,8542508,1,7,338,1,Veda Melendez,ED Loan,52271572,Declined,Business,Interest Bearing,66580308
+669,12/27/2022,Wisconsin,Brynne Mcintosh,4410,1448306,3,19,1017,2,Veda Melendez,ED Loan,85230302,Declined,Business,Interest Bearing,90326644
+670,8/10/2023,Montana,Naomi Whitehead,4138,4992756,1,2,1217,2,Veda Melendez,ED Loan,61229697,Declined,Business,Interest Bearing,57092714
+671,3/26/2023,Maine,Harrison Gross,8769,2495228,2,7,668,0,Veda Melendez,ED Loan,300386,Declined,Business,Interest Bearing,63623299
+672,2/7/2022,Nebraska,Candace Navarro,9495,5964089,4,20,485,6,Veda Melendez,ED Loan,72668193,Declined,Business,Interest Bearing,98678423
+673,3/21/2022,Idaho,Kasper Skinner,2834,7214629,0,1,916,1,Veda Melendez,ED Loan,50277839,Declined,Business,Interest Bearing,83317639
+674,12/14/2021,Oklahoma,Nicole Daniel,2134,6439464,2,1,264,0,Veda Melendez,ED Loan,9513542,Declined,Business,Interest Bearing,81727980
+675,12/1/2021,Wyoming,Lila Horton,2817,5406680,4,8,860,3,Veda Melendez,ED Loan,32943793,Declined,Business,Interest Bearing,62127837
+676,2/5/2023,Ohio,Chantale Ortiz,4606,5557766,2,23,257,7,Veda Melendez,ED Loan,47794077,Declined,Business,Interest Bearing,69035377
+677,3/1/2023,Colorado,Leroy Robertson,6356,1957617,1,7,534,3,Veda Melendez,ED Loan,9633432,Declined,Business,Interest Bearing,76095990
+678,9/9/2022,Nevada,Fulton Lowery,8818,6944807,4,8,910,4,Veda Melendez,ED Loan,31902932,Declined,Business,Interest Bearing,79177782
+679,7/3/2022,Louisiana,Robert Murphy,2468,7997756,4,19,54,3,Veda Melendez,ED Loan,65925248,Declined,Business,Interest Bearing,62794709
+680,1/5/2022,Georgia,Lila Waters,7871,6019200,4,7,165,3,Veda Melendez,ED Loan,73749806,Declined,Business,Interest Bearing,65220019
+681,1/3/2022,Michigan,Bree Crosby,8430,1981135,1,10,1311,6,Veda Melendez,ED Loan,81737555,Declined,Business,Interest Bearing,60585031
+682,4/24/2022,Arkansas,Ariana Berger,4582,8763610,5,17,863,3,Veda Melendez,ED Loan,46959296,Declined,Business,Interest Bearing,81283399
+683,2/24/2022,Alabama,Lamar Knowles,4087,8114034,2,18,555,4,Veda Melendez,ED Loan,56163254,Declined,Business,Interest Bearing,58223973
+684,5/11/2022,Pennsylvania,Bevis Stone,9376,8789315,1,19,335,5,Veda Melendez,ED Loan,86478759,Declined,Business,Interest Bearing,79798472
+685,4/26/2023,Oregon,Belle Gillespie,7169,8624480,4,21,123,4,Veda Melendez,ED Loan,40215659,Declined,Business,Interest Bearing,58009296
+686,3/20/2022,Maryland,Brian Burks,8525,7704573,0,8,563,0,Veda Melendez,ED Loan,40964265,Declined,Business,Interest Bearing,79754635
+687,4/30/2022,Michigan,Cheyenne Raymond,2334,6357135,0,22,1492,5,Veda Melendez,ED Loan,68294163,Declined,Business,Interest Bearing,74415665
+688,2/17/2022,Montana,Rylee Shannon,6513,9339424,2,8,1461,4,Veda Melendez,ED Loan,16865355,Declined,Business,Interest Bearing,79534433
+689,4/1/2023,Pennsylvania,Mercedes Dillard,4876,3433593,4,6,839,1,Veda Melendez,ED Loan,24592555,Declined,Business,Interest Bearing,66463910
+690,5/6/2022,Oregon,Iliana Casey,5859,2157482,3,21,468,1,Veda Melendez,ED Loan,47708385,Declined,Business,Interest Bearing,95349633
+691,3/13/2022,California,Lee Fletcher,7746,5578403,2,18,521,4,Veda Melendez,ED Loan,25856010,Declined,Business,Interest Bearing,58104276
+692,10/26/2022,Florida,Willow Hobbs,6215,5985195,2,2,894,5,Veda Melendez,ED Loan,67733187,Declined,Business,Interest Bearing,60327619
+693,12/31/2022,Georgia,Christian Alston,4890,5709278,0,13,218,2,Veda Melendez,ED Loan,52883346,Declined,Business,Interest Bearing,85670333
+694,3/27/2022,Nebraska,Paki Cooper,2608,4414804,5,7,59,1,Veda Melendez,ED Loan,63451271,Declined,Business,Interest Bearing,60494679
+695,3/1/2022,Wisconsin,Madaline Osborne,6631,6245269,5,19,1133,3,Veda Melendez,ED Loan,19771495,Declined,Business,Interest Bearing,76126761
+696,9/12/2022,Nevada,Candice Bishop,1319,9520360,1,2,1287,4,Veda Melendez,ED Loan,51483375,Declined,Business,Interest Bearing,95959622
+697,4/27/2023,Florida,Jameson Ballard,5884,3744487,4,5,790,2,Veda Melendez,ED Loan,59927113,Declined,Business,Interest Bearing,74897788
+698,2/4/2022,Minnesota,Marshall Bowman,6838,6614462,2,11,1483,6,Veda Melendez,ED Loan,61391195,Declined,Business,Interest Bearing,67110133
+699,9/22/2022,Montana,Bradley Downs,3594,1784499,4,1,1305,6,Veda Melendez,ED Loan,19755404,Declined,Business,Interest Bearing,60221441
+700,8/17/2023,Hawaii,Keely Farley,4286,6999625,3,12,1486,7,Veda Melendez,ED Loan,36751964,Declined,Business,Interest Bearing,93692249
+701,5/20/2023,Idaho,Andrew Melton,6974,6813754,3,3,586,2,Veda Melendez,ED Loan,39222086,Declined,Business,Interest Bearing,66737514
+702,2/24/2022,Nevada,Lavinia Sanford,7550,6778888,1,14,1312,6,Veda Melendez,ED Loan,38382242,Declined,Business,Interest Bearing,62483632
+703,4/2/2022,Wisconsin,Anthony Alvarado,1607,3011371,1,17,662,7,Veda Melendez,ED Loan,14582321,Declined,Business,Interest Bearing,98151832
+704,7/20/2022,Indiana,Lila Mason,2530,2179365,1,22,163,0,Veda Melendez,ED Loan,58846655,Declined,Business,Interest Bearing,85984831
+705,5/2/2023,Illinois,Aretha Duke,5772,4357803,2,11,745,5,Veda Melendez,ED Loan,44088502,Declined,Business,Interest Bearing,78848815
+706,3/31/2023,Virginia,Armand Gutierrez,6055,6363955,4,14,319,3,Veda Melendez,ED Loan,78424059,Declined,Business,Interest Bearing,91527635
+707,4/20/2023,Indiana,Alea Wooten,9454,7894545,3,22,290,7,Veda Melendez,ED Loan,44906587,Declined,Business,Interest Bearing,69338014
+708,1/10/2022,Louisiana,Kenyon Johnson,3352,6247500,4,21,925,5,Veda Melendez,ED Loan,67140670,Declined,Business,Interest Bearing,87019109
+709,11/30/2021,Kentucky,Tanek Gillespie,1600,3900950,3,23,190,6,Veda Melendez,ED Loan,4672275,Declined,Business,Interest Bearing,84001450
+710,7/8/2023,Connecticut,Paki Kim,5853,3451974,4,0,336,2,Veda Melendez,ED Loan,87087538,Declined,Business,Interest Bearing,64589079
+711,5/25/2022,Virginia,John Winters,2171,5942508,5,13,542,6,Veda Melendez,ED Loan,58094376,Declined,Business,Interest Bearing,64590959
+712,1/1/2023,Idaho,Jameson Haynes,7812,8639378,1,6,869,7,Veda Melendez,ED Loan,59800589,Declined,Business,Interest Bearing,65995363
+713,8/16/2023,Hawaii,Laura Greene,8003,3914326,4,21,358,4,Veda Melendez,ED Loan,24307617,Declined,Business,Interest Bearing,60513641
+714,6/5/2023,Wisconsin,Uriel Mcfadden,7553,4936851,5,10,376,4,Wang Pearson,ED Loan,66299513,Declined,Business,Interest Bearing,89560413
+715,7/26/2023,Virginia,Emily Lawson,9227,6027029,4,19,833,3,Tanisha Mccray,ED Loan,73177059,Declined,Business,Interest Bearing,67744440
+716,12/25/2021,Mississippi,Florence Reynolds,8429,8847581,4,5,306,4,Samuel Manning,ED Loan,47304955,Declined,Business,Interest Bearing,69643767
+717,6/1/2023,Wyoming,Zeph Levy,3252,3152320,3,16,602,2,Odette Pierce,ED Loan,19835844,Declined,Business,Interest Bearing,89048857
+718,7/15/2023,California,Mia Solomon,7975,8366133,1,8,922,4,Talon Harris,ED Loan,18002988,Declined,Business,Interest Bearing,95611977
+719,2/3/2022,Alaska,Amaya Romero,4975,6152080,5,4,527,1,Jaime Larson,ED Loan,2109778,Declined,Business,Interest Bearing,61944770
+720,2/1/2022,Minnesota,Wylie Dixon,5664,5750452,1,1,1269,2,Dean England,ED Loan,22591216,Declined,Business,Interest Bearing,80993500
+721,3/16/2022,Wisconsin,Ignatius Mcknight,7193,3389910,3,9,888,5,Odysseus Whitney,ED Loan,40133449,Declined,Business,Interest Bearing,84090395
+722,11/28/2022,Connecticut,Lesley Woodward,6150,9074590,2,17,1246,2,Coby Burris,ED Loan,1995226,Declined,Business,Interest Bearing,85434913
+723,2/13/2023,Connecticut,Jackson Boyer,8188,1702278,5,8,763,2,Jael Gilmore,ED Loan,8031558,Declined,Business,Interest Bearing,59323046
+724,2/21/2022,Ohio,Xavier Hewitt,6890,5639236,2,12,752,1,Jin Nunez,ED Loan,15426481,Declined,Business,Interest Bearing,72191928
+725,1/5/2022,Oregon,Britanney Hanson,5675,6480039,1,8,1402,1,Samantha Garcia,ED Loan,64936206,Declined,Business,Interest Bearing,92333186
+726,5/9/2022,Nebraska,Aladdin Shepard,6566,3312381,1,13,299,2,Veda Melendez,ED Loan,4208573,Declined,Business,Interest Bearing,90083550
+727,9/28/2022,Maine,Michael Erickson,7144,5364074,1,5,303,5,Dean England,ED Loan,56072867,Declined,Business,Interest Bearing,85382605
+728,2/26/2023,Mississippi,Lucy Bates,7988,8293832,2,7,414,3,Odysseus Whitney,ED Loan,25760600,Declined,Business,Interest Bearing,85802536
+729,1/16/2023,Oklahoma,Calvin Vang,5516,6460631,2,9,733,4,Coby Burris,ED Loan,1227942,Declined,Business,Interest Bearing,87868747
+730,6/30/2022,Michigan,Tanisha Crane,2197,2034615,2,11,851,3,Jael Gilmore,ED Loan,13407472,Declined,Business,Interest Bearing,77152177
+731,1/7/2023,Massachusetts,Aline Dalton,5073,6058640,1,8,288,6,Jin Nunez,ED Loan,1650407,Declined,Business,Interest Bearing,58734457
+732,12/11/2021,Washington,Emerald Floyd,8130,2076271,1,7,300,5,Samantha Garcia,ED Loan,58103152,Declined,Business,Interest Bearing,77090378
+733,6/21/2023,Illinois,Hop Scott,3459,1961527,2,4,825,7,Veda Melendez,ED Loan,1982506,Declined,Business,Interest Bearing,81885958
+734,7/12/2022,Maine,Steel Bentley,6871,2264949,2,0,325,7,Meghan Small,ED Loan,83530823,Declined,Business,Interest Bearing,60562585
+735,9/16/2022,Georgia,Cynthia Pearson,7632,3399951,2,5,225,3,Dominique Vargas,ED Loan,71867410,Declined,Business,Interest Bearing,61741055
+736,8/2/2022,Florida,Linda Combs,3025,9338858,2,6,192,3,Wang Pearson,ED Loan,3837653,Declined,Business,Interest Bearing,64238646
+737,12/6/2021,Illinois,Lawrence Mayer,8136,2767885,3,14,313,6,Tanisha Mccray,ED Loan,12866329,Declined,Business,Interest Bearing,85795129
+738,1/30/2022,Michigan,Cheyenne Rosario,6001,4276428,1,14,632,1,Samuel Manning,ED Loan,7958374,Declined,Business,Interest Bearing,81265701
+739,7/30/2022,Kansas,Fitzgerald Mclaughlin,3668,4430318,2,13,682,1,Odette Pierce,ED Loan,84458760,Declined,Business,Interest Bearing,95295219
+740,6/17/2022,Kentucky,Yoshio Lester,3969,5425610,3,3,803,7,Talon Harris,ED Loan,4904342,Declined,Business,Interest Bearing,56909844
+741,10/17/2022,Mississippi,Ingrid Soto,4511,1627179,2,22,1053,1,Jaime Larson,ED Loan,33200960,Declined,Business,Interest Bearing,92550325
+742,12/3/2022,Kansas,Jocelyn Walls,2822,4154597,4,24,701,5,Dean England,ED Loan,5050998,Declined,Business,Interest Bearing,73226266
+743,12/30/2021,Kansas,Callum Kemp,4283,9488894,4,4,1215,6,Odysseus Whitney,ED Loan,73501042,Declined,Business,Interest Bearing,82887067
+744,7/31/2022,Mississippi,Daphne Larsen,6546,9461705,1,0,347,4,Coby Burris,ED Loan,13636553,Declined,Business,Interest Bearing,66391032
+745,8/6/2022,Pennsylvania,Zelda Paul,5074,7866069,3,9,85,6,Jael Gilmore,ED Loan,26273641,Declined,Business,Interest Bearing,63505011
+746,8/4/2022,Nevada,Josiah Delgado,4616,9280314,4,4,1452,2,Jin Nunez,ED Loan,79573082,Declined,Business,Interest Bearing,71670476
+747,8/16/2022,Utah,Gemma Raymond,6662,4020289,2,9,172,1,Samantha Garcia,ED Loan,3800694,Declined,Business,Interest Bearing,62261005
+748,5/18/2023,Connecticut,Susan Griffin,3220,9097528,3,16,358,6,Veda Melendez,ED Loan,27840789,Declined,Business,Interest Bearing,93763588
+749,12/8/2021,Colorado,Samson Carpenter,5819,2022014,4,6,133,4,Dean England,ED Loan,23744725,Approved,Business,Interest Bearing,68824729
+750,8/23/2023,Ohio,Zane Morrow,3648,3043329,3,21,785,0,Odysseus Whitney,ED Loan,14519112,Approved,Business,Interest Bearing,97521883
+751,4/1/2022,Michigan,Cheryl Brewer,3301,3371354,3,4,803,6,Coby Burris,ED Loan,67841322,Approved,Business,Interest Bearing,83156571
+752,11/26/2022,Idaho,Gage Savage,6204,5389856,3,18,709,5,Jael Gilmore,ED Loan,8269391,Approved,Business,Interest Bearing,71409267
+753,6/1/2023,Montana,Lucian Wolfe,4565,8890846,2,3,69,8,Jin Nunez,ED Loan,16648817,Approved,Business,Interest Bearing,71878610
+754,9/9/2022,Washington,Charlotte Thompson,5712,7787522,5,9,698,0,Samantha Garcia,ED Loan,21057469,Approved,Business,Interest Bearing,84615771
+755,11/30/2021,Iowa,Xenos Guerra,7700,4117168,3,7,1387,1,Veda Melendez,ED Loan,86020982,Approved,Business,Interest Bearing,95030413
+756,2/20/2023,Alaska,Chadwick Berg,7657,9070824,2,11,347,3,Meghan Small,ED Loan,55882522,Approved,Business,Interest Bearing,72593057
+757,3/23/2022,Georgia,Mallory Heath,6294,1597473,3,13,693,2,Dominique Vargas,ED Loan,70688864,Approved,Business,Interest Bearing,63163205
+758,7/13/2022,Wisconsin,Brett Lynn,2707,7711056,1,13,560,2,Wang Pearson,ED Loan,51951091,Approved,Business,Interest Bearing,62034215
+759,5/1/2022,Idaho,Skyler Hendrix,7832,9109737,5,10,1001,7,Tanisha Mccray,ED Loan,4222442,Approved,Business,Interest Bearing,74959147
+760,1/10/2022,Hawaii,Reed Peck,8029,2262360,3,5,193,1,Samuel Manning,ED Loan,18250440,Approved,Business,Interest Bearing,80971852
+761,8/6/2022,Idaho,Jade Rodriguez,2253,4222314,3,19,751,6,Odette Pierce,ED Loan,56560339,Approved,Business,Interest Bearing,81280449
+762,7/26/2022,Utah,Paul Pace,4905,6407895,2,2,1465,8,Talon Harris,ED Loan,11377407,Approved,Business,Interest Bearing,76069885
+763,1/25/2022,Connecticut,Veronica Poole,7505,7197054,3,8,507,8,Jaime Larson,ED Loan,77615356,Approved,Business,Interest Bearing,76441193
+764,3/22/2022,Vermont,Beck Cole,5045,8385657,2,2,1063,3,Dean England,ED Loan,7069781,Approved,Business,Interest Bearing,71819881
+765,10/9/2022,Delaware,Kiayada Parker,5326,3936079,1,2,780,2,Odysseus Whitney,ED Loan,12969805,Approved,Business,Interest Bearing,65477148
+766,3/28/2022,Mississippi,Hannah Brooks,8007,9187297,4,19,263,3,Coby Burris,ED Loan,9679800,Approved,Business,Interest Bearing,73952219
+767,5/4/2022,Arizona,Ann Briggs,7849,2143842,2,13,330,6,Jael Gilmore,ED Loan,48061814,Approved,Business,Interest Bearing,96006048
+768,1/22/2023,Colorado,Aspen Webster,3725,8520187,4,6,121,3,Jin Nunez,ED Loan,26324424,Approved,Business,Interest Bearing,60056776
+769,6/11/2023,Georgia,Judith Holden,7037,6445642,1,0,1437,7,Samantha Garcia,ED Loan,21133327,Approved,Business,Interest Bearing,89948069
+770,1/20/2022,Maryland,Robert Tyler,4131,2439010,2,5,659,2,Veda Melendez,ED Loan,555890,Approved,Business,Interest Bearing,81335300
+771,5/27/2023,Wisconsin,Hakeem Duke,2483,8161814,3,6,515,2,Dean England,ED Loan,63770978,Approved,Business,Interest Bearing,69368557
+772,2/8/2023,Hawaii,Rama Fisher,5375,5491319,1,17,642,7,Odysseus Whitney,ED Loan,50433827,Approved,Business,Interest Bearing,67092835
+773,2/28/2022,Wyoming,Mark Joyner,8842,5560107,1,13,751,6,Coby Burris,ED Loan,31786326,Approved,Business,Interest Bearing,96398179
+774,1/16/2023,Georgia,Maisie Griffith,2608,7090356,4,6,611,5,Jael Gilmore,ED Loan,1453086,Approved,Business,Interest Bearing,87649618
+775,12/9/2022,Nevada,Colton Dennis,8905,8477551,1,14,732,2,Jin Nunez,ED Loan,43077013,Approved,Business,Interest Bearing,71488814
+776,5/24/2023,Delaware,Oprah Huffman,8534,2535285,1,13,166,4,Samantha Garcia,ED Loan,74615394,Approved,Business,Interest Bearing,98529900
+777,4/19/2023,Maryland,Keefe Long,5868,6775880,2,21,143,1,Veda Melendez,ED Loan,49155181,Approved,Business,Interest Bearing,69039608
+778,3/30/2023,Montana,Juliet Hubbard,9310,6169091,0,21,1161,1,Meghan Small,ED Loan,67341651,Approved,Business,Interest Bearing,89763822
+779,2/11/2022,Florida,Bell Estes,3560,3706462,2,21,286,0,Dominique Vargas,ED Loan,49791505,Approved,Business,Interest Bearing,97634603
+780,5/23/2023,Arizona,Dean Saunders,8881,6107237,2,3,1302,4,Wang Pearson,ED Loan,36120919,Approved,Business,Interest Bearing,78558251
+781,10/3/2022,Arizona,Brandon Mcclure,7847,2906885,4,15,380,4,Tanisha Mccray,ED Loan,51242789,Approved,Business,Interest Bearing,62006538
+782,6/13/2022,Maryland,Harriet Weeks,6645,7270437,0,21,938,5,Samuel Manning,ED Loan,50974424,Approved,Business,Interest Bearing,80756545
+783,11/3/2022,Delaware,Patrick Bernard,8428,4757431,4,23,358,0,Odette Pierce,ED Loan,53468221,Approved,Business,Interest Bearing,66521460
+784,5/4/2023,Texas,Dale Sherman,5864,8750417,1,22,690,5,Talon Harris,ED Loan,1446174,Approved,Business,Interest Bearing,82362414
+785,3/21/2023,Florida,Hermione Norman,9132,8223049,2,2,1296,4,Jaime Larson,ED Loan,86158440,Approved,Business,Interest Bearing,75380462
+786,12/2/2022,Hawaii,Carly Lynch,5750,1361878,5,24,701,0,Dean England,ED Loan,6961675,Approved,Business,Interest Bearing,98764270
+787,5/15/2023,Minnesota,Kirk Workman,5912,9163050,4,16,146,6,Odysseus Whitney,ED Loan,19519401,Approved,Business,Interest Bearing,65708036
+788,7/28/2022,Oklahoma,Bruce Norton,6311,8283635,4,23,1274,7,Coby Burris,ED Loan,65352412,Approved,Business,Interest Bearing,64907722
+789,1/6/2023,Alaska,Barbara Lawson,6406,6507202,3,7,377,4,Jael Gilmore,ED Loan,27582155,Approved,Business,Interest Bearing,80665850
+790,2/25/2023,Connecticut,Mark Klein,1482,5275977,0,6,1500,3,Jin Nunez,ED Loan,3731785,Approved,Business,Interest Bearing,95354725
+791,5/17/2022,Hawaii,Anne Cook,6633,6889927,5,6,1257,7,Samantha Garcia,ED Loan,75714216,Approved,Business,Interest Bearing,71229965
+792,4/29/2022,Pennsylvania,Camilla Davis,8557,7394052,4,7,642,7,Veda Melendez,ED Loan,42289440,Approved,Business,Interest Bearing,78993686
+793,1/7/2022,Missouri,Marvin Key,6448,6685963,4,1,1035,7,Dean England,ED Loan,15778759,Approved,Business,Interest Bearing,80954565
+794,7/7/2023,Minnesota,Jesse Kennedy,1396,2250906,4,8,55,7,Odysseus Whitney,ED Loan,78268416,Approved,Business,Interest Bearing,94900665
+795,8/16/2022,Illinois,Alvin Winters,7454,4433972,3,21,1117,4,Coby Burris,ED Loan,78198361,Approved,Business,Interest Bearing,75506145
+796,12/10/2022,Montana,Armando Good,8719,6149384,0,11,1183,3,Jael Gilmore,ED Loan,5005779,Approved,Business,Interest Bearing,70447773
+797,11/27/2022,Texas,Rinah Mckay,3927,5606450,1,3,432,3,Jin Nunez,ED Loan,7356256,Approved,Business,Interest Bearing,68895969
+798,4/24/2022,Minnesota,Rhiannon Carey,7527,3211979,0,22,625,7,Samantha Garcia,ED Loan,86437792,Approved,Business,Interest Bearing,97138162
+799,4/17/2023,Louisiana,Norman Estrada,2370,6889426,4,5,1282,2,Veda Melendez,ED Loan,47327680,Approved,Business,Interest Bearing,86093156
+800,6/16/2022,Virginia,Seth Vazquez,6220,3833818,4,23,350,7,Meghan Small,ED Loan,72948743,Approved,Business,Interest Bearing,80318247
+801,4/23/2022,Utah,Ginger O'Neill,5236,3118493,3,18,1337,3,Dominique Vargas,ED Loan,86354782,Approved,Business,Interest Bearing,92836586
+802,3/7/2022,Delaware,Porter Shepherd,4084,2898788,2,14,917,2,Wang Pearson,ED Loan,80607105,Approved,Business,Interest Bearing,86148684
+803,8/26/2022,Pennsylvania,Brooke Bell,7547,7503401,2,2,1188,7,Tanisha Mccray,ED Loan,64959596,Approved,Business,Interest Bearing,68596676
+804,1/24/2022,Iowa,Thomas Alston,1879,3632213,4,9,940,8,Samuel Manning,ED Loan,70726966,Approved,Business,Interest Bearing,87098997
+805,5/15/2023,Pennsylvania,Jennifer Kerr,8291,2693761,3,2,827,1,Odette Pierce,ED Loan,15068057,Approved,Business,Interest Bearing,72990068
+806,12/14/2022,Arkansas,Camilla Phillips,1444,3599334,2,3,1433,4,Talon Harris,ED Loan,82157293,Approved,Business,Interest Bearing,68284509
+807,11/26/2021,Florida,Logan Sutton,9104,2463482,1,22,1396,1,Jaime Larson,ED Loan,31056381,Approved,Business,Interest Bearing,89248369
+808,1/1/2023,Arizona,Celeste Mccray,7974,5856500,3,16,1026,4,Dean England,ED Loan,12363236,Approved,Business,Interest Bearing,71402241
+809,12/21/2022,Wyoming,Francesca Ryan,5254,6887957,2,15,198,5,Odysseus Whitney,ED Loan,37377013,Approved,Business,Interest Bearing,76196941
+810,4/16/2022,Wisconsin,Brenda Knowles,4614,5805202,0,22,389,6,Coby Burris,ED Loan,73919437,Approved,Business,Interest Bearing,95806122
+811,6/12/2023,Indiana,Kenyon Mathews,7042,4668006,1,5,604,3,Jael Gilmore,ED Loan,17506314,Approved,Business,Interest Bearing,97208328
+812,11/11/2022,Massachusetts,Kiona Hayden,6308,8372615,2,14,901,4,Jin Nunez,ED Loan,73819983,Approved,Business,Interest Bearing,93468048
+813,8/31/2022,Massachusetts,Baxter Carey,9116,4992716,4,18,1410,3,Samantha Garcia,ED Loan,68791447,Approved,Business,Interest Bearing,87767870
+814,1/20/2022,Indiana,Cullen Hayes,2525,8087199,2,20,629,2,Veda Melendez,ED Loan,8755850,Approved,Business,Interest Bearing,77847142
+815,1/24/2022,Missouri,Sharon Ramos,2618,2810270,2,17,748,3,Dean England,ED Loan,64588242,Approved,Business,Interest Bearing,82629607
+816,11/26/2021,Idaho,Iona Hull,9203,9154403,0,16,1200,4,Odysseus Whitney,ED Loan,87540985,Approved,Business,Interest Bearing,64777414
+817,5/9/2022,Wisconsin,Halee Hill,4381,4547185,3,12,52,0,Coby Burris,ED Loan,79945220,Approved,Business,Interest Bearing,74319619
+818,8/30/2023,Colorado,Xander Holmes,3278,5361378,2,8,1491,0,Jael Gilmore,ED Loan,59718131,Approved,Business,Interest Bearing,81320051
+819,8/5/2022,Ohio,Dora Mooney,7365,7558611,0,4,1065,2,Jin Nunez,ED Loan,65948923,Approved,Business,Interest Bearing,88263570
+820,9/5/2022,Virginia,Justine Mcgowan,9108,6916195,2,13,1200,7,Samantha Garcia,ED Loan,80134479,Approved,Business,Interest Bearing,71070768
+821,7/15/2022,Montana,Lillith Huffman,8723,3859647,3,15,641,7,Veda Melendez,ED Loan,20192775,Approved,Business,Interest Bearing,63596534
+822,3/27/2022,Iowa,Kadeem Fleming,6639,7168219,4,5,656,5,Meghan Small,ED Loan,64246848,Approved,Business,Interest Bearing,58629616
+823,7/5/2022,Delaware,Yvonne Christian,2636,7114857,5,23,1289,8,Dominique Vargas,ED Loan,48450068,Approved,Business,Interest Bearing,64863905
+824,12/17/2021,California,Aileen Landry,7160,4545823,1,7,1323,4,Wang Pearson,ED Loan,58639000,Approved,Business,Interest Bearing,78931982
+825,3/27/2022,Oklahoma,Demetrius Dotson,5024,4200497,2,4,1029,6,Tanisha Mccray,ED Loan,54014617,Approved,Business,Interest Bearing,82790657
+826,7/26/2023,Wisconsin,Dustin Pate,2054,3088321,2,13,691,2,Samuel Manning,ED Loan,22163072,Approved,Business,Interest Bearing,60606682
+827,4/15/2022,Texas,Mark Gibson,6528,2221713,4,14,1479,0,Odette Pierce,ED Loan,5328077,Approved,Business,Interest Bearing,58242719
+828,1/10/2022,Oklahoma,Tatiana Holder,3710,1614555,0,19,875,5,Talon Harris,ED Loan,62192586,Approved,Business,Interest Bearing,88738972
+829,8/21/2023,Iowa,Warren Stevens,3885,4109567,3,9,1033,6,Jaime Larson,ED Loan,63679564,Approved,Business,Interest Bearing,90869910
+830,2/24/2023,Vermont,Hu Crawford,8533,8409172,5,20,1064,3,Dean England,ED Loan,10131629,Approved,Business,Interest Bearing,96807527
+831,7/10/2023,Florida,Lesley Lane,9378,4974769,1,21,730,1,Odysseus Whitney,ED Loan,88463871,Approved,Business,Interest Bearing,82596506
+832,4/19/2022,Delaware,Kaitlin Beck,6900,4437414,3,5,529,8,Coby Burris,ED Loan,7758006,Approved,Business,Interest Bearing,64038836
+833,12/30/2022,Illinois,Naida Crane,6341,1810206,1,10,1014,5,Jael Gilmore,ED Loan,67073208,Approved,Business,Interest Bearing,68690192
+834,3/8/2022,Iowa,Alma Dejesus,7393,6253590,1,16,412,3,Jin Nunez,ED Loan,75663471,Approved,Business,Interest Bearing,57835336
+835,1/15/2023,Maryland,Bruce Farley,5143,6759956,1,19,889,1,Samantha Garcia,ED Loan,5405044,Approved,Business,Interest Bearing,91750757
+836,12/26/2021,Pennsylvania,Halla Lynn,4569,7288211,1,9,214,3,Veda Melendez,ED Loan,56212842,Approved,Business,Interest Bearing,84065516
+837,12/23/2022,Utah,Quinn Byers,3567,8071985,3,15,393,4,Dean England,ED Loan,13669337,Approved,Business,Interest Bearing,63859839
+838,11/12/2022,Wisconsin,Dane Kent,3427,8044067,5,23,1332,2,Odysseus Whitney,ED Loan,45820444,Approved,Business,Interest Bearing,70191618
+839,3/4/2022,Massachusetts,Miriam Sykes,9249,9145303,3,23,1263,1,Coby Burris,ED Loan,31771461,Approved,Business,Interest Bearing,71308270
+840,1/12/2022,Maine,Bert Wagner,5598,1796799,0,10,225,4,Jael Gilmore,ED Loan,75566485,Approved,Business,Interest Bearing,69638658
+841,11/23/2021,Maine,Oliver Strong,4694,7178441,3,2,540,6,Jin Nunez,ED Loan,37107373,Approved,Business,Interest Bearing,67449449
+842,1/30/2022,Oklahoma,Gavin Chaney,5148,8541921,4,14,957,1,Samantha Garcia,ED Loan,58289088,Approved,Business,Interest Bearing,67253998
+843,3/31/2022,Idaho,Xantha Maxwell,8317,6599621,5,9,357,7,Veda Melendez,ED Loan,46566155,Approved,Business,Interest Bearing,63103095
+844,12/9/2022,Iowa,Dalton Wyatt,2270,4360860,5,3,415,2,Meghan Small,ED Loan,18260333,Approved,Business,Interest Bearing,65711673
+845,11/20/2021,Oklahoma,Zachery Blair,4667,7309816,3,19,645,3,Dominique Vargas,ED Loan,4106618,Approved,Business,Interest Bearing,95847321
+846,3/22/2022,Montana,Palmer Petty,6046,1503561,1,22,1498,6,Wang Pearson,ED Loan,44833103,Approved,Business,Interest Bearing,87653698
+847,3/11/2022,Virginia,Willow Booth,2677,7499711,4,8,519,2,Tanisha Mccray,ED Loan,10958863,Approved,Business,Interest Bearing,98357721
+848,7/16/2022,Connecticut,Declan Humphrey,8631,9404297,4,6,175,3,Samuel Manning,ED Loan,22756322,Approved,Business,Interest Bearing,66293288
+849,5/25/2022,Alabama,Basia Peterson,1404,2836769,1,5,1258,6,Odette Pierce,ED Loan,8220621,Approved,Business,Interest Bearing,87027873
+850,11/28/2021,Virginia,Martin Woodard,1462,8960334,4,23,861,4,Talon Harris,ED Loan,45901474,Approved,Business,Interest Bearing,61960164
+851,3/16/2023,Florida,Tamara Guerrero,4877,5023012,4,4,168,0,Jaime Larson,ED Loan,79396721,Approved,Business,Interest Bearing,60742437
+852,5/22/2023,Idaho,Kessie Cash,3054,3369048,1,23,509,3,Dean England,Auto Loan,1065459,Approved,Business,Interest Bearing,67353373
+853,4/8/2023,Wisconsin,Brody Soto,4740,8598402,5,20,591,7,Odysseus Whitney,Auto Loan,28043586,Approved,Business,Interest Bearing,90203255
+854,3/19/2023,Maryland,Armando Singleton,7348,5937701,4,8,170,7,Coby Burris,Auto Loan,15384390,Approved,Business,Interest Bearing,92158800
+855,1/14/2023,Florida,Derek Dejesus,5854,1270689,4,13,593,8,Jael Gilmore,Auto Loan,86023335,Approved,Business,Interest Bearing,75212533
+856,7/29/2023,Tennessee,Bo Foreman,8925,6579363,4,19,723,3,Jin Nunez,Auto Loan,71803276,Approved,Business,Interest Bearing,94598896
+857,5/18/2023,Alaska,Nathan Davis,9106,4193161,0,1,1469,6,Samantha Garcia,Auto Loan,23650218,Approved,Business,Interest Bearing,76392025
+858,8/27/2023,Texas,Steel Bauer,5256,8155357,2,16,592,3,Veda Melendez,Auto Loan,1387889,Approved,Business,Interest Bearing,85699162
+859,9/7/2022,Indiana,Hadley Salinas,1768,3546001,1,15,715,6,Dean England,Auto Loan,11261183,Approved,Business,Interest Bearing,63791621
+860,3/26/2022,Iowa,Walter Bradshaw,4503,4605111,5,2,621,2,Odysseus Whitney,Auto Loan,46334195,Approved,Business,Interest Bearing,89115895
+861,6/28/2023,Ohio,Amber Norman,4376,2775259,3,19,282,6,Coby Burris,Auto Loan,1134926,Approved,Business,Interest Bearing,65378493
+862,11/12/2022,Missouri,Cyrus Franco,6378,4329068,3,3,1096,0,Jael Gilmore,Auto Loan,86676401,Approved,Business,Interest Bearing,75636560
+863,3/10/2023,Illinois,Elliott Marsh,8263,1442246,5,16,1301,0,Jin Nunez,Auto Loan,36362107,Approved,Business,Interest Bearing,56873727
+864,11/20/2022,Arizona,Wyoming Kramer,5727,2432100,3,11,1036,4,Samantha Garcia,Auto Loan,55628228,Approved,Business,Interest Bearing,95659325
+865,5/14/2023,California,Dane Hobbs,7921,3054703,2,18,970,5,Veda Melendez,Auto Loan,1732189,Approved,Business,Interest Bearing,90511201
+866,8/17/2023,California,Rigel Page,1821,4123889,3,22,1292,2,Meghan Small,Auto Loan,33526343,Approved,Business,Interest Bearing,68450247
+867,1/30/2022,Nevada,Darryl George,6517,3514425,2,6,196,6,Dominique Vargas,Auto Loan,35309430,Approved,Business,Interest Bearing,90302834
+868,7/12/2022,Louisiana,Frances Britt,1584,2547401,0,14,168,2,Wang Pearson,Auto Loan,50271332,Approved,Business,Interest Bearing,66309767
+869,1/14/2023,Iowa,Diana Rivas,3460,3880356,5,22,1149,2,Tanisha Mccray,Auto Loan,38381564,Approved,Business,Interest Bearing,85259225
+870,8/9/2022,Florida,Kuame Brennan,5498,5850044,4,23,308,7,Samuel Manning,Auto Loan,72909662,Approved,Business,Interest Bearing,76845298
+871,2/12/2023,Pennsylvania,David Mcmahon,5003,6210623,4,14,1149,4,Odette Pierce,Auto Loan,74375705,Approved,Business,Interest Bearing,78818375
+872,5/17/2022,Oklahoma,Whoopi Dixon,7704,7812362,2,9,262,4,Talon Harris,Auto Loan,46773087,Approved,Business,Interest Bearing,78303532
+873,2/1/2022,Colorado,Quyn Mills,7477,1587799,4,14,1060,0,Jaime Larson,Auto Loan,76202871,Approved,Business,Interest Bearing,90159430
+874,6/27/2023,Alabama,Eric Parker,3922,4124508,2,21,947,1,Dean England,Auto Loan,12027211,Approved,Business,Interest Bearing,91949547
+875,2/21/2023,Delaware,Paki Bowman,8373,6466063,1,21,414,7,Odysseus Whitney,Auto Loan,41521457,Approved,Business,Interest Bearing,83409109
+876,10/14/2022,Utah,Harding Mercer,5937,5274509,1,2,1496,2,Coby Burris,Auto Loan,40626426,Approved,Business,Interest Bearing,59347894
+877,10/10/2022,Vermont,Naida Jackson,6478,7486342,0,2,1231,1,Jael Gilmore,Auto Loan,80633628,Approved,Business,Interest Bearing,64871789
+878,7/6/2022,Indiana,Uriel Lindsay,1487,3548726,1,1,1015,2,Jin Nunez,Auto Loan,15688902,Approved,Business,Interest Bearing,94832753
+879,4/12/2022,Massachusetts,Calvin Castillo,3954,1438472,3,18,585,6,Samantha Garcia,Auto Loan,54807502,Approved,Business,Interest Bearing,69005839
+880,4/14/2022,Missouri,George Mccoy,6092,8407654,3,5,204,8,Veda Melendez,Auto Loan,54099902,Approved,Business,Interest Bearing,94423410
+881,7/24/2023,Wyoming,Micah Hicks,3044,1301762,2,19,1360,5,Dean England,Auto Loan,68726991,Approved,Business,Interest Bearing,80857778
+882,11/11/2022,Michigan,Shay Carey,1960,8882162,3,15,836,3,Odysseus Whitney,Auto Loan,34151140,Approved,Business,Interest Bearing,94899696
+883,9/27/2022,Louisiana,Allistair Juarez,7134,5240966,3,8,528,4,Coby Burris,Auto Loan,39550480,Approved,Business,Interest Bearing,76138319
+884,9/25/2022,Wisconsin,Mari William,8775,1761198,4,0,871,1,Jael Gilmore,Auto Loan,84840978,Approved,Business,Interest Bearing,63816470
+885,2/23/2023,Mississippi,Eliana Levine,7269,8745321,2,13,1389,3,Jin Nunez,Auto Loan,9368196,Approved,Business,Interest Bearing,83366149
+886,4/23/2023,Maine,Jermaine Berger,5356,3391450,1,6,272,5,Samantha Garcia,Auto Loan,34710759,Approved,Business,Interest Bearing,75928285
+887,2/12/2022,Oregon,Acton Farley,3209,3479703,4,20,1336,1,Veda Melendez,Auto Loan,68359262,Approved,Business,Interest Bearing,77440899
+888,7/10/2022,Maine,Paul Kirby,7746,5396912,1,0,426,7,Meghan Small,Auto Loan,46141536,Approved,Business,Interest Bearing,92760048
+889,10/5/2022,Washington,Destiny Pitts,9124,5438979,2,17,465,4,Dominique Vargas,Auto Loan,39674151,Approved,Business,Interest Bearing,97941859
+890,1/14/2022,Nevada,Zachery Kennedy,1544,7054449,3,9,1377,5,Wang Pearson,Auto Loan,67739382,Approved,Business,Interest Bearing,89192220
+891,5/14/2023,Delaware,Quail Howell,8690,7855956,1,22,1014,7,Tanisha Mccray,Auto Loan,53142039,Approved,Business,Interest Bearing,76623808
+892,3/6/2022,Alaska,Dora Ashley,8991,2588650,3,21,1219,2,Samuel Manning,Auto Loan,6146888,Approved,Business,Interest Bearing,83347309
+893,3/20/2022,Massachusetts,Erica Dean,8530,5239165,4,8,494,4,Odette Pierce,Auto Loan,37365030,Approved,Business,Interest Bearing,61431225
+894,4/11/2022,Texas,Bruno Wright,6090,1336915,3,1,106,7,Talon Harris,Auto Loan,88082049,Approved,Business,Interest Bearing,68156877
+895,2/8/2023,Alabama,Barrett Clements,7982,4186252,2,19,509,8,Jaime Larson,Auto Loan,28051500,Approved,Business,Interest Bearing,75758976
+896,5/11/2022,Oregon,Barbara Montgomery,8894,1626714,1,11,1431,0,Dean England,Auto Loan,9657500,Approved,Business,Interest Bearing,89751011
+897,2/7/2022,Wyoming,Oren Henderson,3584,9103307,4,1,842,5,Odysseus Whitney,Auto Loan,17552495,Approved,Business,Interest Bearing,74336884
+898,8/11/2022,Alaska,Amy Odom,7678,4697262,1,7,1446,3,Coby Burris,Auto Loan,20771558,Approved,Business,Interest Bearing,92787980
+899,4/10/2022,Colorado,Shellie Maxwell,5880,6789741,3,20,54,5,Jael Gilmore,Auto Loan,39673379,Approved,Business,Interest Bearing,62685253
+900,12/14/2021,Washington,Chanda Williamson,6193,7479711,5,18,611,8,Jin Nunez,Auto Loan,5438249,Approved,Business,Interest Bearing,64842639
+901,8/21/2023,Utah,Kamal Conley,7842,9445247,1,5,776,4,Samantha Garcia,Auto Loan,73193188,Approved,Business,Interest Bearing,97829559
+902,1/6/2022,Arkansas,Nichole Jacobs,2313,6381960,2,19,1342,2,Veda Melendez,Auto Loan,34231646,Withdrawn,Business,Interest Bearing,96759585
+903,10/30/2022,Tennessee,McKenzie Haley,5934,8245483,0,11,791,2,Dean England,Auto Loan,1387497,Withdrawn,Business,Interest Bearing,70910517
+904,1/25/2022,Minnesota,Driscoll Mcleod,5769,8679336,3,0,1005,7,Odysseus Whitney,Auto Loan,8542584,Withdrawn,Business,Interest Bearing,97931104
+905,5/24/2022,Colorado,Rogan Dawson,5651,3196408,3,23,1165,8,Coby Burris,Auto Loan,55559340,Withdrawn,Business,Interest Bearing,60130050
+906,3/26/2022,Florida,Zelda Dodson,3448,2089699,3,17,337,3,Jael Gilmore,Auto Loan,50308906,Withdrawn,Business,Interest Bearing,61687667
+907,3/20/2022,Massachusetts,Noel Parrish,7629,2678196,4,12,839,2,Jin Nunez,Auto Loan,75419587,Withdrawn,Business,Interest Bearing,58523432
+908,10/21/2022,Illinois,Uta Meyer,7094,5658939,1,1,196,0,Samantha Garcia,Auto Loan,27344563,Withdrawn,Business,Interest Bearing,91404406
+909,4/14/2022,Michigan,Denise Mendez,4650,8178804,2,3,1092,3,Veda Melendez,Auto Loan,35361645,Withdrawn,Business,Interest Bearing,93345868
+910,2/25/2022,Kansas,Maggie Orr,6480,1876826,2,17,568,1,Meghan Small,Auto Loan,22854769,Withdrawn,Business,Interest Bearing,61306111
+911,1/24/2022,Kentucky,Barry Callahan,9065,8355556,1,19,430,1,Dominique Vargas,Auto Loan,38583137,Withdrawn,Business,Interest Bearing,73577555
+912,5/29/2023,Kentucky,Iris Gardner,1514,5188923,4,14,462,5,Wang Pearson,Auto Loan,82863815,Withdrawn,Business,Interest Bearing,63525845
+913,3/1/2022,Washington,Felicia Emerson,8201,2629407,2,17,570,2,Tanisha Mccray,Auto Loan,60603188,Withdrawn,Business,Interest Bearing,96054345
+914,12/6/2022,Michigan,Bree Armstrong,8223,4063625,2,2,549,2,Samuel Manning,Auto Loan,5860488,Withdrawn,Business,Interest Bearing,77319063
+915,9/1/2022,Michigan,Garth Schroeder,9457,3877009,4,0,174,1,Odette Pierce,Auto Loan,79578136,Withdrawn,Business,Interest Bearing,59609897
+916,1/25/2022,Kentucky,Alden Sheppard,7884,2210240,2,11,1205,4,Talon Harris,Auto Loan,58694123,Withdrawn,Business,Interest Bearing,57306552
+917,5/10/2023,Wisconsin,Veda Singleton,9246,5909219,2,5,851,6,Jaime Larson,Auto Loan,16345534,Withdrawn,Business,Interest Bearing,95495566
+918,3/23/2022,Missouri,Abel Haney,6009,6799452,4,0,125,1,Dean England,Auto Loan,36468889,Withdrawn,Business,Interest Bearing,98476860
+919,8/23/2023,California,Jorden Gordon,4259,2716047,3,2,476,6,Odysseus Whitney,Auto Loan,33122621,Withdrawn,Business,Interest Bearing,67926244
+920,2/14/2023,Alaska,Dawn Arnold,4780,8185373,0,11,860,5,Coby Burris,Auto Loan,74043670,Withdrawn,Business,Interest Bearing,92854158
+921,8/13/2023,Wyoming,Joel Grimes,7159,4851187,4,10,163,6,Jael Gilmore,Auto Loan,2974930,Withdrawn,Business,Interest Bearing,77520507
+922,3/13/2023,Mississippi,Lucas Carver,3753,6248656,5,17,191,7,Jin Nunez,Auto Loan,14772604,Withdrawn,Business,Interest Bearing,85724928
+923,6/8/2023,Arkansas,Gray Carpenter,4726,7018512,4,15,828,0,Samantha Garcia,Auto Loan,6091644,Withdrawn,Business,Interest Bearing,69270816
+924,4/5/2023,Washington,Chantale Gibson,1621,5229062,1,20,1233,4,Veda Melendez,Auto Loan,63438513,Withdrawn,Business,Interest Bearing,61749659
+925,5/12/2023,Oregon,Chantale Ayers,7594,3220270,2,16,142,2,Dean England,Auto Loan,65672743,Withdrawn,Business,Interest Bearing,88078543
+926,7/30/2023,Massachusetts,Linus Henderson,4494,8916436,5,15,700,2,Odysseus Whitney,Auto Loan,38803896,Withdrawn,Business,Interest Bearing,64707202
+927,3/4/2023,Connecticut,Norman Dyer,2323,7163261,5,5,319,6,Coby Burris,Auto Loan,32143498,Withdrawn,Business,Interest Bearing,66687984
+928,7/11/2023,Indiana,Channing Crawford,1295,4650558,2,20,1325,5,Jael Gilmore,Auto Loan,5276801,Withdrawn,Business,Interest Bearing,95232871
+929,11/19/2022,Arkansas,Alice Landry,5726,6584304,4,23,1369,4,Jin Nunez,Auto Loan,23718160,Withdrawn,Business,Interest Bearing,63176031
+930,6/1/2023,Iowa,Mollie Pacheco,5603,3397605,4,3,713,0,Samantha Garcia,Auto Loan,19866445,Withdrawn,Business,Interest Bearing,86557121
+931,4/19/2022,Hawaii,Wilma Trujillo,1481,1766376,3,14,232,6,Veda Melendez,Auto Loan,51277846,Withdrawn,Business,Interest Bearing,81095031
+932,9/2/2022,Connecticut,Rajah Armstrong,3861,8772728,1,5,1149,3,Meghan Small,Auto Loan,73505375,Withdrawn,Business,Interest Bearing,78619281
+933,8/30/2022,Florida,Quail Vinson,8250,8518565,1,0,1160,7,Dominique Vargas,Auto Loan,63457859,Withdrawn,Business,Interest Bearing,77189790
+934,8/4/2023,Florida,Nichole Morrow,5154,5035861,5,10,836,3,Wang Pearson,Auto Loan,62744035,Withdrawn,Business,Interest Bearing,78898624
+935,4/27/2023,Alaska,Madison Cash,2605,8202165,0,17,1137,0,Tanisha Mccray,Auto Loan,82796455,Withdrawn,Business,Interest Bearing,94405514
+936,4/14/2022,Kansas,Tarik Morgan,3919,8478118,4,3,720,5,Samuel Manning,Auto Loan,61862319,Withdrawn,Business,Interest Bearing,67031426
+937,7/20/2022,Oregon,Jacqueline Carter,8084,3732491,0,9,463,5,Odette Pierce,Auto Loan,55330629,Withdrawn,Business,Interest Bearing,81985464
+938,10/18/2022,Virginia,Deirdre Albert,8336,1504979,2,11,493,5,Talon Harris,Auto Loan,68185824,Withdrawn,Business,Interest Bearing,81920183
+939,6/7/2023,Kansas,Christine Delaney,5437,6089464,0,1,1300,5,Jaime Larson,Auto Loan,26717414,Withdrawn,Business,Interest Bearing,80804540
+940,8/24/2023,Vermont,Blake Mueller,6428,2357583,5,4,608,3,Dean England,Auto Loan,17632202,Withdrawn,Business,Interest Bearing,89489758
+941,7/30/2023,Nevada,Wyatt Byers,1704,5593215,4,13,725,3,Odysseus Whitney,Auto Loan,8289067,Withdrawn,Business,Interest Bearing,76223554
+942,3/15/2022,Delaware,Mercedes Brewer,2089,1901790,4,6,203,4,Coby Burris,Auto Loan,46907685,Withdrawn,Business,Interest Bearing,97684311
+943,4/18/2022,Minnesota,Cullen Ashley,6920,5831852,1,13,1043,8,Jael Gilmore,Auto Loan,10463366,Withdrawn,Business,Interest Bearing,61396821
+944,11/26/2021,Kansas,Brennan Russo,5005,4675455,4,18,1248,4,Jin Nunez,Auto Loan,75740606,Withdrawn,Business,Interest Bearing,80329942
+945,6/2/2022,Oklahoma,Unity Horn,1467,6194649,1,19,484,5,Samantha Garcia,Auto Loan,72696571,Withdrawn,Business,Interest Bearing,76262297
+946,1/11/2022,Minnesota,Alden Cote,6518,5295035,4,23,1246,6,Veda Melendez,Auto Loan,21365698,Withdrawn,Business,Interest Bearing,98329928
+947,7/28/2023,Louisiana,Aidan Schmidt,8106,3894497,3,0,163,3,Dean England,Auto Loan,58958026,Withdrawn,Business,Interest Bearing,72148486
+948,2/26/2023,Missouri,Leandra Pate,7941,1453466,0,20,927,8,Odysseus Whitney,Auto Loan,22600344,Withdrawn,Business,Interest Bearing,65821305
+949,3/12/2023,Oklahoma,Wyoming Steele,5124,7022301,3,24,1158,2,Coby Burris,Auto Loan,86886259,Withdrawn,Business,Interest Bearing,73817590
+950,6/9/2023,Kentucky,Wanda Haynes,4879,3082075,3,7,1489,8,Jael Gilmore,Auto Loan,57790205,Withdrawn,Business,Interest Bearing,81169168
+951,3/29/2022,Florida,Tarik Larsen,5471,1496788,5,6,1493,6,Jin Nunez,Auto Loan,44193328,Withdrawn,Business,Interest Bearing,88611845
+952,4/18/2022,Idaho,Hanna Heath,1402,9065210,3,10,724,4,Samantha Garcia,Auto Loan,39306756,Withdrawn,Business,Interest Bearing,96013799
+953,2/26/2023,Virginia,Joan Livingston,8769,8973897,4,8,669,3,Veda Melendez,Auto Loan,60466440,Withdrawn,Business,Interest Bearing,61264033
+954,7/4/2023,Florida,Hilary Ratliff,6477,6664547,1,18,268,4,Meghan Small,Auto Loan,15279464,Withdrawn,Business,Interest Bearing,78688508
+955,7/26/2022,Alaska,Imani Talley,9168,8779911,1,4,165,7,Dominique Vargas,Auto Loan,32271980,Withdrawn,Business,Interest Bearing,93730116
+956,5/18/2023,Pennsylvania,Randall Stephenson,8280,2308873,0,11,1489,3,Wang Pearson,Auto Loan,42234095,Withdrawn,Business,Interest Bearing,64116655
+957,4/20/2023,Washington,Maile Medina,2559,3533545,5,18,611,4,Tanisha Mccray,Auto Loan,61103595,Withdrawn,Business,Interest Bearing,68146630
+958,3/27/2023,Alaska,Fay Rodgers,6980,4674567,1,16,151,6,Samuel Manning,Auto Loan,79989093,Withdrawn,Business,Interest Bearing,71624090
+959,9/19/2022,Pennsylvania,Galvin Mills,5851,2563941,3,12,1317,5,Odette Pierce,Auto Loan,21007392,Withdrawn,Business,Interest Bearing,66170834
+960,4/30/2023,Hawaii,Dane Levine,7131,8919313,2,16,848,6,Talon Harris,Auto Loan,17489355,Withdrawn,Business,Interest Bearing,90653734
+961,4/15/2023,Alaska,Chadwick Hamilton,7684,6597242,1,19,189,2,Jaime Larson,Auto Loan,77244690,Withdrawn,Business,Interest Bearing,96489495
+962,1/30/2022,California,Lucius Walker,4491,3302981,4,9,981,3,Dean England,Auto Loan,10379631,Withdrawn,Business,Interest Bearing,65319731
+963,8/28/2023,Tennessee,Isaac Carver,8177,4090819,0,24,822,5,Odysseus Whitney,Auto Loan,34770912,Withdrawn,Business,Interest Bearing,89445957
+964,1/19/2022,Michigan,Emmanuel Mccarthy,1950,4919934,2,11,465,5,Coby Burris,Auto Loan,9085621,Withdrawn,Business,Interest Bearing,90427924
+965,3/15/2023,Arizona,Edan Martinez,3054,9115726,0,1,728,4,Jael Gilmore,Auto Loan,57518396,Withdrawn,Business,Interest Bearing,66497043
+966,7/23/2023,Michigan,Raja Fulton,8220,4097296,1,21,99,1,Jin Nunez,Auto Loan,12316586,Withdrawn,Business,Interest Bearing,91725003
+967,1/31/2023,Tennessee,Hedy Mcdaniel,5694,1864206,4,1,1104,7,Samantha Garcia,Auto Loan,43892057,Withdrawn,Business,Interest Bearing,89606373
+968,3/11/2022,Nevada,Gail Knox,4897,4273602,2,16,184,2,Veda Melendez,Auto Loan,12609198,Withdrawn,Business,Interest Bearing,61992005
+969,1/4/2023,Florida,Ronan Madden,8777,8858390,1,2,1208,6,Dean England,Auto Loan,19318659,Withdrawn,Business,Interest Bearing,90594879
+970,5/3/2022,Nevada,Shad Green,6327,2985042,3,23,661,2,Odysseus Whitney,Auto Loan,41943323,Withdrawn,Business,Interest Bearing,92364077
+971,10/17/2022,California,Boris Mendez,4049,2689231,4,1,279,2,Coby Burris,Auto Loan,26706898,Withdrawn,Business,Interest Bearing,84583732
+972,4/19/2022,Iowa,Lyle Sellers,5542,3074321,3,15,64,5,Jael Gilmore,Auto Loan,63940509,Withdrawn,Business,Interest Bearing,73885395
+973,9/16/2022,Hawaii,Magee Carson,6868,1586132,4,5,1411,2,Jin Nunez,Auto Loan,23936514,Withdrawn,Business,Interest Bearing,72347339
+974,11/13/2022,Louisiana,Mara Bush,6086,9502542,1,12,1491,6,Samantha Garcia,Auto Loan,72627478,Withdrawn,Business,Interest Bearing,97254785
+975,12/28/2022,Kansas,Fitzgerald Valdez,6010,7952038,4,22,119,8,Veda Melendez,Auto Loan,85238740,Withdrawn,Business,Interest Bearing,69000683
+976,12/1/2022,Virginia,Chaim Rocha,1380,8232597,1,10,634,7,Meghan Small,Auto Loan,49063618,Withdrawn,Business,Interest Bearing,61452289
+977,1/26/2023,Alabama,Rana Bell,5060,7022938,4,21,507,2,Dominique Vargas,Auto Loan,23348117,Withdrawn,Business,Interest Bearing,64369106
+978,7/15/2022,Tennessee,Shelby Lindsay,2442,7615083,5,13,926,6,Wang Pearson,Auto Loan,10007322,Withdrawn,Business,Interest Bearing,75717683
+979,11/11/2022,Utah,Kaitlin Russell,1456,2102616,3,24,690,4,Tanisha Mccray,Auto Loan,30229051,Withdrawn,Business,Interest Bearing,67655347
+980,11/3/2022,Connecticut,Carter White,3047,8739016,1,16,463,8,Samuel Manning,Auto Loan,55618900,Withdrawn,Business,Interest Bearing,73787013
+981,6/5/2022,Illinois,Leilani Odom,8479,1531915,4,4,343,7,Odette Pierce,Auto Loan,43207875,Withdrawn,Business,Interest Bearing,59927297
+982,3/13/2022,Connecticut,Abbot Mooney,6233,3341891,0,15,1407,1,Talon Harris,Auto Loan,29507066,Withdrawn,Business,Interest Bearing,97387786
+983,7/8/2022,Oregon,Gail Patterson,5929,9075755,5,22,784,4,Jaime Larson,Auto Loan,75440990,Withdrawn,Business,Interest Bearing,92568781
+984,5/26/2022,Utah,Evan Kim,1454,7551143,1,5,497,3,Dean England,Auto Loan,11083689,Withdrawn,Consumer,Interest Bearing,60783401
+985,2/1/2022,Michigan,Lucius Anderson,7312,3515864,2,8,542,2,Odysseus Whitney,Auto Loan,19337070,Withdrawn,Consumer,Interest Bearing,80589261
+986,11/1/2022,Maine,Chester Church,5384,3790219,3,24,479,5,Coby Burris,Auto Loan,31637229,Withdrawn,Consumer,Interest Bearing,72765474
+987,8/19/2023,Georgia,Nell Simpson,5744,3189902,3,19,456,4,Jael Gilmore,Auto Loan,75750107,Withdrawn,Consumer,Interest Bearing,74069462
+988,1/30/2023,Washington,Dane Dixon,5962,8172659,2,9,604,4,Jin Nunez,Auto Loan,44751405,Withdrawn,Consumer,Interest Bearing,70188857
+989,5/3/2023,Ohio,Aileen Ware,8956,2850525,2,20,621,4,Samantha Garcia,Auto Loan,38747685,Withdrawn,Consumer,Interest Bearing,95604509
+990,1/17/2023,Kentucky,Breanna Walker,8050,2112975,4,1,556,4,Veda Melendez,Auto Loan,64853090,Withdrawn,Consumer,Interest Bearing,70296501
+991,4/25/2022,Washington,Savannah Bond,5701,2997596,1,0,804,5,Dean England,Auto Loan,33131908,Withdrawn,Consumer,Interest Bearing,61055697
+992,6/29/2023,Indiana,Adrienne Norman,3371,2413119,1,18,1407,1,Odysseus Whitney,Auto Loan,48243249,Withdrawn,Consumer,Interest Bearing,73458094
+993,6/13/2023,Tennessee,Vivian Cline,3370,5393315,5,10,617,6,Coby Burris,Auto Loan,47999547,Withdrawn,Consumer,Interest Bearing,86998664
+994,2/19/2023,Arizona,Yetta Hewitt,1925,4872127,4,1,1413,1,Jael Gilmore,Auto Loan,29345043,Withdrawn,Consumer,Interest Bearing,70386060
+995,5/1/2023,Michigan,Catherine Floyd,2426,2309591,3,7,599,4,Jin Nunez,Auto Loan,8476202,Withdrawn,Consumer,Interest Bearing,57909573
+996,1/17/2022,Colorado,Priscilla Clements,8999,9331655,3,17,620,0,Samantha Garcia,Auto Loan,32367597,Withdrawn,Consumer,Interest Bearing,59444193
+997,5/9/2022,Maine,Marny Johnston,6217,7013690,0,12,1495,7,Veda Melendez,Auto Loan,47958287,Withdrawn,Consumer,Interest Bearing,78528243
+998,9/3/2022,Nevada,Galena Serrano,7066,6495318,1,3,1338,4,Meghan Small,Auto Loan,32098016,Withdrawn,Consumer,Interest Bearing,59648001
+999,8/10/2022,Arizona,Mira Hatfield,5292,9037375,2,9,1264,4,Dominique Vargas,Auto Loan,45087879,Withdrawn,Consumer,Interest Bearing,90008575
+1000,1/10/2023,Missouri,Yoshi Huff,7993,6457084,1,20,1225,7,Wang Pearson,Auto Loan,35596177,Withdrawn,Consumer,Interest Bearing,60152682

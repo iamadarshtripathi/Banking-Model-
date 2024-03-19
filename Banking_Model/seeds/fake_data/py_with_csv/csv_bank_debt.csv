@@ -1,0 +1,70 @@
+debt_id,debtor_name,debt_type,principal_amount,interest_rate,issue_date,maturity_date,collateral,guarantee,debt_status
+1,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,7233731,5,2021-04-22,2026-04-21,none,Summers-Montgomery,active
+2,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,2803242,5,2021-04-03,2026-04-02,property,none,active
+3,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,6382934,4,2021-03-29,2026-03-28,none,Baker-Campbell,active
+4,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,7458220,2,2020-06-04,2025-06-03,property,none,active
+5,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,9507957,4,2021-10-04,2026-10-03,none,Brown Holland and Marshall,active
+6,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,9306921,1,2022-04-09,2027-04-08,property,none,active
+7,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,5145772,2,2021-07-12,2026-07-11,property,none,active
+8,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,3153045,4,2020-04-23,2025-04-22,property,none,active
+9,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,3233580,5,2021-05-01,2026-04-30,property,none,active
+10,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,7712068,3,2020-04-06,2025-04-05,none,Howard LLC,active
+11,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,4881353,5,2020-11-09,2025-11-08,none,Nguyen-Ramos,active
+12,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,7513589,2,2023-01-26,2028-01-25,none,Hicks Harvey and Burnett,active
+13,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,6790772,4,2022-04-12,2027-04-11,property,none,active
+14,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,6450101,2,2023-05-20,2028-05-18,none,Powell-Garrett,active
+15,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,5977238,1,2022-06-18,2027-06-17,property,none,active
+16,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,4068548,4,2022-12-27,2027-12-26,property,none,active
+17,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,3924396,2,2021-04-30,2026-04-29,none,Black Crawford and Vazquez,active
+18,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,6092175,4,2023-05-18,2028-05-16,property,none,active
+19,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,3905399,2,2022-04-26,2027-04-25,none,Holt-Lee,active
+20,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,4020029,1,2021-05-02,2026-05-01,property,none,active
+21,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,6847647,4,2021-02-06,2026-02-05,none,Campbell-Petersen,active
+22,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,4120759,2,2022-04-01,2027-03-31,property,none,active
+23,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,3607530,1,2020-02-10,2025-02-08,none,Schroeder Walters and Gallagher,active
+24,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,5773892,5,2021-06-08,2026-06-07,none,Brown-Dean,active
+25,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,1524527,5,2020-04-18,2025-04-17,property,none,active
+26,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,3077800,5,2021-09-13,2026-09-12,property,none,active
+27,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,9250280,4,2022-02-22,2027-02-21,property,none,active
+28,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,2630492,4,2022-08-29,2027-08-28,none,Allen-Kramer,active
+29,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,3272208,4,2022-04-12,2027-04-11,none,Martinez-Wagner,active
+30,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,9085989,4,2022-03-01,2027-02-28,property,none,active
+31,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,6645887,2,2021-01-17,2026-01-16,none,Dennis PLC,active
+32,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,9358301,5,2021-12-29,2026-12-28,property,none,active
+33,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,2414004,1,2022-10-14,2027-10-13,none,Giles-Chambers,active
+34,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,4657321,3,2022-09-16,2027-09-15,property,none,active
+35,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,5237956,2,2019-09-08,2024-09-06,property,none,active
+36,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,2722133,3,2022-12-01,2027-11-30,property,none,active
+37,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,5266852,4,2023-05-08,2028-05-06,none,Haley-Moore,active
+38,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,9639948,1,2021-06-19,2026-06-18,none,Williams Group,active
+39,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,3161875,5,2022-03-22,2027-03-21,none,Klein-Craig,active
+40,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,7160819,1,2021-01-04,2026-01-03,property,none,active
+41,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,1356219,4,2021-09-11,2026-09-10,property,none,active
+42,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,3467463,1,2022-11-13,2027-11-12,none,Shaffer Brown and Smith,active
+43,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,3712297,3,2021-07-09,2026-07-08,none,Lopez and Sons,active
+44,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,2690490,1,2020-11-18,2025-11-17,property,none,active
+45,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,1399378,3,2019-11-01,2024-10-30,property,none,active
+46,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,9265902,2,2023-07-01,2028-06-29,property,none,active
+47,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,6308733,2,2022-11-23,2027-11-22,none,Scott PLC,active
+48,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,9078053,5,2019-09-16,2024-09-14,none,Mueller LLC,active
+49,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,1738107,3,2022-04-18,2027-04-17,property,none,active
+50,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,9973614,5,2021-05-04,2026-05-03,none,Booker-Le,active
+51,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,8967487,5,2020-12-19,2025-12-18,property,none,active
+52,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,3204438,5,2019-10-18,2024-10-16,none,Wolf Group,active
+53,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,3581920,2,2020-04-18,2025-04-17,none,Foster-Martin,active
+54,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,6021093,3,2019-11-21,2024-11-19,none,Marsh-Fitzgerald,active
+55,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,7129042,4,2022-10-01,2027-09-30,none,Tapia Group,active
+56,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,2688639,5,2020-02-29,2025-02-27,property,none,active
+57,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,5351472,1,2023-02-13,2028-02-12,none,Mitchell Martinez and Russell,active
+58,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,4600052,5,2021-04-06,2026-04-05,none,Wall Rios and Wells,active
+59,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,9830239,3,2021-12-08,2026-12-07,none,Cummings-Carrillo,active
+60,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,4339302,1,2022-02-11,2027-02-10,none,Stone Davidson and Miller,active
+61,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,9531014,2,2021-03-12,2026-03-11,none,Gray-Reynolds,active
+62,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,5064323,2,2023-07-11,2028-07-09,property,none,active
+63,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,6733661,4,2020-02-07,2025-02-05,none,Martin-Brown,active
+64,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,9936252,2,2022-05-30,2027-05-29,none,Williams-Taylor,active
+65,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,4792242,4,2022-03-24,2027-03-23,property,none,active
+66,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,8494936,5,2022-05-29,2027-05-28,property,none,active
+67,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,8979750,4,2022-11-10,2027-11-09,property,none,active
+68,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,Bonds,1701917,5,2020-07-13,2025-07-12,none,Mooney and Sons,active
+69,<bound method Provider.name of <faker.providers.person.en_US.Provider object at 0x00000291F2DAA2F0>>,loan,8337367,1,2020-07-13,2025-07-12,property,none,active

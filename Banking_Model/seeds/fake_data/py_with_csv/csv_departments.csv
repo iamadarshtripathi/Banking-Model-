@@ -1,0 +1,10 @@
+department_id , department_name , allocated_budget , department_head_id
+1,Retail Banking,12500000,9
+2,Corporate Banking,10000000,10
+3,Investment Banking,7500000,11
+4,Wealth Management,5000000,12
+5,Operation and Technology,7500000,16
+6,Risk Management and Compliance,5000000,17
+7,Treasury and Financial Markets,2500000,22
+8,Human Resources,2500000,34
+9,Marketing and Customer Realtion,2500000,38

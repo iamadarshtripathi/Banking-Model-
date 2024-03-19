@@ -1,0 +1,18 @@
+﻿ACCOUNT_TYPE_ID,ACCOUNT_TYPE,ACCOUNT_TYPE_DESCRIPTION
+1,Checking Account,Consumer Checking
+2,Checking Account,Business Checking 
+3,Savings Account,Regular Savings 
+4,Savings Account,High Yield Savings
+5,Money Market,Money Market Deposit Account (MMDA)
+6,Money Market,Money Market Mutual Funds (MMMF)
+7,Certificates of Deposits,Fixed-Rate Certificates
+8,Certificates of Deposits,Variable Certificates Of Deposit
+9,Certificates of Deposits,Bump-Up Certificates
+10,Certificates of Deposits,Liquid Certificates Of Deposit (No-Penalty CDs)
+11,Individual Retirement Accounts,Traditional IRA
+12,Individual Retirement Accounts,Roth IRA
+13,Individual Retirement Accounts,SEP IRA 
+14,Individual Retirement Accounts,SIMPLE IRA 
+15,Brokerage Account,Individual Brokerage Account
+16,Brokerage Account,Joint Brokerage Account
+17,Brokerage Account,Custodial Brokerage Account

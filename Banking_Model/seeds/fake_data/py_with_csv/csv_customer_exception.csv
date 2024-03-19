@@ -1,0 +1,1001 @@
+exception_id,customer_id,employee_id,Open_date,"Review_date,doc_status, description, comments",,,
+1,4100,3544,2014-08-18,2016-04-05,Exception,CIP Exception,ID has Expired
+2,20588,21674,2019-11-22,2021-05-03,Exception,Identity,
+3,9358,27382,2014-11-05,2016-05-17,Missing,CIP Exception,ID has Expired
+4,11865,1984,2016-06-14,2017-12-12,Exception,Identity,
+5,14159,7640,2013-03-07,2014-09-24,Exception,CIP Exception,ID has Expired
+6,9230,2398,2012-08-11,2014-01-05,Missing,Identity,
+7,25784,4280,2020-07-07,2022-01-03,Exception,CIP Exception,Please re-sacn ID Verification
+8,12455,4730,2018-06-22,2019-12-26,Missing,Identity,
+9,26858,13113,2014-03-17,2015-11-06,Missing,Identity,
+10,5646,20540,2016-06-30,2017-12-25,Exception,CIP Exception,ID has Expired
+11,18302,22095,2015-02-21,2016-08-06,Missing,Identity,
+12,23804,22831,2011-05-03,2012-10-30,Missing,Identity,
+13,13003,10309,2010-09-02,2012-03-12,Missing,CIP Exception,Please re-sacn ID Verification
+14,7210,21868,2018-04-23,2019-11-19,Exception,Identity,
+15,19875,7265,2010-05-27,2011-12-10,Missing,Identity,
+16,22570,12996,2013-11-06,2015-04-10,Missing,Identity,
+17,16167,23752,2014-04-07,2015-10-19,Missing,Identity,
+18,833,15570,2016-01-11,2017-06-27,Missing,Identity,
+19,26330,26062,2015-11-24,2017-04-25,Exception,CIP Exception,ID has Expired
+20,23448,14326,2014-08-29,2016-03-15,Exception,Identity,
+21,24078,16450,2010-05-03,2011-12-05,Missing,CIP Exception,ID has Expired
+22,5422,21482,2013-02-14,2014-07-10,Exception,CIP Exception,ID has Expired
+23,24255,12732,2016-10-09,2018-06-01,Missing,CIP Exception,Please re-sacn ID Verification
+24,20596,9467,2016-05-23,2017-12-05,Missing,CIP Exception,ID has Expired
+25,14377,21878,2015-05-14,2016-10-21,Exception,Identity,
+26,23315,7727,2010-02-24,2011-08-19,Exception,Identity,
+27,18080,26361,2012-05-03,2013-10-06,Exception,Identity,
+28,6444,4272,2018-12-11,2020-05-22,Exception,Identity,
+29,4015,6645,2018-01-22,2019-07-05,Exception,CIP Exception,ID has Expired
+30,14290,989,2015-08-19,2017-02-25,Exception,Identity,
+31,21112,2072,2014-02-06,2015-08-16,Exception,Identity,
+32,18418,3600,2018-07-15,2020-01-11,Missing,Identity,
+33,8011,10658,2018-11-11,2020-05-22,Missing,CIP Exception,Please re-sacn ID Verification
+34,25314,24815,2012-02-17,2013-07-26,Exception,Identity,
+35,18225,22877,2013-04-01,2014-09-16,Missing,Identity,
+36,13632,24062,2016-11-23,2018-06-28,Exception,CIP Exception,Please re-sacn ID Verification
+37,13976,27300,2016-09-05,2018-03-01,Missing,CIP Exception,Please re-sacn ID Verification
+38,11872,17235,2016-09-24,2018-04-05,Missing,Identity,
+39,6631,24016,2020-01-14,2021-08-22,Exception,CIP Exception,Please re-sacn ID Verification
+40,20325,11978,2019-10-26,2021-04-28,Exception,Identity,
+41,26413,23230,2010-07-05,2012-01-29,Exception,CIP Exception,ID has Expired
+42,22526,8099,2019-10-29,2021-03-23,Exception,CIP Exception,Please re-sacn ID Verification
+43,25076,8646,2017-12-24,2019-05-25,Missing,CIP Exception,ID has Expired
+44,5941,20255,2016-01-17,2017-06-10,Missing,CIP Exception,ID has Expired
+45,9701,787,2013-08-26,2015-01-16,Missing,CIP Exception,ID has Expired
+46,11584,14776,2020-08-01,2022-01-30,Exception,CIP Exception,Please re-sacn ID Verification
+47,12045,21201,2018-09-27,2020-04-13,Missing,Identity,
+48,18057,20266,2010-02-03,2011-06-24,Exception,CIP Exception,Please re-sacn ID Verification
+49,18825,2055,2011-06-14,2013-01-10,Missing,CIP Exception,ID has Expired
+50,21795,5410,2015-03-03,2016-07-25,Exception,CIP Exception,Please re-sacn ID Verification
+51,6226,4495,2019-08-02,2021-03-21,Exception,Identity,
+52,16572,20928,2016-02-18,2017-07-21,Exception,Identity,
+53,20063,8743,2015-05-10,2016-10-28,Missing,Identity,
+54,22229,14462,2010-09-15,2012-03-26,Exception,Identity,
+55,11832,245,2013-01-27,2014-06-27,Missing,Identity,
+56,6891,16415,2014-01-26,2015-09-12,Missing,CIP Exception,ID has Expired
+57,2550,2064,2011-02-17,2012-09-01,Missing,CIP Exception,Please re-sacn ID Verification
+58,14401,9892,2013-10-21,2015-04-22,Missing,CIP Exception,ID has Expired
+59,21173,9410,2012-10-26,2014-04-29,Exception,CIP Exception,ID has Expired
+60,26528,25796,2011-04-21,2012-11-01,Exception,CIP Exception,Please re-sacn ID Verification
+61,27072,13484,2016-08-02,2018-01-19,Exception,Identity,
+62,2037,26814,2018-07-03,2019-11-16,Missing,Identity,
+63,28222,3317,2014-08-31,2016-03-07,Exception,Identity,
+64,15350,9240,2014-02-24,2015-07-30,Missing,CIP Exception,ID has Expired
+65,5670,3771,2015-12-01,2017-05-26,Missing,Identity,
+66,1218,11163,2014-03-25,2015-11-09,Missing,Identity,
+67,14757,25982,2019-07-24,2021-01-25,Missing,Identity,
+68,25832,9333,2011-08-26,2013-03-12,Exception,CIP Exception,Please re-sacn ID Verification
+69,19472,8417,2010-05-21,2011-10-25,Exception,Identity,
+70,24743,4525,2019-03-16,2020-10-19,Exception,Identity,
+71,25609,4344,2012-09-28,2014-05-04,Exception,CIP Exception,Please re-sacn ID Verification
+72,7200,4004,2013-03-12,2014-09-29,Exception,CIP Exception,ID has Expired
+73,3986,26332,2013-11-21,2015-06-07,Exception,CIP Exception,Please re-sacn ID Verification
+74,8134,202,2010-10-17,2012-03-21,Missing,Identity,
+75,11188,717,2014-04-14,2015-10-14,Missing,Identity,
+76,3602,27781,2011-07-28,2012-12-26,Exception,Identity,
+77,16349,11925,2016-10-26,2018-03-14,Missing,CIP Exception,Please re-sacn ID Verification
+78,17380,13790,2011-05-17,2012-12-18,Exception,CIP Exception,Please re-sacn ID Verification
+79,352,4250,2014-02-27,2015-10-02,Exception,Identity,
+80,27503,27541,2011-06-25,2012-11-16,Exception,CIP Exception,ID has Expired
+81,14027,6354,2017-09-18,2019-02-18,Missing,CIP Exception,ID has Expired
+82,5737,11049,2017-07-31,2019-02-23,Missing,Identity,
+83,21812,11225,2011-04-25,2012-09-12,Exception,CIP Exception,ID has Expired
+84,31,5037,2018-10-12,2020-05-06,Exception,CIP Exception,Please re-sacn ID Verification
+85,12714,2584,2016-11-01,2018-05-06,Missing,CIP Exception,Please re-sacn ID Verification
+86,5779,3371,2013-11-23,2015-07-12,Missing,Identity,
+87,12594,8311,2009-12-14,2011-07-15,Missing,Identity,
+88,15989,16229,2013-08-06,2015-01-01,Exception,Identity,
+89,16802,17274,2019-02-02,2020-07-30,Exception,CIP Exception,ID has Expired
+90,28634,8292,2010-10-22,2012-04-02,Missing,Identity,
+91,16181,19117,2017-03-17,2018-09-06,Missing,CIP Exception,Please re-sacn ID Verification
+92,3237,11158,2014-03-04,2015-10-12,Exception,Identity,
+93,22725,22336,2013-06-21,2014-12-01,Missing,Identity,
+94,872,27844,2018-09-01,2020-02-21,Missing,Identity,
+95,21891,22737,2012-11-20,2014-04-09,Missing,Identity,
+96,23303,10767,2011-06-20,2013-01-09,Missing,Identity,
+97,3073,10706,2012-09-24,2014-02-20,Missing,CIP Exception,Please re-sacn ID Verification
+98,15333,11228,2011-03-23,2012-10-29,Exception,Identity,
+99,11870,18134,2010-03-29,2011-10-27,Exception,CIP Exception,ID has Expired
+100,23385,7378,2018-09-17,2020-02-28,Exception,CIP Exception,ID has Expired
+101,668,8612,2013-10-11,2015-03-03,Missing,Identity,
+102,10358,16058,2016-11-03,2018-06-08,Missing,Identity,
+103,8650,10316,2015-04-15,2016-10-12,Missing,Identity,
+104,4724,7325,2012-11-20,2014-07-01,Missing,Identity,
+105,28623,18219,2010-06-11,2012-01-07,Exception,Identity,
+106,19415,2870,2011-12-21,2013-05-09,Missing,Identity,
+107,14643,1659,2013-02-01,2014-06-25,Missing,CIP Exception,ID has Expired
+108,19487,11717,2013-11-11,2015-06-13,Missing,Identity,
+109,27455,23939,2017-11-07,2019-03-23,Missing,Identity,
+110,20787,27719,2019-07-06,2021-01-02,Missing,Identity,
+111,4410,19877,2010-11-19,2012-05-03,Missing,Identity,
+112,4910,22794,2015-09-18,2017-05-09,Exception,Identity,
+113,17514,5470,2014-01-30,2015-09-08,Missing,CIP Exception,Please re-sacn ID Verification
+114,12889,28849,2017-05-23,2018-11-17,Exception,Identity,
+115,19438,25424,2015-02-17,2016-08-18,Exception,Identity,
+116,21945,7637,2015-02-19,2016-08-31,Missing,CIP Exception,Please re-sacn ID Verification
+117,9294,1960,2012-05-10,2013-11-30,Missing,Identity,
+118,13244,18152,2020-01-22,2021-06-27,Missing,CIP Exception,ID has Expired
+119,19593,11986,2010-12-29,2012-06-30,Exception,CIP Exception,Please re-sacn ID Verification
+120,12528,15935,2013-04-01,2014-10-23,Missing,Identity,
+121,19818,10752,2014-11-22,2016-06-19,Missing,CIP Exception,ID has Expired
+122,26388,23997,2017-07-18,2019-01-29,Missing,CIP Exception,Please re-sacn ID Verification
+123,17562,6603,2017-05-17,2018-12-10,Exception,Identity,
+124,26611,2989,2017-08-24,2019-01-11,Exception,Identity,
+125,17401,11446,2011-03-23,2012-09-16,Missing,CIP Exception,Please re-sacn ID Verification
+126,4071,13951,2013-05-21,2014-10-07,Exception,Identity,
+127,26342,498,2014-01-24,2015-08-22,Missing,CIP Exception,ID has Expired
+128,3804,16135,2010-12-10,2012-05-07,Exception,CIP Exception,ID has Expired
+129,6141,13427,2018-08-18,2020-01-11,Missing,Identity,
+130,7113,7854,2010-05-13,2011-10-08,Missing,CIP Exception,Please re-sacn ID Verification
+131,24113,23220,2011-02-23,2012-08-23,Missing,Identity,
+132,9455,4584,2013-12-09,2015-06-12,Missing,Identity,
+133,26669,23609,2011-06-17,2013-01-02,Exception,CIP Exception,ID has Expired
+134,14221,26424,2019-06-24,2021-01-09,Missing,Identity,
+135,12596,12220,2010-09-19,2012-05-05,Exception,CIP Exception,ID has Expired
+136,26504,7914,2016-05-13,2017-12-27,Exception,Identity,
+137,27232,18232,2019-02-13,2020-09-17,Missing,CIP Exception,ID has Expired
+138,15238,27045,2014-03-16,2015-08-21,Missing,Identity,
+139,6447,28099,2014-08-11,2016-01-27,Exception,Identity,
+140,20906,23872,2013-02-20,2014-10-01,Exception,Identity,
+141,6321,18113,2016-04-07,2017-09-14,Exception,Identity,
+142,27576,18788,2011-09-15,2013-03-03,Missing,CIP Exception,Please re-sacn ID Verification
+143,23676,27635,2018-01-28,2019-09-01,Missing,CIP Exception,ID has Expired
+144,19857,7755,2018-09-12,2020-04-21,Exception,Identity,
+145,15689,22715,2011-05-08,2012-12-02,Missing,CIP Exception,Please re-sacn ID Verification
+146,11550,15215,2018-01-22,2019-09-03,Missing,CIP Exception,Please re-sacn ID Verification
+147,21866,27251,2020-01-23,2021-09-07,Missing,CIP Exception,Please re-sacn ID Verification
+148,20750,24490,2019-09-10,2021-04-17,Exception,CIP Exception,Please re-sacn ID Verification
+149,1334,14496,2019-02-24,2020-10-11,Missing,CIP Exception,ID has Expired
+150,6590,13480,2016-03-14,2017-10-24,Missing,Identity,
+151,8213,3541,2013-07-16,2015-01-19,Exception,CIP Exception,Please re-sacn ID Verification
+152,4462,6397,2018-12-20,2020-05-18,Exception,Identity,
+153,23790,20288,2020-06-12,2021-12-15,Missing,Identity,
+154,22612,23948,2017-10-24,2019-04-21,Exception,Identity,
+155,26371,2647,2019-10-06,2021-02-24,Missing,CIP Exception,Please re-sacn ID Verification
+156,14643,16394,2020-04-02,2021-09-25,Missing,CIP Exception,ID has Expired
+157,7582,15794,2016-05-28,2017-10-31,Missing,Identity,
+158,13699,26654,2014-07-10,2015-12-09,Missing,CIP Exception,ID has Expired
+159,28797,18362,2013-10-23,2015-05-17,Exception,CIP Exception,ID has Expired
+160,12852,4337,2019-06-07,2020-12-13,Missing,CIP Exception,Please re-sacn ID Verification
+161,6412,14967,2018-04-23,2019-10-20,Missing,Identity,
+162,16174,4417,2010-01-07,2011-08-06,Exception,CIP Exception,Please re-sacn ID Verification
+163,17208,7366,2010-05-12,2011-10-26,Exception,Identity,
+164,5529,18152,2015-06-25,2017-02-12,Missing,Identity,
+165,22360,4376,2015-05-21,2016-11-09,Exception,Identity,
+166,24931,978,2018-04-16,2019-09-08,Exception,Identity,
+167,24291,18568,2011-05-09,2012-09-24,Exception,CIP Exception,Please re-sacn ID Verification
+168,28869,19262,2012-04-09,2013-10-16,Exception,Identity,
+169,13449,12789,2015-02-18,2016-09-10,Missing,CIP Exception,Please re-sacn ID Verification
+170,3264,22596,2013-05-17,2014-10-12,Exception,Identity,
+171,3513,13877,2017-01-24,2018-07-03,Exception,Identity,
+172,27536,20541,2010-01-11,2011-06-15,Missing,CIP Exception,Please re-sacn ID Verification
+173,9596,22632,2019-07-25,2021-02-11,Exception,CIP Exception,ID has Expired
+174,4965,19850,2010-10-06,2012-03-29,Exception,CIP Exception,Please re-sacn ID Verification
+175,2243,9548,2013-12-08,2015-06-12,Exception,CIP Exception,ID has Expired
+176,14970,21285,2014-03-10,2015-07-28,Exception,Identity,
+177,1967,18112,2012-08-20,2014-01-31,Missing,CIP Exception,ID has Expired
+178,23607,5992,2020-08-22,2022-01-10,Missing,CIP Exception,ID has Expired
+179,14024,3623,2015-07-13,2017-02-11,Missing,CIP Exception,Please re-sacn ID Verification
+180,13137,9847,2010-11-25,2012-05-03,Missing,CIP Exception,ID has Expired
+181,27116,3669,2020-01-24,2021-08-16,Missing,Identity,
+182,19141,25121,2018-03-24,2019-08-07,Missing,Identity,
+183,26101,25191,2013-05-26,2014-11-04,Missing,CIP Exception,ID has Expired
+184,13582,10907,2011-03-19,2012-10-18,Missing,CIP Exception,ID has Expired
+185,17424,24883,2016-10-29,2018-06-05,Exception,CIP Exception,ID has Expired
+186,14838,13473,2018-11-02,2020-05-19,Exception,CIP Exception,ID has Expired
+187,6382,10326,2017-01-11,2018-06-30,Missing,CIP Exception,ID has Expired
+188,13532,14370,2016-09-06,2018-04-20,Exception,Identity,
+189,7707,9628,2019-07-20,2021-02-21,Missing,Identity,
+190,27129,16376,2014-09-11,2016-02-13,Missing,CIP Exception,ID has Expired
+191,4939,15453,2011-09-24,2013-02-12,Exception,Identity,
+192,16457,12263,2010-05-05,2011-10-31,Missing,Identity,
+193,6859,231,2010-11-03,2012-04-26,Exception,CIP Exception,ID has Expired
+194,1623,17258,2016-08-12,2018-03-05,Exception,CIP Exception,Please re-sacn ID Verification
+195,8193,28872,2010-10-02,2012-05-12,Missing,Identity,
+196,7907,3966,2012-01-25,2013-07-10,Exception,CIP Exception,ID has Expired
+197,5709,7134,2011-03-05,2012-08-05,Missing,CIP Exception,Please re-sacn ID Verification
+198,19519,21296,2010-02-02,2011-09-20,Exception,Identity,
+199,18431,27243,2012-06-02,2013-11-03,Exception,Identity,
+200,21361,8399,2020-02-29,2021-07-30,Missing,CIP Exception,Please re-sacn ID Verification
+201,5261,22677,2018-11-11,2020-06-24,Exception,CIP Exception,Please re-sacn ID Verification
+202,16846,4950,2010-02-14,2011-06-30,Exception,Identity,
+203,24494,9937,2019-02-07,2020-08-29,Exception,Identity,
+204,4251,16816,2018-09-26,2020-03-22,Exception,Identity,
+205,16014,25347,2017-05-04,2018-10-16,Exception,CIP Exception,ID has Expired
+206,27720,2512,2018-12-19,2020-06-09,Missing,CIP Exception,ID has Expired
+207,27011,14962,2014-03-23,2015-09-26,Missing,Identity,
+208,7893,8738,2013-08-09,2015-01-22,Missing,Identity,
+209,15807,19003,2016-08-27,2018-03-03,Exception,Identity,
+210,12443,26461,2014-01-04,2015-07-03,Missing,CIP Exception,ID has Expired
+211,24548,7248,2014-05-12,2015-11-27,Exception,CIP Exception,ID has Expired
+212,12057,3214,2012-10-07,2014-02-20,Exception,Identity,
+213,2361,4754,2011-03-02,2012-08-21,Missing,Identity,
+214,23742,24212,2016-05-22,2017-12-24,Exception,Identity,
+215,317,27105,2010-07-20,2012-02-02,Missing,Identity,
+216,7480,28545,2012-04-03,2013-09-29,Missing,CIP Exception,ID has Expired
+217,4810,12442,2012-09-08,2014-02-06,Missing,CIP Exception,Please re-sacn ID Verification
+218,26208,9920,2020-03-29,2021-11-12,Exception,CIP Exception,ID has Expired
+219,20326,24331,2019-12-31,2021-06-06,Exception,Identity,
+220,8867,18740,2017-05-29,2018-12-05,Missing,CIP Exception,Please re-sacn ID Verification
+221,8362,2524,2018-03-09,2019-10-15,Missing,CIP Exception,ID has Expired
+222,7654,4291,2016-10-26,2018-03-26,Exception,CIP Exception,ID has Expired
+223,1974,26830,2019-11-17,2021-05-05,Exception,Identity,
+224,7183,26884,2013-08-21,2015-01-21,Missing,Identity,
+225,19264,2410,2010-11-03,2012-06-09,Missing,Identity,
+226,27112,9652,2011-11-15,2013-05-15,Missing,Identity,
+227,5421,20846,2012-12-01,2014-06-14,Missing,Identity,
+228,1804,24038,2011-09-30,2013-04-15,Exception,Identity,
+229,25302,540,2011-12-26,2013-05-28,Exception,Identity,
+230,18522,26207,2018-04-30,2019-09-24,Exception,CIP Exception,ID has Expired
+231,4271,10685,2014-02-21,2015-09-20,Exception,Identity,
+232,7330,8145,2011-01-11,2012-05-25,Missing,Identity,
+233,5781,23306,2018-01-19,2019-06-18,Exception,Identity,
+234,17013,19997,2011-01-05,2012-08-21,Missing,CIP Exception,ID has Expired
+235,11689,21109,2013-02-16,2014-08-28,Exception,CIP Exception,ID has Expired
+236,15996,6352,2011-01-27,2012-07-14,Exception,CIP Exception,ID has Expired
+237,19667,17370,2018-01-28,2019-09-09,Exception,Identity,
+238,18062,19350,2016-10-08,2018-05-26,Missing,CIP Exception,ID has Expired
+239,28025,26504,2017-08-28,2019-03-28,Exception,Identity,
+240,3590,14728,2014-11-21,2016-05-21,Exception,Identity,
+241,7036,22692,2010-04-29,2011-12-02,Exception,CIP Exception,Please re-sacn ID Verification
+242,2333,27723,2012-10-16,2014-05-06,Exception,Identity,
+243,18212,21880,2014-06-25,2015-12-17,Exception,CIP Exception,Please re-sacn ID Verification
+244,25625,15401,2017-07-02,2019-02-12,Missing,CIP Exception,Please re-sacn ID Verification
+245,12551,19192,2012-12-15,2014-06-07,Missing,Identity,
+246,24383,28403,2015-10-11,2017-03-05,Exception,Identity,
+247,20340,18891,2015-06-29,2017-02-01,Exception,Identity,
+248,19237,12780,2019-01-22,2020-07-23,Missing,CIP Exception,Please re-sacn ID Verification
+249,20144,11158,2018-11-02,2020-05-02,Missing,CIP Exception,Please re-sacn ID Verification
+250,15902,19722,2016-10-07,2018-03-26,Exception,Identity,
+251,19806,6826,2018-09-27,2020-04-20,Exception,Identity,
+252,1469,15930,2012-03-10,2013-09-19,Exception,CIP Exception,Please re-sacn ID Verification
+253,20257,2596,2016-06-24,2017-12-25,Missing,CIP Exception,ID has Expired
+254,5060,23926,2012-12-26,2014-07-04,Missing,Identity,
+255,19157,2173,2018-02-10,2019-07-07,Missing,Identity,
+256,18966,9253,2015-05-26,2016-12-30,Exception,CIP Exception,ID has Expired
+257,20159,21332,2011-03-30,2012-09-30,Missing,CIP Exception,ID has Expired
+258,11958,8121,2014-04-06,2015-10-12,Exception,Identity,
+259,22660,974,2011-12-21,2013-06-23,Exception,CIP Exception,ID has Expired
+260,21972,5989,2020-07-01,2021-12-28,Exception,Identity,
+261,4766,24749,2013-06-17,2014-12-18,Exception,Identity,
+262,4836,20204,2018-03-25,2019-09-16,Missing,Identity,
+263,14080,11255,2009-11-06,2011-04-04,Missing,Identity,
+264,25966,2678,2013-09-19,2015-02-15,Exception,CIP Exception,ID has Expired
+265,18149,9025,2017-10-10,2019-04-05,Exception,CIP Exception,ID has Expired
+266,18744,3740,2017-12-22,2019-08-10,Missing,CIP Exception,Please re-sacn ID Verification
+267,12889,14023,2013-02-27,2014-07-25,Exception,CIP Exception,ID has Expired
+268,18760,2128,2014-02-27,2015-08-18,Missing,Identity,
+269,6278,17739,2012-11-20,2014-07-12,Exception,CIP Exception,Please re-sacn ID Verification
+270,22365,16336,2012-10-28,2014-03-15,Exception,Identity,
+271,15417,11731,2015-05-23,2016-11-18,Missing,Identity,
+272,25930,11593,2019-01-25,2020-08-08,Exception,Identity,
+273,23560,26314,2009-10-21,2011-03-26,Missing,CIP Exception,ID has Expired
+274,26744,22399,2019-04-30,2020-09-26,Exception,CIP Exception,ID has Expired
+275,26971,26413,2018-06-09,2020-01-11,Missing,CIP Exception,ID has Expired
+276,361,16853,2013-05-14,2014-10-14,Missing,Identity,
+277,2575,16876,2013-05-18,2014-10-25,Missing,Identity,
+278,3873,18818,2010-08-23,2012-01-17,Exception,CIP Exception,ID has Expired
+279,3163,3841,2019-06-16,2021-01-04,Missing,CIP Exception,ID has Expired
+280,15871,27668,2020-03-07,2021-09-06,Exception,CIP Exception,ID has Expired
+281,6802,17272,2017-04-04,2018-11-07,Exception,CIP Exception,Please re-sacn ID Verification
+282,2749,267,2014-07-23,2016-01-26,Exception,Identity,
+283,27644,20111,2018-11-09,2020-05-01,Missing,Identity,
+284,123,10540,2011-09-30,2013-04-19,Exception,Identity,
+285,16775,10368,2011-02-25,2012-07-21,Exception,CIP Exception,Please re-sacn ID Verification
+286,1550,9901,2009-11-23,2011-06-18,Exception,Identity,
+287,20541,10456,2011-09-29,2013-03-18,Missing,Identity,
+288,6160,13420,2010-10-02,2012-02-28,Exception,Identity,
+289,6213,24503,2010-02-25,2011-09-05,Missing,CIP Exception,ID has Expired
+290,19980,12604,2011-09-16,2013-05-08,Exception,Identity,
+291,16345,17959,2010-08-31,2012-03-23,Missing,Identity,
+292,23680,6856,2016-12-01,2018-05-28,Missing,Identity,
+293,26457,22165,2011-07-07,2012-12-18,Missing,Identity,
+294,1548,3927,2013-01-22,2014-09-11,Exception,CIP Exception,ID has Expired
+295,17699,24367,2013-10-10,2015-04-17,Missing,Identity,
+296,20215,10372,2014-11-28,2016-06-10,Exception,Identity,
+297,11330,28270,2018-10-21,2020-05-24,Missing,Identity,
+298,14848,14173,2010-02-08,2011-08-18,Exception,CIP Exception,Please re-sacn ID Verification
+299,16946,14844,2016-03-16,2017-10-05,Missing,CIP Exception,Please re-sacn ID Verification
+300,27129,9470,2015-09-27,2017-03-20,Exception,CIP Exception,ID has Expired
+301,14191,7651,2016-10-28,2018-06-09,Exception,Identity,
+302,18802,5388,2013-03-15,2014-10-03,Exception,Identity,
+303,17599,1436,2013-07-13,2015-02-24,Exception,CIP Exception,ID has Expired
+304,22819,9337,2010-07-19,2012-02-17,Missing,CIP Exception,ID has Expired
+305,20262,17144,2011-07-15,2012-12-09,Exception,Identity,
+306,22463,11360,2020-05-13,2021-10-26,Missing,Identity,
+307,10157,20771,2013-12-12,2015-06-15,Exception,Identity,
+308,12731,28961,2015-05-31,2017-01-17,Exception,Identity,
+309,13017,6953,2019-01-25,2020-08-11,Exception,Identity,
+310,13797,7136,2012-10-19,2014-04-18,Missing,CIP Exception,ID has Expired
+311,304,23208,2020-09-20,2022-04-28,Exception,Identity,
+312,21393,1300,2016-09-10,2018-02-20,Missing,CIP Exception,Please re-sacn ID Verification
+313,19993,20977,2011-10-08,2013-05-15,Missing,Identity,
+314,25827,27155,2010-02-02,2011-06-29,Missing,Identity,
+315,5134,9770,2011-08-20,2013-03-17,Missing,Identity,
+316,12716,26959,2015-05-14,2016-11-20,Missing,CIP Exception,ID has Expired
+317,5758,4706,2015-04-26,2016-09-17,Exception,CIP Exception,Please re-sacn ID Verification
+318,23109,20355,2013-01-09,2014-06-30,Exception,Identity,
+319,932,23006,2018-07-10,2019-12-19,Missing,CIP Exception,Please re-sacn ID Verification
+320,627,19790,2020-06-07,2022-01-20,Missing,Identity,
+321,23290,24068,2018-01-15,2019-09-06,Exception,CIP Exception,Please re-sacn ID Verification
+322,21598,8363,2010-03-19,2011-10-19,Exception,CIP Exception,ID has Expired
+323,28657,22269,2020-03-31,2021-10-24,Exception,Identity,
+324,18381,10580,2018-02-10,2019-09-24,Exception,Identity,
+325,25151,7130,2020-07-16,2021-12-01,Exception,CIP Exception,Please re-sacn ID Verification
+326,22944,11786,2011-08-10,2013-03-28,Exception,Identity,
+327,4328,19637,2017-10-10,2019-06-01,Missing,Identity,
+328,798,14496,2014-07-27,2016-02-10,Exception,Identity,
+329,21209,25327,2016-01-02,2017-08-16,Exception,CIP Exception,ID has Expired
+330,8208,22744,2011-04-24,2012-09-09,Missing,CIP Exception,ID has Expired
+331,21471,11642,2020-03-20,2021-09-18,Missing,Identity,
+332,25987,26359,2012-11-05,2014-05-17,Missing,CIP Exception,Please re-sacn ID Verification
+333,2509,9875,2016-06-03,2017-11-27,Missing,Identity,
+334,21932,22239,2017-09-15,2019-01-28,Missing,CIP Exception,ID has Expired
+335,557,22067,2014-07-29,2016-02-29,Missing,CIP Exception,Please re-sacn ID Verification
+336,15754,25404,2013-11-02,2015-06-16,Missing,CIP Exception,Please re-sacn ID Verification
+337,18879,5693,2012-10-29,2014-05-02,Missing,Identity,
+338,27200,20317,2014-09-27,2016-05-08,Exception,Identity,
+339,852,2810,2018-03-14,2019-07-28,Exception,Identity,
+340,19247,14240,2011-10-09,2013-05-06,Exception,CIP Exception,ID has Expired
+341,22971,4757,2018-09-06,2020-03-01,Missing,Identity,
+342,3489,26988,2016-07-23,2017-12-05,Exception,Identity,
+343,15528,10550,2019-09-21,2021-03-03,Exception,Identity,
+344,21985,5717,2011-07-08,2012-12-25,Missing,CIP Exception,Please re-sacn ID Verification
+345,26170,20484,2016-08-07,2018-03-25,Missing,CIP Exception,ID has Expired
+346,786,20563,2017-08-08,2019-01-03,Exception,Identity,
+347,11472,12839,2013-08-25,2015-02-18,Exception,CIP Exception,Please re-sacn ID Verification
+348,28846,5483,2018-10-12,2020-03-25,Missing,Identity,
+349,26833,16916,2017-05-28,2018-12-17,Exception,CIP Exception,ID has Expired
+350,24669,22288,2015-09-08,2017-02-20,Missing,CIP Exception,ID has Expired
+351,902,8467,2010-06-28,2011-12-18,Missing,Identity,
+352,18462,27176,2009-12-05,2011-05-09,Exception,CIP Exception,ID has Expired
+353,23909,4164,2018-10-15,2020-05-14,Missing,Identity,
+354,2639,3678,2010-11-02,2012-05-25,Missing,Identity,
+355,13403,15390,2017-03-18,2018-08-11,Exception,Identity,
+356,21186,20759,2011-02-16,2012-10-06,Missing,Identity,
+357,20544,9883,2016-10-05,2018-05-01,Missing,CIP Exception,ID has Expired
+358,5258,2648,2017-07-25,2018-12-30,Exception,Identity,
+359,18454,23176,2011-03-31,2012-09-10,Missing,CIP Exception,Please re-sacn ID Verification
+360,10804,8898,2010-06-18,2012-01-30,Missing,CIP Exception,ID has Expired
+361,324,24842,2012-04-18,2013-09-22,Missing,CIP Exception,ID has Expired
+362,18764,21166,2018-10-26,2020-05-14,Exception,Identity,
+363,2155,17023,2010-07-27,2011-12-11,Missing,Identity,
+364,26847,9365,2012-12-04,2014-05-29,Exception,CIP Exception,ID has Expired
+365,23251,21827,2012-11-11,2014-04-10,Exception,Identity,
+366,13464,28025,2010-04-19,2011-09-19,Missing,CIP Exception,ID has Expired
+367,24975,15256,2017-12-03,2019-04-26,Missing,Identity,
+368,13512,10974,2019-07-02,2021-02-15,Exception,Identity,
+369,26995,12074,2017-05-10,2018-11-17,Exception,Identity,
+370,17353,28476,2011-05-19,2012-12-13,Missing,CIP Exception,ID has Expired
+371,25346,27075,2017-11-21,2019-06-26,Missing,Identity,
+372,27847,1205,2018-03-08,2019-09-16,Exception,CIP Exception,Please re-sacn ID Verification
+373,3772,28592,2017-08-28,2019-04-19,Missing,CIP Exception,Please re-sacn ID Verification
+374,7556,16671,2013-04-29,2014-11-07,Exception,CIP Exception,ID has Expired
+375,23928,27163,2012-02-26,2013-08-11,Missing,Identity,
+376,14633,231,2016-09-10,2018-03-12,Missing,CIP Exception,ID has Expired
+377,8436,4518,2009-11-13,2011-06-03,Exception,CIP Exception,ID has Expired
+378,18796,2280,2015-09-02,2017-03-09,Missing,CIP Exception,ID has Expired
+379,16636,10101,2012-02-15,2013-09-01,Missing,Identity,
+380,12119,20122,2017-06-10,2019-01-24,Missing,Identity,
+381,4870,4682,2011-08-18,2013-01-02,Exception,Identity,
+382,22635,8380,2012-12-01,2014-05-19,Exception,Identity,
+383,17857,15432,2019-11-30,2021-04-20,Missing,CIP Exception,Please re-sacn ID Verification
+384,19062,17431,2013-11-17,2015-07-09,Missing,Identity,
+385,27463,28192,2015-06-08,2016-11-05,Exception,CIP Exception,ID has Expired
+386,16069,423,2014-01-20,2015-06-06,Missing,Identity,
+387,10266,2954,2014-07-14,2015-12-24,Exception,Identity,
+388,5688,1937,2019-12-11,2021-06-22,Missing,CIP Exception,ID has Expired
+389,24253,26717,2017-03-17,2018-09-22,Exception,CIP Exception,ID has Expired
+390,9045,19536,2011-04-30,2012-12-08,Missing,Identity,
+391,14936,13854,2019-04-30,2020-09-14,Exception,Identity,
+392,15246,8738,2017-03-13,2018-08-02,Exception,Identity,
+393,26215,26189,2014-07-28,2016-03-16,Missing,CIP Exception,Please re-sacn ID Verification
+394,14051,23652,2019-03-27,2020-09-11,Exception,Identity,
+395,19175,22382,2019-12-22,2021-06-14,Missing,Identity,
+396,8456,2164,2011-10-02,2013-02-22,Exception,CIP Exception,ID has Expired
+397,24826,18450,2016-08-26,2018-03-06,Missing,CIP Exception,Please re-sacn ID Verification
+398,17592,14789,2014-11-10,2016-04-12,Exception,CIP Exception,ID has Expired
+399,28231,20507,2010-07-16,2012-01-07,Exception,Identity,
+400,25382,28983,2019-11-16,2021-06-15,Missing,CIP Exception,ID has Expired
+401,15166,21590,2019-07-09,2020-11-29,Exception,CIP Exception,ID has Expired
+402,9581,17091,2015-08-25,2017-01-30,Missing,Identity,
+403,16194,10357,2011-12-27,2013-07-06,Exception,Identity,
+404,21155,13123,2013-03-25,2014-10-08,Missing,Identity,
+405,14915,7539,2014-10-13,2016-04-18,Exception,Identity,
+406,19400,28374,2020-05-10,2021-11-11,Missing,CIP Exception,ID has Expired
+407,2867,10687,2012-11-03,2014-06-08,Exception,CIP Exception,ID has Expired
+408,1158,3324,2012-06-07,2014-01-19,Missing,CIP Exception,ID has Expired
+409,2796,20678,2010-03-08,2011-10-17,Exception,CIP Exception,ID has Expired
+410,2726,13968,2019-04-09,2020-09-12,Exception,Identity,
+411,17027,15484,2016-05-30,2017-12-25,Missing,Identity,
+412,1183,27510,2016-02-28,2017-07-18,Exception,Identity,
+413,13783,4925,2017-03-11,2018-10-01,Exception,Identity,
+414,2294,11570,2019-07-07,2021-02-16,Missing,Identity,
+415,13640,6883,2018-06-03,2019-10-16,Exception,Identity,
+416,4772,21367,2016-04-17,2017-11-01,Exception,Identity,
+417,28719,12152,2015-05-22,2016-11-08,Missing,Identity,
+418,4256,631,2013-10-09,2015-04-01,Exception,CIP Exception,Please re-sacn ID Verification
+419,12778,22399,2011-08-22,2013-04-08,Exception,Identity,
+420,28757,22242,2014-03-27,2015-09-09,Exception,Identity,
+421,21640,7968,2014-10-28,2016-06-17,Missing,Identity,
+422,9642,24729,2010-08-11,2012-02-18,Exception,CIP Exception,Please re-sacn ID Verification
+423,22859,27377,2017-02-10,2018-07-20,Missing,CIP Exception,Please re-sacn ID Verification
+424,5160,16198,2012-12-14,2014-05-20,Exception,CIP Exception,ID has Expired
+425,23290,13327,2016-10-23,2018-05-09,Exception,CIP Exception,Please re-sacn ID Verification
+426,7344,23550,2012-11-28,2014-05-27,Missing,CIP Exception,Please re-sacn ID Verification
+427,3236,3589,2020-09-05,2022-02-25,Missing,Identity,
+428,28346,13103,2014-05-16,2015-11-25,Exception,CIP Exception,ID has Expired
+429,7537,1191,2011-06-16,2013-01-13,Exception,Identity,
+430,9612,28044,2018-05-18,2019-10-09,Missing,Identity,
+431,17635,12358,2011-05-05,2012-10-18,Missing,Identity,
+432,22004,19713,2018-05-12,2019-12-07,Missing,CIP Exception,Please re-sacn ID Verification
+433,18202,28784,2020-09-18,2022-03-14,Exception,CIP Exception,Please re-sacn ID Verification
+434,1540,27675,2013-01-23,2014-08-14,Exception,Identity,
+435,24469,14213,2017-08-02,2019-01-26,Exception,Identity,
+436,5315,11367,2016-03-28,2017-09-01,Missing,Identity,
+437,16688,22566,2010-03-18,2011-10-03,Missing,Identity,
+438,1160,23420,2014-10-12,2016-04-25,Exception,Identity,
+439,12669,1047,2011-11-23,2013-05-09,Missing,CIP Exception,Please re-sacn ID Verification
+440,7555,14177,2012-02-05,2013-08-25,Exception,CIP Exception,Please re-sacn ID Verification
+441,27716,27948,2018-12-24,2020-06-25,Missing,Identity,
+442,23628,9202,2017-08-02,2019-03-05,Exception,CIP Exception,ID has Expired
+443,12869,3556,2019-02-20,2020-07-30,Exception,CIP Exception,ID has Expired
+444,21700,4671,2015-01-27,2016-09-03,Missing,Identity,
+445,2065,13769,2012-08-12,2014-03-31,Exception,CIP Exception,Please re-sacn ID Verification
+446,10210,27773,2018-02-27,2019-08-04,Exception,CIP Exception,Please re-sacn ID Verification
+447,14077,5374,2019-02-05,2020-08-09,Exception,CIP Exception,ID has Expired
+448,2137,15452,2012-06-12,2013-11-16,Exception,Identity,
+449,19290,22795,2016-05-13,2017-10-12,Missing,CIP Exception,ID has Expired
+450,15699,430,2019-06-09,2021-01-18,Exception,CIP Exception,ID has Expired
+451,22790,4525,2013-05-22,2014-12-14,Exception,Identity,
+452,20859,28304,2015-06-29,2017-02-13,Exception,Identity,
+453,13550,19204,2016-05-30,2017-12-13,Exception,Identity,
+454,23311,207,2017-12-13,2019-06-19,Exception,CIP Exception,Please re-sacn ID Verification
+455,14612,7352,2020-07-12,2022-02-24,Exception,CIP Exception,Please re-sacn ID Verification
+456,22015,7759,2018-11-30,2020-06-02,Missing,Identity,
+457,16651,22609,2014-08-21,2016-02-01,Missing,Identity,
+458,27358,15977,2019-04-30,2020-09-28,Missing,CIP Exception,Please re-sacn ID Verification
+459,22282,21785,2010-09-13,2012-03-04,Exception,CIP Exception,ID has Expired
+460,28877,1338,2019-06-20,2020-12-14,Exception,CIP Exception,Please re-sacn ID Verification
+461,6365,26149,2020-08-02,2022-02-01,Missing,CIP Exception,ID has Expired
+462,1099,4949,2012-05-24,2014-01-13,Missing,Identity,
+463,20091,3888,2011-09-08,2013-04-07,Missing,CIP Exception,Please re-sacn ID Verification
+464,10548,14507,2019-02-24,2020-09-23,Exception,Identity,
+465,27780,5326,2019-09-23,2021-04-04,Missing,CIP Exception,Please re-sacn ID Verification
+466,15195,10791,2018-07-03,2020-01-25,Missing,Identity,
+467,11384,24860,2018-06-19,2020-01-20,Missing,Identity,
+468,24916,24353,2018-10-16,2020-05-15,Exception,Identity,
+469,11020,25513,2014-07-17,2016-02-22,Missing,Identity,
+470,23096,16624,2018-08-06,2019-12-25,Missing,CIP Exception,Please re-sacn ID Verification
+471,26355,3235,2013-08-09,2015-01-21,Exception,CIP Exception,ID has Expired
+472,11353,23029,2009-11-03,2011-04-01,Missing,CIP Exception,ID has Expired
+473,16751,26866,2015-03-06,2016-10-05,Exception,CIP Exception,Please re-sacn ID Verification
+474,6184,10189,2016-09-09,2018-03-12,Exception,Identity,
+475,26087,1325,2020-09-03,2022-03-16,Missing,Identity,
+476,15239,6100,2016-07-12,2018-01-21,Exception,Identity,
+477,3292,20054,2020-08-20,2022-03-29,Missing,Identity,
+478,5161,9628,2018-08-05,2019-12-23,Missing,Identity,
+479,2966,15383,2016-01-15,2017-07-28,Exception,Identity,
+480,22194,21653,2011-01-25,2012-06-14,Missing,CIP Exception,Please re-sacn ID Verification
+481,16582,14785,2011-12-03,2013-05-21,Missing,CIP Exception,ID has Expired
+482,25059,28057,2011-03-04,2012-10-08,Exception,Identity,
+483,3989,14571,2011-08-12,2013-02-10,Exception,CIP Exception,ID has Expired
+484,4734,1485,2013-08-15,2015-03-30,Missing,Identity,
+485,13201,5878,2020-07-07,2022-01-12,Exception,CIP Exception,Please re-sacn ID Verification
+486,23265,3554,2020-01-03,2021-06-16,Missing,Identity,
+487,7813,26547,2015-12-10,2017-05-19,Missing,CIP Exception,Please re-sacn ID Verification
+488,14045,5638,2017-07-31,2019-03-19,Missing,CIP Exception,Please re-sacn ID Verification
+489,21757,11636,2018-12-11,2020-06-23,Missing,Identity,
+490,15377,4320,2017-10-26,2019-05-13,Exception,Identity,
+491,23531,26550,2016-07-08,2017-11-28,Exception,CIP Exception,ID has Expired
+492,8788,10964,2019-03-14,2020-08-22,Missing,CIP Exception,Please re-sacn ID Verification
+493,8691,11906,2018-04-07,2019-08-29,Missing,Identity,
+494,15873,11182,2016-07-25,2018-03-16,Missing,Identity,
+495,24101,6210,2011-02-22,2012-08-11,Exception,Identity,
+496,28790,19008,2017-10-27,2019-04-10,Missing,Identity,
+497,24138,3164,2015-04-12,2016-09-28,Exception,CIP Exception,Please re-sacn ID Verification
+498,8838,17101,2010-08-19,2012-04-02,Exception,CIP Exception,Please re-sacn ID Verification
+499,28231,19527,2013-11-28,2015-06-10,Exception,Identity,
+500,14612,28228,2015-03-25,2016-08-20,Missing,CIP Exception,Please re-sacn ID Verification
+501,21803,7084,2017-07-08,2019-01-24,Exception,CIP Exception,Please re-sacn ID Verification
+502,13914,11671,2011-02-01,2012-07-12,Exception,CIP Exception,ID has Expired
+503,16618,23521,2018-01-29,2019-07-31,Exception,Identity,
+504,14667,771,2011-10-13,2013-05-24,Missing,Identity,
+505,24952,8890,2017-09-17,2019-02-27,Missing,Identity,
+506,21293,9484,2011-11-26,2013-07-18,Missing,CIP Exception,ID has Expired
+507,10087,4667,2014-07-30,2016-01-23,Missing,CIP Exception,ID has Expired
+508,7172,26643,2019-10-26,2021-06-07,Exception,CIP Exception,ID has Expired
+509,17286,24557,2019-01-07,2020-08-06,Missing,Identity,
+510,19876,23813,2012-05-04,2013-10-13,Exception,CIP Exception,ID has Expired
+511,11800,2990,2011-09-06,2013-03-19,Missing,Identity,
+512,10821,815,2012-05-03,2013-12-17,Exception,CIP Exception,Please re-sacn ID Verification
+513,18326,21974,2015-03-19,2016-08-20,Exception,Identity,
+514,17007,19724,2017-09-09,2019-04-11,Exception,Identity,
+515,17892,3441,2015-11-04,2017-04-03,Missing,CIP Exception,Please re-sacn ID Verification
+516,21619,19338,2017-02-12,2018-08-25,Missing,CIP Exception,Please re-sacn ID Verification
+517,7318,23804,2018-01-14,2019-07-23,Missing,CIP Exception,ID has Expired
+518,18690,515,2011-03-19,2012-08-22,Exception,CIP Exception,Please re-sacn ID Verification
+519,1318,2137,2020-02-10,2021-09-23,Missing,Identity,
+520,4877,9069,2018-12-15,2020-05-21,Missing,CIP Exception,Please re-sacn ID Verification
+521,21524,15777,2012-07-31,2013-12-27,Exception,Identity,
+522,6026,22733,2020-06-04,2022-01-21,Exception,CIP Exception,ID has Expired
+523,25643,6260,2011-02-07,2012-09-09,Missing,CIP Exception,Please re-sacn ID Verification
+524,15519,11865,2011-09-08,2013-03-10,Exception,CIP Exception,ID has Expired
+525,16516,3078,2012-03-11,2013-10-14,Missing,CIP Exception,ID has Expired
+526,12059,11380,2019-08-23,2021-02-02,Exception,Identity,
+527,10845,6162,2015-03-17,2016-10-02,Missing,CIP Exception,ID has Expired
+528,20124,28303,2018-03-06,2019-09-22,Missing,CIP Exception,Please re-sacn ID Verification
+529,16638,8424,2014-03-03,2015-07-22,Missing,CIP Exception,Please re-sacn ID Verification
+530,10412,27099,2016-08-01,2017-12-29,Missing,Identity,
+531,18827,15466,2018-10-19,2020-03-26,Missing,Identity,
+532,16288,18560,2011-07-27,2013-03-14,Exception,CIP Exception,ID has Expired
+533,12083,5240,2011-02-12,2012-07-07,Missing,Identity,
+534,10812,13386,2019-11-11,2021-05-26,Missing,Identity,
+535,1893,17396,2015-10-03,2017-02-23,Missing,CIP Exception,Please re-sacn ID Verification
+536,23544,22483,2012-07-14,2013-12-25,Missing,CIP Exception,Please re-sacn ID Verification
+537,24975,18092,2010-01-10,2011-07-14,Exception,Identity,
+538,19670,20072,2017-04-01,2018-09-03,Exception,Identity,
+539,5115,19070,2018-06-16,2020-01-27,Exception,Identity,
+540,23936,9074,2016-12-07,2018-05-30,Missing,Identity,
+541,9371,13002,2017-10-13,2019-04-10,Missing,CIP Exception,Please re-sacn ID Verification
+542,4976,12110,2013-07-19,2015-01-03,Missing,CIP Exception,Please re-sacn ID Verification
+543,20640,7332,2013-08-27,2015-01-17,Missing,CIP Exception,ID has Expired
+544,11572,4590,2015-12-11,2017-06-09,Exception,CIP Exception,ID has Expired
+545,18767,17107,2015-08-23,2017-03-30,Exception,CIP Exception,Please re-sacn ID Verification
+546,5982,27165,2013-09-26,2015-04-05,Exception,Identity,
+547,19121,1813,2020-02-24,2021-07-12,Exception,Identity,
+548,8076,10219,2011-02-24,2012-10-10,Missing,CIP Exception,Please re-sacn ID Verification
+549,2805,13183,2012-01-06,2013-06-15,Missing,CIP Exception,ID has Expired
+550,14667,21662,2014-08-28,2016-04-04,Exception,CIP Exception,Please re-sacn ID Verification
+551,23086,23573,2016-06-24,2017-12-04,Missing,CIP Exception,Please re-sacn ID Verification
+552,22944,8745,2017-05-24,2019-01-04,Missing,CIP Exception,ID has Expired
+553,24072,20285,2020-06-29,2021-12-15,Exception,Identity,
+554,27576,8935,2015-10-23,2017-03-27,Missing,Identity,
+555,16068,938,2014-04-17,2015-11-24,Exception,CIP Exception,Please re-sacn ID Verification
+556,27142,17497,2010-09-04,2012-04-15,Exception,Identity,
+557,2386,10897,2020-02-06,2021-06-27,Missing,CIP Exception,Please re-sacn ID Verification
+558,12129,23541,2015-03-11,2016-07-28,Missing,Identity,
+559,430,6288,2017-04-21,2018-09-23,Missing,CIP Exception,Please re-sacn ID Verification
+560,6253,13457,2011-05-18,2012-12-26,Exception,CIP Exception,ID has Expired
+561,4478,9168,2013-10-16,2015-05-25,Missing,Identity,
+562,4477,24432,2015-11-29,2017-06-05,Exception,CIP Exception,Please re-sacn ID Verification
+563,20661,4184,2016-06-13,2018-02-01,Missing,Identity,
+564,6288,21747,2020-04-11,2021-10-23,Exception,Identity,
+565,22762,4744,2011-01-27,2012-08-27,Exception,Identity,
+566,13397,14811,2013-10-10,2015-04-29,Exception,Identity,
+567,9621,24937,2011-04-05,2012-09-15,Exception,Identity,
+568,9395,4964,2010-02-13,2011-07-06,Missing,Identity,
+569,4025,10924,2020-02-25,2021-10-07,Exception,Identity,
+570,16659,27896,2012-11-13,2014-04-16,Exception,Identity,
+571,19456,11218,2016-12-07,2018-07-23,Exception,Identity,
+572,25281,8458,2015-07-30,2017-01-07,Missing,Identity,
+573,10420,13175,2013-07-14,2014-12-29,Exception,CIP Exception,Please re-sacn ID Verification
+574,18172,23067,2019-01-05,2020-06-02,Missing,Identity,
+575,18181,24392,2018-01-09,2019-07-15,Exception,CIP Exception,Please re-sacn ID Verification
+576,2204,13990,2015-05-12,2016-11-25,Exception,Identity,
+577,1100,16416,2012-10-12,2014-04-30,Missing,CIP Exception,Please re-sacn ID Verification
+578,20187,837,2016-12-09,2018-08-01,Exception,Identity,
+579,19708,4938,2012-07-06,2013-11-18,Missing,CIP Exception,ID has Expired
+580,14845,765,2020-03-21,2021-09-19,Missing,CIP Exception,ID has Expired
+581,17045,17110,2018-11-09,2020-05-21,Exception,Identity,
+582,692,5642,2019-02-06,2020-07-05,Exception,CIP Exception,ID has Expired
+583,14290,8234,2016-06-19,2017-12-18,Exception,CIP Exception,ID has Expired
+584,1879,11997,2013-09-04,2015-04-10,Exception,Identity,
+585,17135,2867,2011-12-11,2013-06-07,Exception,Identity,
+586,3153,14786,2014-07-16,2015-12-27,Exception,CIP Exception,ID has Expired
+587,22929,12502,2015-12-14,2017-05-10,Missing,Identity,
+588,1561,27245,2010-12-25,2012-05-29,Missing,CIP Exception,ID has Expired
+589,19316,26384,2012-04-22,2013-10-15,Missing,CIP Exception,Please re-sacn ID Verification
+590,22830,15571,2009-10-13,2011-05-12,Missing,Identity,
+591,11885,24555,2011-05-19,2012-10-11,Exception,CIP Exception,Please re-sacn ID Verification
+592,6985,23502,2014-01-26,2015-09-01,Exception,Identity,
+593,20558,5228,2015-10-03,2017-04-03,Exception,Identity,
+594,19248,13511,2013-11-04,2015-05-27,Missing,CIP Exception,Please re-sacn ID Verification
+595,9039,17754,2016-03-28,2017-09-04,Exception,CIP Exception,Please re-sacn ID Verification
+596,768,27516,2010-03-20,2011-08-15,Missing,CIP Exception,Please re-sacn ID Verification
+597,10614,23704,2014-02-10,2015-08-25,Exception,CIP Exception,ID has Expired
+598,10247,21406,2014-08-04,2016-03-01,Missing,CIP Exception,Please re-sacn ID Verification
+599,5106,2796,2015-11-18,2017-05-30,Exception,Identity,
+600,16474,13852,2016-08-26,2018-02-24,Missing,CIP Exception,Please re-sacn ID Verification
+601,21408,26759,2014-01-04,2015-06-09,Missing,CIP Exception,Please re-sacn ID Verification
+602,28624,16370,2010-01-11,2011-05-27,Missing,Identity,
+603,485,18028,2018-11-13,2020-06-09,Exception,Identity,
+604,24360,18621,2015-04-02,2016-09-25,Missing,CIP Exception,ID has Expired
+605,9779,28043,2009-12-03,2011-04-22,Exception,Identity,
+606,20383,27928,2012-12-26,2014-08-18,Missing,CIP Exception,Please re-sacn ID Verification
+607,9775,1292,2018-09-06,2020-03-03,Missing,CIP Exception,Please re-sacn ID Verification
+608,1900,805,2018-10-28,2020-03-28,Missing,CIP Exception,Please re-sacn ID Verification
+609,3949,23711,2020-01-29,2021-09-19,Exception,CIP Exception,Please re-sacn ID Verification
+610,20802,28630,2019-08-12,2021-03-09,Missing,CIP Exception,Please re-sacn ID Verification
+611,11193,23595,2016-03-16,2017-09-20,Missing,Identity,
+612,2292,9533,2009-10-14,2011-05-07,Exception,CIP Exception,Please re-sacn ID Verification
+613,1267,5197,2013-10-06,2015-03-17,Missing,CIP Exception,ID has Expired
+614,27036,18277,2019-01-04,2020-08-12,Exception,Identity,
+615,5688,25711,2018-03-06,2019-09-27,Exception,CIP Exception,Please re-sacn ID Verification
+616,18113,8286,2020-01-13,2021-08-15,Missing,Identity,
+617,27680,18659,2014-06-03,2015-11-01,Missing,CIP Exception,ID has Expired
+618,14931,9073,2020-04-26,2021-12-14,Missing,Identity,
+619,2915,782,2020-04-10,2021-10-04,Exception,CIP Exception,Please re-sacn ID Verification
+620,20127,12059,2014-05-06,2015-11-01,Exception,Identity,
+621,16497,19957,2010-03-16,2011-09-22,Missing,Identity,
+622,28685,13319,2013-02-10,2014-08-19,Exception,CIP Exception,Please re-sacn ID Verification
+623,24017,6025,2015-05-30,2016-11-26,Missing,Identity,
+624,1482,13235,2019-11-16,2021-05-07,Exception,CIP Exception,ID has Expired
+625,26403,16529,2010-07-19,2012-02-27,Missing,CIP Exception,ID has Expired
+626,25616,3927,2012-07-22,2014-01-03,Missing,Identity,
+627,20497,11525,2018-01-27,2019-06-21,Exception,CIP Exception,Please re-sacn ID Verification
+628,10938,28422,2017-05-22,2018-11-14,Missing,Identity,
+629,11378,5335,2012-06-24,2013-11-12,Exception,Identity,
+630,11134,27641,2018-12-22,2020-07-04,Exception,CIP Exception,ID has Expired
+631,21036,2476,2017-12-31,2019-07-17,Exception,Identity,
+632,18836,5283,2019-01-27,2020-09-14,Missing,Identity,
+633,7381,9755,2020-09-08,2022-03-30,Exception,Identity,
+634,12973,7179,2013-06-17,2014-12-14,Missing,CIP Exception,ID has Expired
+635,27814,24758,2012-12-23,2014-05-22,Exception,Identity,
+636,13289,19778,2010-06-21,2011-11-11,Missing,CIP Exception,Please re-sacn ID Verification
+637,15616,16009,2013-09-26,2015-03-06,Exception,Identity,
+638,22508,510,2015-03-25,2016-10-14,Missing,Identity,
+639,15620,25229,2013-11-05,2015-04-20,Missing,CIP Exception,ID has Expired
+640,1390,28717,2016-08-22,2018-02-11,Exception,Identity,
+641,20040,4612,2017-06-16,2018-11-11,Missing,Identity,
+642,8168,19614,2013-03-31,2014-11-05,Missing,CIP Exception,ID has Expired
+643,6171,19308,2016-08-10,2018-03-11,Missing,Identity,
+644,27793,2037,2020-02-24,2021-07-20,Missing,CIP Exception,Please re-sacn ID Verification
+645,10880,2058,2010-12-25,2012-06-10,Missing,CIP Exception,Please re-sacn ID Verification
+646,14763,28637,2015-06-21,2016-11-04,Exception,Identity,
+647,16023,5966,2012-09-07,2014-01-23,Missing,CIP Exception,Please re-sacn ID Verification
+648,15576,28793,2020-04-06,2021-11-11,Exception,CIP Exception,Please re-sacn ID Verification
+649,13021,4445,2020-01-12,2021-06-08,Missing,Identity,
+650,9621,37,2018-10-06,2020-04-04,Exception,Identity,
+651,13798,11203,2011-03-01,2012-09-23,Exception,CIP Exception,ID has Expired
+652,5814,28351,2016-10-21,2018-05-28,Missing,CIP Exception,Please re-sacn ID Verification
+653,25271,4236,2018-03-06,2019-08-24,Exception,CIP Exception,ID has Expired
+654,10505,13822,2012-12-25,2014-07-18,Exception,CIP Exception,Please re-sacn ID Verification
+655,10904,23386,2009-12-08,2011-07-06,Exception,Identity,
+656,9650,28001,2010-08-25,2012-01-27,Missing,CIP Exception,Please re-sacn ID Verification
+657,9368,4865,2016-10-27,2018-05-25,Missing,Identity,
+658,13492,11027,2012-06-07,2013-12-16,Exception,CIP Exception,Please re-sacn ID Verification
+659,4995,24915,2018-04-09,2019-11-12,Missing,Identity,
+660,1070,9260,2017-08-29,2019-03-10,Missing,CIP Exception,ID has Expired
+661,10729,2333,2010-09-17,2012-02-20,Exception,CIP Exception,ID has Expired
+662,21411,3959,2013-12-16,2015-06-10,Exception,Identity,
+663,20262,20529,2013-09-04,2015-01-24,Missing,CIP Exception,ID has Expired
+664,2222,11758,2016-06-30,2017-12-14,Exception,CIP Exception,ID has Expired
+665,27402,19453,2017-01-26,2018-08-22,Missing,CIP Exception,Please re-sacn ID Verification
+666,14207,13078,2018-03-20,2019-09-15,Missing,CIP Exception,Please re-sacn ID Verification
+667,3771,2290,2015-11-08,2017-04-20,Missing,CIP Exception,ID has Expired
+668,16017,8438,2011-02-20,2012-09-24,Missing,Identity,
+669,4637,24367,2018-09-03,2020-03-31,Missing,Identity,
+670,12243,17738,2019-07-20,2020-12-24,Exception,Identity,
+671,9292,16657,2017-08-30,2019-01-31,Missing,Identity,
+672,2399,14671,2018-10-04,2020-02-20,Exception,CIP Exception,ID has Expired
+673,26931,27213,2013-08-16,2015-03-12,Exception,CIP Exception,ID has Expired
+674,19378,6062,2011-01-20,2012-08-07,Missing,Identity,
+675,18203,6453,2010-07-29,2012-02-13,Exception,CIP Exception,Please re-sacn ID Verification
+676,8952,12513,2014-06-18,2016-01-31,Missing,Identity,
+677,2067,13174,2016-09-04,2018-03-08,Missing,CIP Exception,Please re-sacn ID Verification
+678,23842,8204,2014-04-05,2015-09-14,Exception,Identity,
+679,20532,7561,2014-10-11,2016-04-02,Missing,Identity,
+680,7841,15956,2016-06-26,2017-11-24,Missing,Identity,
+681,25372,13321,2018-12-16,2020-07-20,Exception,Identity,
+682,8271,13393,2018-01-26,2019-08-19,Exception,Identity,
+683,11348,3608,2018-06-19,2020-01-01,Exception,Identity,
+684,10366,8810,2011-04-22,2012-10-06,Missing,Identity,
+685,26256,16053,2016-05-13,2017-12-01,Missing,Identity,
+686,683,6251,2016-10-01,2018-02-17,Exception,Identity,
+687,15905,21156,2016-08-12,2018-03-30,Exception,Identity,
+688,1765,28428,2016-11-19,2018-05-04,Exception,Identity,
+689,6121,816,2017-09-12,2019-05-03,Missing,CIP Exception,ID has Expired
+690,3437,3476,2012-04-30,2013-09-17,Missing,Identity,
+691,20769,28577,2011-01-18,2012-07-09,Missing,CIP Exception,Please re-sacn ID Verification
+692,2692,1373,2011-05-08,2012-10-08,Exception,CIP Exception,Please re-sacn ID Verification
+693,8852,24083,2009-10-16,2011-05-01,Exception,CIP Exception,ID has Expired
+694,12861,8642,2012-10-20,2014-05-09,Missing,Identity,
+695,11233,3113,2012-06-18,2014-01-22,Missing,CIP Exception,Please re-sacn ID Verification
+696,25687,11413,2009-10-22,2011-04-09,Missing,Identity,
+697,5290,19068,2010-05-04,2011-11-04,Exception,Identity,
+698,27335,8146,2020-04-18,2021-11-28,Missing,CIP Exception,ID has Expired
+699,17303,26996,2019-10-17,2021-04-18,Missing,CIP Exception,ID has Expired
+700,28535,15585,2013-05-21,2015-01-07,Exception,Identity,
+701,13639,6161,2013-08-09,2014-12-27,Exception,Identity,
+702,5121,18619,2015-04-19,2016-10-20,Missing,Identity,
+703,3092,22292,2020-03-29,2021-08-22,Missing,Identity,
+704,26210,14736,2010-03-09,2011-10-25,Exception,CIP Exception,Please re-sacn ID Verification
+705,23354,24444,2010-08-11,2012-01-04,Missing,CIP Exception,ID has Expired
+706,23820,14101,2015-09-28,2017-05-15,Missing,Identity,
+707,24703,9614,2020-03-07,2021-07-22,Missing,Identity,
+708,44,23928,2013-12-02,2015-06-27,Exception,CIP Exception,Please re-sacn ID Verification
+709,3122,2800,2020-05-10,2021-12-06,Exception,Identity,
+710,26316,1718,2014-04-15,2015-10-28,Exception,Identity,
+711,5020,5266,2013-02-15,2014-07-17,Missing,Identity,
+712,12031,26002,2013-09-29,2015-04-06,Missing,CIP Exception,ID has Expired
+713,19612,13298,2020-02-13,2021-07-13,Exception,CIP Exception,ID has Expired
+714,13092,17413,2019-05-08,2020-10-28,Missing,Identity,
+715,1708,20163,2014-03-14,2015-08-02,Missing,Identity,
+716,689,28164,2020-07-30,2022-02-11,Exception,CIP Exception,ID has Expired
+717,13476,20847,2018-10-04,2020-05-05,Missing,Identity,
+718,19579,13077,2018-01-19,2019-07-31,Exception,Identity,
+719,19105,15157,2013-04-27,2014-12-11,Missing,CIP Exception,ID has Expired
+720,24885,15062,2019-12-19,2021-07-25,Exception,Identity,
+721,9076,21585,2017-01-17,2018-06-02,Exception,CIP Exception,ID has Expired
+722,9352,3631,2013-07-09,2015-01-07,Missing,Identity,
+723,14870,5255,2020-07-25,2022-03-13,Exception,CIP Exception,ID has Expired
+724,6735,18358,2018-02-24,2019-07-14,Exception,CIP Exception,ID has Expired
+725,22331,4683,2018-05-29,2019-11-21,Exception,CIP Exception,ID has Expired
+726,26813,28372,2010-05-10,2011-12-04,Exception,Identity,
+727,4531,2676,2010-01-29,2011-06-18,Exception,CIP Exception,Please re-sacn ID Verification
+728,14932,3908,2015-02-01,2016-09-06,Missing,CIP Exception,Please re-sacn ID Verification
+729,4378,17022,2012-05-22,2013-11-13,Exception,CIP Exception,Please re-sacn ID Verification
+730,13066,20642,2014-10-08,2016-04-12,Missing,Identity,
+731,25073,27228,2016-03-28,2017-09-28,Missing,Identity,
+732,5152,2782,2018-10-28,2020-05-14,Exception,CIP Exception,ID has Expired
+733,24815,18745,2018-07-23,2019-12-27,Exception,CIP Exception,Please re-sacn ID Verification
+734,22041,27277,2014-01-24,2015-09-15,Exception,Identity,
+735,6034,3748,2016-08-30,2018-03-31,Missing,Identity,
+736,7716,24105,2010-08-24,2012-02-09,Exception,CIP Exception,Please re-sacn ID Verification
+737,16449,19802,2019-11-21,2021-06-19,Exception,CIP Exception,Please re-sacn ID Verification
+738,15168,18019,2019-03-30,2020-10-03,Exception,Identity,
+739,27127,17640,2017-08-11,2019-01-14,Exception,CIP Exception,ID has Expired
+740,24352,25793,2018-01-15,2019-08-31,Exception,CIP Exception,ID has Expired
+741,26522,6854,2019-11-08,2021-05-22,Missing,CIP Exception,ID has Expired
+742,8429,6980,2011-06-13,2012-12-23,Exception,Identity,
+743,16182,1021,2016-04-14,2017-11-04,Exception,CIP Exception,ID has Expired
+744,24814,19949,2020-06-27,2022-01-07,Exception,Identity,
+745,7764,17722,2015-04-12,2016-10-24,Exception,Identity,
+746,1489,18589,2011-01-03,2012-06-25,Missing,Identity,
+747,13258,21541,2015-07-05,2017-02-11,Missing,Identity,
+748,27899,5220,2019-11-21,2021-05-03,Missing,CIP Exception,ID has Expired
+749,23371,18372,2015-07-18,2017-01-28,Missing,CIP Exception,ID has Expired
+750,567,5767,2014-09-12,2016-04-11,Exception,Identity,
+751,20077,23638,2012-05-10,2013-11-07,Missing,Identity,
+752,6814,843,2017-01-11,2018-06-29,Exception,CIP Exception,ID has Expired
+753,11331,16762,2012-03-03,2013-09-03,Exception,Identity,
+754,9407,7307,2013-04-08,2014-11-15,Exception,Identity,
+755,6935,16374,2011-04-17,2012-09-10,Missing,CIP Exception,ID has Expired
+756,1044,16508,2014-01-19,2015-07-13,Missing,Identity,
+757,17365,1731,2010-04-07,2011-11-26,Missing,Identity,
+758,5813,25273,2013-08-29,2015-04-21,Missing,Identity,
+759,13964,7134,2010-08-26,2012-02-08,Missing,Identity,
+760,5474,6879,2011-03-25,2012-11-01,Missing,Identity,
+761,27738,28938,2018-02-08,2019-07-30,Exception,CIP Exception,ID has Expired
+762,13097,14600,2018-02-28,2019-10-15,Exception,CIP Exception,Please re-sacn ID Verification
+763,23277,27249,2012-08-08,2014-03-02,Exception,CIP Exception,Please re-sacn ID Verification
+764,13983,28114,2010-02-19,2011-10-06,Missing,CIP Exception,Please re-sacn ID Verification
+765,21279,8611,2011-12-11,2013-04-27,Missing,Identity,
+766,21146,146,2016-04-20,2017-12-08,Missing,Identity,
+767,2206,25527,2011-04-18,2012-11-11,Exception,CIP Exception,ID has Expired
+768,9038,24627,2017-03-20,2018-10-12,Exception,CIP Exception,ID has Expired
+769,26009,573,2020-02-11,2021-09-02,Missing,CIP Exception,ID has Expired
+770,14230,9884,2017-02-13,2018-07-26,Exception,Identity,
+771,12736,20764,2015-06-11,2016-10-28,Exception,Identity,
+772,10187,14471,2013-08-15,2015-04-01,Missing,Identity,
+773,17405,19150,2011-02-20,2012-07-22,Exception,Identity,
+774,13098,10847,2017-05-09,2018-12-14,Missing,CIP Exception,Please re-sacn ID Verification
+775,3543,12977,2014-06-05,2015-11-27,Missing,CIP Exception,ID has Expired
+776,19936,14141,2014-08-13,2015-12-30,Exception,CIP Exception,Please re-sacn ID Verification
+777,17467,19453,2012-10-15,2014-03-01,Exception,CIP Exception,Please re-sacn ID Verification
+778,23946,21868,2017-05-26,2018-11-24,Missing,Identity,
+779,11585,28155,2017-03-24,2018-10-15,Exception,Identity,
+780,20450,26953,2013-06-10,2014-11-05,Missing,CIP Exception,ID has Expired
+781,11875,27859,2010-11-20,2012-06-10,Exception,CIP Exception,Please re-sacn ID Verification
+782,11256,21965,2017-08-24,2019-03-15,Missing,CIP Exception,ID has Expired
+783,25636,28906,2017-10-09,2019-03-27,Exception,Identity,
+784,90,6779,2016-07-22,2018-01-20,Missing,CIP Exception,ID has Expired
+785,6751,27117,2014-08-23,2016-04-08,Exception,Identity,
+786,5006,4269,2014-11-21,2016-06-04,Exception,Identity,
+787,7526,15083,2020-07-20,2022-02-07,Exception,CIP Exception,Please re-sacn ID Verification
+788,25547,16852,2013-06-05,2015-01-14,Missing,CIP Exception,Please re-sacn ID Verification
+789,16561,23906,2018-06-21,2019-11-09,Exception,CIP Exception,ID has Expired
+790,26337,5695,2010-05-15,2012-01-02,Exception,Identity,
+791,1397,19130,2009-11-28,2011-04-13,Exception,Identity,
+792,18255,3725,2010-05-05,2011-10-19,Missing,CIP Exception,ID has Expired
+793,9238,5182,2009-12-20,2011-05-14,Missing,Identity,
+794,11367,6312,2015-11-10,2017-05-01,Exception,CIP Exception,Please re-sacn ID Verification
+795,12070,3979,2020-07-13,2021-12-09,Exception,Identity,
+796,22221,20148,2018-06-16,2020-01-25,Exception,CIP Exception,ID has Expired
+797,5702,28510,2017-03-23,2018-11-05,Exception,CIP Exception,ID has Expired
+798,8563,21461,2020-08-13,2022-04-04,Missing,CIP Exception,Please re-sacn ID Verification
+799,6453,3858,2010-11-17,2012-06-24,Exception,CIP Exception,ID has Expired
+800,6641,13699,2017-11-03,2019-05-05,Missing,Identity,
+801,17567,4224,2011-01-03,2012-06-05,Exception,Identity,
+802,24334,7145,2020-06-02,2022-01-12,Exception,CIP Exception,Please re-sacn ID Verification
+803,14865,19035,2018-11-19,2020-05-19,Exception,Identity,
+804,3227,21406,2016-05-13,2017-11-08,Missing,Identity,
+805,13758,23369,2014-03-15,2015-10-14,Exception,Identity,
+806,21609,5500,2020-07-07,2022-02-23,Missing,Identity,
+807,7698,23787,2012-07-19,2014-01-13,Missing,CIP Exception,ID has Expired
+808,18255,2155,2018-03-25,2019-09-24,Exception,CIP Exception,Please re-sacn ID Verification
+809,2032,20753,2011-03-21,2012-09-06,Missing,CIP Exception,ID has Expired
+810,2911,16702,2020-07-16,2022-01-30,Exception,CIP Exception,Please re-sacn ID Verification
+811,15108,14864,2019-01-05,2020-07-23,Missing,Identity,
+812,23635,9857,2010-08-04,2012-02-24,Exception,Identity,
+813,14145,27498,2016-05-09,2017-11-02,Missing,Identity,
+814,4294,7857,2013-12-23,2015-06-10,Missing,CIP Exception,Please re-sacn ID Verification
+815,2954,4751,2015-07-27,2017-01-17,Missing,CIP Exception,ID has Expired
+816,9118,15577,2013-08-16,2015-02-20,Exception,Identity,
+817,4219,20171,2012-12-20,2014-06-20,Missing,Identity,
+818,26193,7991,2019-03-27,2020-10-20,Missing,Identity,
+819,25770,18452,2017-08-23,2019-01-10,Missing,Identity,
+820,26159,5092,2018-12-12,2020-05-27,Exception,Identity,
+821,3943,22309,2013-06-24,2014-12-15,Exception,Identity,
+822,4332,23552,2017-11-20,2019-04-28,Missing,CIP Exception,Please re-sacn ID Verification
+823,10966,28660,2018-04-04,2019-10-24,Missing,CIP Exception,Please re-sacn ID Verification
+824,3444,26665,2010-11-21,2012-04-22,Exception,Identity,
+825,18567,7724,2015-01-31,2016-07-08,Missing,CIP Exception,Please re-sacn ID Verification
+826,15583,26489,2015-02-02,2016-08-18,Missing,Identity,
+827,14789,9195,2012-09-06,2014-03-04,Missing,Identity,
+828,26737,14109,2016-01-06,2017-08-11,Exception,Identity,
+829,23991,1020,2010-11-11,2012-03-29,Missing,CIP Exception,ID has Expired
+830,25696,5495,2014-06-23,2015-11-25,Missing,Identity,
+831,25229,10574,2011-08-27,2013-03-19,Missing,Identity,
+832,22219,19012,2012-03-15,2013-10-28,Exception,Identity,
+833,16101,8979,2013-07-30,2015-01-09,Exception,CIP Exception,Please re-sacn ID Verification
+834,15600,20362,2012-08-03,2014-03-07,Exception,CIP Exception,Please re-sacn ID Verification
+835,27607,17518,2016-09-16,2018-03-18,Missing,CIP Exception,Please re-sacn ID Verification
+836,26161,12347,2019-07-27,2021-02-14,Missing,CIP Exception,ID has Expired
+837,18563,7869,2013-04-04,2014-08-20,Missing,CIP Exception,Please re-sacn ID Verification
+838,13528,1783,2018-12-14,2020-07-13,Missing,CIP Exception,Please re-sacn ID Verification
+839,13720,12368,2020-09-20,2022-05-05,Exception,CIP Exception,ID has Expired
+840,15985,23051,2014-04-28,2015-10-30,Exception,CIP Exception,ID has Expired
+841,4120,26828,2020-04-09,2021-08-22,Missing,Identity,
+842,16470,16679,2019-05-08,2020-12-15,Missing,Identity,
+843,9587,11373,2016-08-25,2018-01-19,Exception,CIP Exception,ID has Expired
+844,15934,20508,2017-07-30,2019-03-12,Missing,CIP Exception,ID has Expired
+845,15432,19175,2015-11-18,2017-06-07,Exception,CIP Exception,ID has Expired
+846,21771,27841,2018-10-07,2020-05-28,Missing,Identity,
+847,16208,11991,2014-10-12,2016-04-23,Exception,CIP Exception,Please re-sacn ID Verification
+848,660,5525,2012-12-12,2014-07-14,Exception,CIP Exception,ID has Expired
+849,10984,7895,2018-12-18,2020-07-20,Exception,Identity,
+850,12776,7599,2016-04-06,2017-09-11,Missing,Identity,
+851,1872,7762,2020-06-21,2022-01-10,Exception,Identity,
+852,25189,3705,2012-09-26,2014-03-29,Exception,CIP Exception,Please re-sacn ID Verification
+853,27924,20485,2011-09-27,2013-04-28,Missing,Identity,
+854,14194,15615,2010-11-26,2012-05-08,Exception,CIP Exception,Please re-sacn ID Verification
+855,20630,11561,2010-11-11,2012-04-07,Exception,Identity,
+856,14983,110,2010-10-13,2012-03-25,Exception,CIP Exception,ID has Expired
+857,27782,5362,2016-01-21,2017-06-24,Exception,CIP Exception,Please re-sacn ID Verification
+858,18267,23144,2016-03-09,2017-08-27,Exception,CIP Exception,Please re-sacn ID Verification
+859,9548,11657,2011-04-11,2012-10-12,Exception,CIP Exception,ID has Expired
+860,20938,7150,2011-12-22,2013-07-04,Missing,CIP Exception,ID has Expired
+861,13598,13624,2016-04-22,2017-12-13,Missing,CIP Exception,ID has Expired
+862,28624,22952,2020-03-12,2021-08-05,Missing,CIP Exception,ID has Expired
+863,22526,3028,2010-04-13,2011-10-11,Exception,CIP Exception,ID has Expired
+864,24223,13295,2011-05-18,2012-11-07,Missing,Identity,
+865,6466,25213,2011-09-19,2013-03-02,Missing,CIP Exception,ID has Expired
+866,28881,14616,2018-10-22,2020-03-29,Missing,Identity,
+867,19452,17544,2012-08-09,2014-01-01,Exception,Identity,
+868,26166,16003,2015-05-06,2016-10-24,Exception,CIP Exception,ID has Expired
+869,21602,25420,2016-09-29,2018-05-12,Missing,Identity,
+870,8838,10430,2012-11-22,2014-05-02,Exception,Identity,
+871,26359,22019,2014-02-01,2015-07-01,Missing,CIP Exception,Please re-sacn ID Verification
+872,22702,6501,2014-11-13,2016-06-05,Exception,Identity,
+873,22364,8707,2012-09-16,2014-04-13,Exception,Identity,
+874,20306,21502,2019-04-25,2020-09-24,Exception,CIP Exception,Please re-sacn ID Verification
+875,26067,6716,2014-09-25,2016-04-01,Missing,CIP Exception,Please re-sacn ID Verification
+876,3346,27880,2014-03-20,2015-09-18,Exception,Identity,
+877,28344,12901,2013-07-06,2015-01-23,Exception,Identity,
+878,17805,13070,2012-09-05,2014-02-23,Missing,CIP Exception,Please re-sacn ID Verification
+879,7883,18305,2011-04-01,2012-09-26,Exception,Identity,
+880,28137,11737,2011-05-01,2012-11-12,Missing,Identity,
+881,3860,15448,2016-09-01,2018-04-01,Exception,Identity,
+882,14991,5458,2016-08-09,2018-03-15,Exception,CIP Exception,Please re-sacn ID Verification
+883,12940,342,2011-02-09,2012-08-06,Exception,Identity,
+884,3668,5323,2016-02-26,2017-09-23,Exception,Identity,
+885,12033,18533,2012-02-05,2013-08-25,Missing,Identity,
+886,13407,2845,2014-03-25,2015-10-20,Missing,CIP Exception,Please re-sacn ID Verification
+887,22666,15471,2015-06-25,2017-01-15,Missing,CIP Exception,ID has Expired
+888,3201,18884,2017-01-14,2018-09-05,Missing,CIP Exception,ID has Expired
+889,27929,22715,2012-08-23,2014-03-15,Missing,Identity,
+890,1289,28014,2015-12-07,2017-07-23,Exception,CIP Exception,ID has Expired
+891,2312,17090,2012-03-21,2013-08-06,Missing,CIP Exception,Please re-sacn ID Verification
+892,22617,26979,2017-03-30,2018-11-20,Missing,CIP Exception,ID has Expired
+893,26950,2672,2012-12-06,2014-06-30,Missing,Identity,
+894,17105,518,2019-02-16,2020-09-27,Exception,CIP Exception,Please re-sacn ID Verification
+895,1004,20696,2016-03-10,2017-10-07,Exception,Identity,
+896,2487,28248,2018-06-27,2019-11-25,Exception,Identity,
+897,20442,7375,2016-02-19,2017-08-30,Missing,CIP Exception,Please re-sacn ID Verification
+898,19526,8678,2017-01-27,2018-09-16,Exception,Identity,
+899,22655,47,2013-09-28,2015-04-21,Missing,CIP Exception,Please re-sacn ID Verification
+900,8748,14029,2020-06-14,2022-01-29,Missing,Identity,
+901,4928,18878,2017-07-17,2019-01-26,Missing,CIP Exception,ID has Expired
+902,27979,24544,2019-06-17,2021-01-29,Exception,Identity,
+903,20096,1070,2010-11-07,2012-05-13,Exception,Identity,
+904,24516,10690,2018-04-24,2019-12-12,Missing,CIP Exception,ID has Expired
+905,7852,2251,2019-08-22,2021-03-13,Missing,CIP Exception,Please re-sacn ID Verification
+906,3222,1475,2018-05-13,2019-12-25,Exception,Identity,
+907,3203,24490,2015-03-25,2016-11-05,Missing,CIP Exception,ID has Expired
+908,9994,18892,2015-02-26,2016-09-11,Missing,CIP Exception,Please re-sacn ID Verification
+909,25325,20248,2010-10-24,2012-04-18,Missing,Identity,
+910,20176,483,2018-11-30,2020-07-09,Exception,CIP Exception,ID has Expired
+911,17697,14886,2018-05-25,2019-12-02,Missing,CIP Exception,Please re-sacn ID Verification
+912,137,10445,2014-10-02,2016-05-06,Exception,CIP Exception,Please re-sacn ID Verification
+913,16327,18704,2012-07-02,2014-02-11,Exception,CIP Exception,ID has Expired
+914,8272,24745,2018-07-09,2020-02-17,Exception,Identity,
+915,25317,14869,2020-08-21,2022-02-25,Missing,CIP Exception,ID has Expired
+916,28717,15044,2015-11-24,2017-04-07,Missing,Identity,
+917,14350,10819,2015-01-26,2016-07-18,Exception,Identity,
+918,26241,9931,2011-12-28,2013-07-10,Exception,Identity,
+919,24163,2023,2010-09-15,2012-04-26,Missing,CIP Exception,ID has Expired
+920,13433,6418,2012-01-11,2013-07-22,Exception,CIP Exception,Please re-sacn ID Verification
+921,27969,26183,2011-08-17,2013-02-14,Exception,Identity,
+922,6128,3467,2020-06-18,2022-01-17,Exception,Identity,
+923,13856,19944,2013-07-03,2015-01-14,Missing,CIP Exception,ID has Expired
+924,8525,14197,2013-05-19,2014-11-28,Exception,Identity,
+925,4398,16731,2018-07-10,2020-02-18,Exception,CIP Exception,Please re-sacn ID Verification
+926,14275,263,2014-12-28,2016-05-22,Exception,Identity,
+927,1341,1217,2018-12-18,2020-06-15,Exception,Identity,
+928,3968,19425,2017-04-17,2018-11-20,Exception,Identity,
+929,11653,4722,2011-04-28,2012-10-02,Exception,Identity,
+930,1818,18166,2011-01-22,2012-06-18,Exception,Identity,
+931,12638,4448,2012-08-05,2014-01-09,Missing,CIP Exception,Please re-sacn ID Verification
+932,3499,1884,2019-04-28,2020-12-13,Exception,Identity,
+933,14532,8266,2012-04-24,2013-12-03,Missing,CIP Exception,ID has Expired
+934,12793,14787,2014-12-13,2016-06-04,Exception,Identity,
+935,25463,2498,2011-09-26,2013-02-23,Missing,Identity,
+936,18473,19841,2019-03-04,2020-08-20,Missing,CIP Exception,Please re-sacn ID Verification
+937,12256,26310,2019-08-12,2021-01-26,Exception,Identity,
+938,22267,23310,2014-08-18,2016-03-12,Missing,Identity,
+939,19081,16907,2016-02-13,2017-10-02,Exception,CIP Exception,ID has Expired
+940,8506,22669,2011-05-03,2012-11-03,Missing,Identity,
+941,3190,1251,2019-03-13,2020-10-10,Missing,Identity,
+942,14303,16759,2011-12-13,2013-07-29,Missing,CIP Exception,Please re-sacn ID Verification
+943,1685,19484,2016-05-21,2017-10-03,Missing,CIP Exception,Please re-sacn ID Verification
+944,14356,8075,2014-02-06,2015-09-20,Exception,CIP Exception,Please re-sacn ID Verification
+945,20374,4378,2019-08-10,2021-01-30,Missing,Identity,
+946,16045,8531,2017-02-26,2018-07-15,Missing,CIP Exception,Please re-sacn ID Verification
+947,14941,10981,2016-12-21,2018-08-12,Exception,CIP Exception,Please re-sacn ID Verification
+948,25775,25786,2020-03-29,2021-08-18,Exception,Identity,
+949,28689,27815,2016-11-29,2018-06-22,Missing,Identity,
+950,25354,8177,2011-07-14,2013-02-07,Missing,CIP Exception,Please re-sacn ID Verification
+951,24392,23236,2018-01-14,2019-08-02,Exception,Identity,
+952,12863,18235,2012-10-01,2014-05-19,Missing,Identity,
+953,9527,23415,2019-06-28,2020-11-09,Exception,Identity,
+954,16919,3584,2014-05-11,2015-11-24,Exception,Identity,
+955,11693,27812,2009-10-30,2011-06-19,Missing,CIP Exception,Please re-sacn ID Verification
+956,25948,3670,2010-11-25,2012-07-10,Exception,Identity,
+957,27717,20015,2019-11-01,2021-05-08,Missing,Identity,
+958,11445,22307,2016-07-09,2018-02-09,Missing,CIP Exception,Please re-sacn ID Verification
+959,7105,4507,2011-01-06,2012-08-07,Missing,Identity,
+960,4893,17776,2015-04-22,2016-09-07,Exception,CIP Exception,Please re-sacn ID Verification
+961,12775,16360,2013-02-10,2014-09-12,Missing,Identity,
+962,6485,26925,2016-09-22,2018-03-07,Missing,CIP Exception,ID has Expired
+963,18377,15538,2017-02-26,2018-09-15,Exception,Identity,
+964,19037,19797,2015-06-21,2017-01-24,Exception,Identity,
+965,18974,23506,2018-06-04,2020-01-09,Missing,CIP Exception,ID has Expired
+966,20158,17889,2015-06-19,2017-01-02,Missing,CIP Exception,Please re-sacn ID Verification
+967,13658,16680,2020-06-09,2021-12-04,Missing,CIP Exception,Please re-sacn ID Verification
+968,6879,4841,2018-05-09,2019-12-16,Exception,Identity,
+969,10113,18051,2012-07-22,2014-01-21,Exception,CIP Exception,ID has Expired
+970,7169,7797,2010-04-12,2011-10-16,Exception,Identity,
+971,24910,24340,2018-01-11,2019-08-18,Missing,Identity,
+972,15556,3593,2012-08-04,2014-01-21,Missing,CIP Exception,Please re-sacn ID Verification
+973,16932,7374,2013-03-16,2014-10-14,Missing,Identity,
+974,20523,468,2020-02-26,2021-09-18,Missing,Identity,
+975,21757,13450,2020-09-06,2022-03-20,Exception,CIP Exception,ID has Expired
+976,26144,22150,2012-01-19,2013-08-04,Exception,CIP Exception,Please re-sacn ID Verification
+977,1220,1137,2014-10-03,2016-03-13,Missing,CIP Exception,Please re-sacn ID Verification
+978,13682,5578,2014-07-08,2016-01-13,Exception,Identity,
+979,20236,8802,2017-09-30,2019-02-14,Missing,CIP Exception,Please re-sacn ID Verification
+980,8790,12418,2013-08-29,2015-02-20,Exception,CIP Exception,ID has Expired
+981,27159,8446,2018-07-07,2020-02-02,Missing,Identity,
+982,7719,6380,2014-07-12,2016-02-26,Missing,Identity,
+983,3770,18328,2011-08-29,2013-02-27,Exception,CIP Exception,Please re-sacn ID Verification
+984,5541,440,2013-10-28,2015-04-10,Exception,CIP Exception,ID has Expired
+985,19221,2492,2015-08-01,2016-12-13,Missing,Identity,
+986,15263,15353,2017-07-13,2019-01-04,Exception,CIP Exception,ID has Expired
+987,4997,23583,2020-03-07,2021-08-07,Missing,Identity,
+988,3601,9370,2010-03-07,2011-08-27,Exception,CIP Exception,Please re-sacn ID Verification
+989,15914,7357,2015-11-12,2017-05-22,Exception,Identity,
+990,11388,7538,2012-05-15,2013-10-09,Missing,CIP Exception,ID has Expired
+991,11876,5177,2010-07-15,2012-02-29,Missing,CIP Exception,ID has Expired
+992,25244,12112,2010-05-15,2011-11-09,Missing,CIP Exception,Please re-sacn ID Verification
+993,4204,7935,2019-06-23,2020-11-19,Exception,CIP Exception,ID has Expired
+994,20546,28274,2014-03-08,2015-08-18,Exception,CIP Exception,Please re-sacn ID Verification
+995,23275,25879,2013-10-29,2015-03-24,Exception,Identity,
+996,16302,13943,2009-10-16,2011-06-03,Missing,CIP Exception,Please re-sacn ID Verification
+997,17473,4804,2013-07-05,2015-02-13,Missing,Identity,
+998,16505,12287,2011-06-23,2012-11-21,Missing,Identity,
+999,23132,20326,2018-06-08,2020-01-27,Exception,Identity,
+1000,26663,1989,2019-01-17,2020-07-17,Missing,Identity,
